@@ -12,13 +12,6 @@ ARXIV LINK
 
 VECTOR PAPER LINK
 
-## Submissions
-**ICML 2021** LINK HERE
-
-**NEURIPS** LINK HERE
-- Submission currently in progress
-
-
 ## About the authors
 Chris Harris - chrisharriscjh@gmail.com
 
