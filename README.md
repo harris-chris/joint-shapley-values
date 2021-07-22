@@ -8,14 +8,15 @@ The `datasets` folder contains datasets used in the notebooks:
   - `rt-polaritydata` contains the Rotten Tomatoes data. This is divided into positive reviews (`*.pos`) and negative reviews (`*.neg`). The 'mangled' suffix indicates that the order of the reviews has been scrambled. 
 
 ## Related materials
-<link to vector institute paper>
+ARXIV LINK 
 
-<link to arxiv>
+VECTOR PAPER LINK
 
 ## Submissions
-**ICML 2021** <link>
+**ICML 2021** LINK HERE
 
-**NEURIPS** <link>
+**NEURIPS** LINK HERE
+- Submission currently in progress
 
 
 ## About the authors
