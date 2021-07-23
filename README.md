@@ -4,13 +4,10 @@
 
 ## Repo Contents
 The [Rotten Tomatoes Walkthrough](./rotten-tomatoes-walkthrough.ipynb) Jupyter notebook is a walk-through of the Joint Shapley methodology described in the associated paper, using the [Rotten Tomatoes movie review database](https://www.cs.cornell.edu/people/pabo/movie-review-data/).
+The [Boston Housing Dataset Walkthrough](./boston-housing-walkthrough.ipynb) offers a similar approach, but for the Boston housing dataset.
 The `datasets` folder contains datasets used in the notebooks:
   - `rt-polaritydata` contains the Rotten Tomatoes data. This is divided into positive reviews (`*.pos`) and negative reviews (`*.neg`). The 'mangled' suffix indicates that the order of the reviews has been scrambled. 
-
-## Related materials
-ARXIV LINK 
-
-VECTOR PAPER LINK
+The `presentations` folder holds presentation materials regarding the Joint Shapley approach.
 
 ## About the authors
 Chris Harris - chrisharriscjh@gmail.com
