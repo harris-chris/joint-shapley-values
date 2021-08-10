@@ -1954,3 +1954,2934 @@ k = 2, coalition [269]: local jShapley = -0.00018541913654316318
 k = 2, coalition [1003]: local jShapley = -2.1987921081360138e-05
 k = 2, coalition [455]: local jShapley = 0.0012439561180846988
 k = 2, coalition [848]: local jShapley = -0.0002486395642537836
+test_reviews_vc[num_review] = [44, 101, 434, 447, 677, 860, 946]
+loop number = 0
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 2.0844652125158627e-06
+k = 2, coalition [3, 174]: local jShapley = -5.693480144973336e-06
+k = 2, coalition [269, 1003]: local jShapley = -2.2066448985002e-09
+k = 2, coalition [455, 848]: local jShapley = -9.325139738180659e-07
+k = 2, coalition [209]: local jShapley = 3.785249516173182e-05
+k = 2, coalition [978]: local jShapley = -0.00012111529364292837
+k = 2, coalition [101]: local jShapley = 0.00027799190264485253
+k = 2, coalition [434]: local jShapley = 6.255543611545206e-05
+k = 2, coalition [3]: local jShapley = -3.147081039727472e-05
+k = 2, coalition [174]: local jShapley = -4.915155268635647e-06
+k = 2, coalition [269]: local jShapley = -0.00015855013280343668
+k = 2, coalition [1003]: local jShapley = -0.00010834254241907142
+k = 2, coalition [455]: local jShapley = 0.0006745290262471385
+k = 2, coalition [848]: local jShapley = -0.0003012398280010901
+loop number = 1
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 3.2804667475029714e-09
+k = 2, coalition [3, 174]: local jShapley = 2.3600480197863105e-11
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 8.731603184900221e-05
+k = 2, coalition [978]: local jShapley = -0.0001236285644299517
+k = 2, coalition [101]: local jShapley = 0.0001074155456705932
+k = 2, coalition [434]: local jShapley = 4.570591199829678e-06
+k = 2, coalition [3]: local jShapley = 3.0703728903502223e-09
+k = 2, coalition [174]: local jShapley = 0.0
+k = 2, coalition [269]: local jShapley = -0.00029401669048840536
+k = 2, coalition [1003]: local jShapley = 0.0
+k = 2, coalition [455]: local jShapley = 0.0005922638857349663
+k = 2, coalition [848]: local jShapley = -0.0005918093426149905
+loop number = 2
+k = 2, coalition [209, 978]: local jShapley = -7.97696230687773e-09
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = -1.498630492564307e-09
+k = 2, coalition [269, 1003]: local jShapley = -3.0680624257222037e-10
+k = 2, coalition [455, 848]: local jShapley = 2.909165112646031e-05
+k = 2, coalition [209]: local jShapley = 3.638118953030316e-05
+k = 2, coalition [978]: local jShapley = -0.00017608733515989459
+k = 2, coalition [101]: local jShapley = 0.0002473624597076696
+k = 2, coalition [434]: local jShapley = 0.0001220783246288003
+k = 2, coalition [3]: local jShapley = -5.4063722870237614e-05
+k = 2, coalition [174]: local jShapley = 0.0
+k = 2, coalition [269]: local jShapley = -6.434495178171118e-05
+k = 2, coalition [1003]: local jShapley = -9.024874968810173e-05
+k = 2, coalition [455]: local jShapley = 0.0006837296544774806
+k = 2, coalition [848]: local jShapley = -0.000304335360891514
+loop number = 3
+k = 2, coalition [209, 978]: local jShapley = -4.720096039572621e-11
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = 1.3947883796937095e-08
+k = 2, coalition [269, 1003]: local jShapley = -3.225294724920417e-06
+k = 2, coalition [455, 848]: local jShapley = -1.545359443356076e-07
+k = 2, coalition [209]: local jShapley = 5.168461032089541e-05
+k = 2, coalition [978]: local jShapley = -5.211642415266883e-05
+k = 2, coalition [101]: local jShapley = 8.953002656735225e-05
+k = 2, coalition [434]: local jShapley = 5.433809480324474e-05
+k = 2, coalition [3]: local jShapley = 1.5018728993148113e-05
+k = 2, coalition [174]: local jShapley = -6.52574495470961e-05
+k = 2, coalition [269]: local jShapley = -0.0005116378126174258
+k = 2, coalition [1003]: local jShapley = -1.7646115305929472e-07
+k = 2, coalition [455]: local jShapley = 0.0002727507761210247
+k = 2, coalition [848]: local jShapley = -2.413654244358647e-08
+loop number = 4
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 2.3529135946224965e-05
+k = 2, coalition [3, 174]: local jShapley = 3.988481153438865e-09
+k = 2, coalition [269, 1003]: local jShapley = -3.812563174043993e-06
+k = 2, coalition [455, 848]: local jShapley = -2.865337840894589e-05
+k = 2, coalition [209]: local jShapley = 1.365846851458712e-05
+k = 2, coalition [978]: local jShapley = -0.00024504970132801325
+k = 2, coalition [101]: local jShapley = 0.0004649859699044936
+k = 2, coalition [434]: local jShapley = 8.008214803120124e-05
+k = 2, coalition [3]: local jShapley = 3.4736151966162183e-06
+k = 2, coalition [174]: local jShapley = -5.326525534247487e-05
+k = 2, coalition [269]: local jShapley = -0.00024004473765233488
+k = 2, coalition [1003]: local jShapley = -7.940188985971698e-05
+k = 2, coalition [455]: local jShapley = 5.970169509014321e-10
+k = 2, coalition [848]: local jShapley = -0.00047139255880461695
+loop number = 5
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 2.888698776218444e-08
+k = 2, coalition [3, 174]: local jShapley = 7.15094549995252e-08
+k = 2, coalition [269, 1003]: local jShapley = -5.236946555905823e-08
+k = 2, coalition [455, 848]: local jShapley = -1.3327545174936263e-06
+k = 2, coalition [209]: local jShapley = 1.4444398686380933e-06
+k = 2, coalition [978]: local jShapley = -0.00018221980799141825
+k = 2, coalition [101]: local jShapley = 0.0004117045098162086
+k = 2, coalition [434]: local jShapley = 9.282001640749836e-05
+k = 2, coalition [3]: local jShapley = -6.739937579065875e-05
+k = 2, coalition [174]: local jShapley = -1.8454518901517932e-05
+k = 2, coalition [269]: local jShapley = -0.0007810522874405416
+k = 2, coalition [1003]: local jShapley = -5.672334809836765e-05
+k = 2, coalition [455]: local jShapley = 0.0
+k = 2, coalition [848]: local jShapley = -0.00047545696491821805
+loop number = 6
+k = 2, coalition [209, 978]: local jShapley = -2.3600480197863105e-11
+k = 2, coalition [101, 434]: local jShapley = 3.6768368124260827e-07
+k = 2, coalition [3, 174]: local jShapley = -1.1800240098931553e-11
+k = 2, coalition [269, 1003]: local jShapley = -3.039151837479821e-07
+k = 2, coalition [455, 848]: local jShapley = -6.973941898468548e-09
+k = 2, coalition [209]: local jShapley = 8.296420471760998e-05
+k = 2, coalition [978]: local jShapley = -1.0391165318575269e-05
+k = 2, coalition [101]: local jShapley = 0.0004916544612368531
+k = 2, coalition [434]: local jShapley = 5.315702469809003e-05
+k = 2, coalition [3]: local jShapley = -4.32010847367219e-05
+k = 2, coalition [174]: local jShapley = -0.0001247668198909132
+k = 2, coalition [269]: local jShapley = -0.0002861309494483559
+k = 2, coalition [1003]: local jShapley = -9.064909219774906e-05
+k = 2, coalition [455]: local jShapley = 0.0004133935560584446
+k = 2, coalition [848]: local jShapley = 0.0
+loop number = 7
+k = 2, coalition [209, 978]: local jShapley = -3.7206157031931186e-08
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -2.960326233618958e-07
+k = 2, coalition [455, 848]: local jShapley = 4.694683042495562e-05
+k = 2, coalition [209]: local jShapley = 7.137994366672612e-05
+k = 2, coalition [978]: local jShapley = -0.00012704162505011932
+k = 2, coalition [101]: local jShapley = 0.0013030741864612679
+k = 2, coalition [434]: local jShapley = 0.00013608174100880466
+k = 2, coalition [3]: local jShapley = -4.318530643159093e-05
+k = 2, coalition [174]: local jShapley = -6.804210718237206e-05
+k = 2, coalition [269]: local jShapley = -0.00014586701941035084
+k = 2, coalition [1003]: local jShapley = -2.403564657888413e-05
+k = 2, coalition [455]: local jShapley = 0.0008018345754336242
+k = 2, coalition [848]: local jShapley = -2.8094167811112065e-05
+loop number = 8
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 3.776076831658097e-10
+k = 2, coalition [3, 174]: local jShapley = -1.1540634816755058e-08
+k = 2, coalition [269, 1003]: local jShapley = -4.2782041884198615e-05
+k = 2, coalition [455, 848]: local jShapley = 2.819195362035737e-07
+k = 2, coalition [209]: local jShapley = 1.5132247501955227e-05
+k = 2, coalition [978]: local jShapley = -1.8096095510637465e-05
+k = 2, coalition [101]: local jShapley = 0.0002156588126995433
+k = 2, coalition [434]: local jShapley = 0.00011093048296902538
+k = 2, coalition [3]: local jShapley = 8.187661040933926e-09
+k = 2, coalition [174]: local jShapley = -4.8663107532383264e-05
+k = 2, coalition [269]: local jShapley = -0.00021291176713217414
+k = 2, coalition [1003]: local jShapley = 0.0
+k = 2, coalition [455]: local jShapley = 0.0006091599345302238
+k = 2, coalition [848]: local jShapley = -2.6366827195882532e-05
+loop number = 9
+k = 2, coalition [209, 978]: local jShapley = -9.891032052365022e-06
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = 1.665013877959242e-08
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 6.027696356640466e-05
+k = 2, coalition [978]: local jShapley = -6.298059747262972e-05
+k = 2, coalition [101]: local jShapley = 0.0008379597726241944
+k = 2, coalition [434]: local jShapley = 1.088481304883491e-05
+k = 2, coalition [3]: local jShapley = -1.7067008863555083e-05
+k = 2, coalition [174]: local jShapley = -3.135362449862635e-06
+k = 2, coalition [269]: local jShapley = -0.0004902531771649516
+k = 2, coalition [1003]: local jShapley = -4.656501939064394e-05
+k = 2, coalition [455]: local jShapley = 0.0003084667181917519
+k = 2, coalition [848]: local jShapley = -0.0005313403954548032
+loop number = 10
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 7.1570221497792e-05
+k = 2, coalition [978]: local jShapley = -6.968484196684526e-05
+k = 2, coalition [101]: local jShapley = 0.00032885258692943596
+k = 2, coalition [434]: local jShapley = 6.264294174282705e-05
+k = 2, coalition [3]: local jShapley = -2.181841091137205e-05
+k = 2, coalition [174]: local jShapley = -0.00010633213048097878
+k = 2, coalition [269]: local jShapley = -0.00043141911828073985
+k = 2, coalition [1003]: local jShapley = -6.308166391360375e-06
+k = 2, coalition [455]: local jShapley = 0.0006630488167219832
+k = 2, coalition [848]: local jShapley = -0.000612241224301962
+loop number = 11
+k = 2, coalition [209, 978]: local jShapley = 2.478050420775626e-10
+k = 2, coalition [101, 434]: local jShapley = 1.0145964439462337e-06
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -2.89105882423823e-09
+k = 2, coalition [455, 848]: local jShapley = 1.68350562628029e-08
+k = 2, coalition [209]: local jShapley = 0.0
+k = 2, coalition [978]: local jShapley = -8.176070383272854e-05
+k = 2, coalition [101]: local jShapley = 0.0006661501065615765
+k = 2, coalition [434]: local jShapley = 2.558644075291852e-10
+k = 2, coalition [3]: local jShapley = 4.688800556108162e-06
+k = 2, coalition [174]: local jShapley = -2.2475641286178685e-05
+k = 2, coalition [269]: local jShapley = 0.0
+k = 2, coalition [1003]: local jShapley = -9.961799256300542e-05
+k = 2, coalition [455]: local jShapley = 8.536992716533522e-05
+k = 2, coalition [848]: local jShapley = -0.00044415421479262205
+loop number = 12
+k = 2, coalition [209, 978]: local jShapley = -2.1156296466171413e-06
+k = 2, coalition [101, 434]: local jShapley = 5.001885773135107e-07
+k = 2, coalition [3, 174]: local jShapley = -5.483459471692553e-06
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 6.447663666345287e-05
+k = 2, coalition [978]: local jShapley = -7.513151289805487e-05
+k = 2, coalition [101]: local jShapley = 0.0005788014520006143
+k = 2, coalition [434]: local jShapley = 3.14022387360569e-05
+k = 2, coalition [3]: local jShapley = -6.437702012078817e-05
+k = 2, coalition [174]: local jShapley = -7.415159486128602e-05
+k = 2, coalition [269]: local jShapley = -0.00036190988458559547
+k = 2, coalition [1003]: local jShapley = 0.0
+k = 2, coalition [455]: local jShapley = 0.0007376317989743634
+k = 2, coalition [848]: local jShapley = 0.0
+loop number = 13
+k = 2, coalition [209, 978]: local jShapley = -3.207305258889596e-08
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = -7.526204935338643e-06
+k = 2, coalition [209]: local jShapley = 1.2526609663813848e-05
+k = 2, coalition [978]: local jShapley = -7.136476237854605e-05
+k = 2, coalition [101]: local jShapley = 0.0003728096230582029
+k = 2, coalition [434]: local jShapley = 7.667539873308598e-05
+k = 2, coalition [3]: local jShapley = -6.16287805195172e-05
+k = 2, coalition [174]: local jShapley = -3.921778764030754e-05
+k = 2, coalition [269]: local jShapley = -0.0004329419379462177
+k = 2, coalition [1003]: local jShapley = 0.0
+k = 2, coalition [455]: local jShapley = 0.0005416651639596246
+k = 2, coalition [848]: local jShapley = -0.0002491820820858813
+loop number = 14
+k = 2, coalition [209, 978]: local jShapley = 4.085243122250103e-08
+k = 2, coalition [101, 434]: local jShapley = 5.003301801946978e-09
+k = 2, coalition [3, 174]: local jShapley = 1.3425841174960364e-06
+k = 2, coalition [269, 1003]: local jShapley = -4.720096039572621e-11
+k = 2, coalition [455, 848]: local jShapley = 1.1842484958485727e-06
+k = 2, coalition [209]: local jShapley = 5.3243762732242415e-05
+k = 2, coalition [978]: local jShapley = -0.00010810552668956357
+k = 2, coalition [101]: local jShapley = 0.00010163096314517337
+k = 2, coalition [434]: local jShapley = 1.3936593125571346e-05
+k = 2, coalition [3]: local jShapley = -3.120727005751966e-05
+k = 2, coalition [174]: local jShapley = -2.0047232194319188e-05
+k = 2, coalition [269]: local jShapley = -0.0001553871369975609
+k = 2, coalition [1003]: local jShapley = 0.0
+k = 2, coalition [455]: local jShapley = 0.0002501733008006494
+k = 2, coalition [848]: local jShapley = -0.0001784488783532531
+loop number = 15
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 4.605237222545661e-05
+k = 2, coalition [3, 174]: local jShapley = -4.0120816336367276e-10
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = 2.1476436980055424e-09
+k = 2, coalition [209]: local jShapley = 0.0001161626968826576
+k = 2, coalition [978]: local jShapley = -5.189279866048832e-05
+k = 2, coalition [101]: local jShapley = 1.2014539696212106e-06
+k = 2, coalition [434]: local jShapley = 8.29578933955576e-05
+k = 2, coalition [3]: local jShapley = -2.9750463409184325e-05
+k = 2, coalition [174]: local jShapley = -1.3032027156819833e-07
+k = 2, coalition [269]: local jShapley = -0.0003519713434039393
+k = 2, coalition [1003]: local jShapley = -3.970094492985849e-05
+k = 2, coalition [455]: local jShapley = 0.00020279053876354216
+k = 2, coalition [848]: local jShapley = -0.0003582140085069722
+loop number = 16
+k = 2, coalition [209, 978]: local jShapley = 3.892545201434551e-07
+k = 2, coalition [101, 434]: local jShapley = 1.82517853682204e-06
+k = 2, coalition [3, 174]: local jShapley = -1.3243409463030881e-06
+k = 2, coalition [269, 1003]: local jShapley = -7.080144059358931e-11
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 0.00013164991360599165
+k = 2, coalition [978]: local jShapley = -0.00017273389094668123
+k = 2, coalition [101]: local jShapley = 0.0002127892933691035
+k = 2, coalition [434]: local jShapley = 0.0001277454227470963
+k = 2, coalition [3]: local jShapley = 2.265406406636237e-05
+k = 2, coalition [174]: local jShapley = -0.0001279118199001261
+k = 2, coalition [269]: local jShapley = -0.0004767365001762036
+k = 2, coalition [1003]: local jShapley = -1.7549825000562654e-05
+k = 2, coalition [455]: local jShapley = 0.0
+k = 2, coalition [848]: local jShapley = -0.001130863879380527
+loop number = 17
+k = 2, coalition [209, 978]: local jShapley = -1.1729438658337963e-08
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = -5.900120049465777e-11
+k = 2, coalition [269, 1003]: local jShapley = -1.1720942485466732e-06
+k = 2, coalition [455, 848]: local jShapley = 6.082752365476939e-06
+k = 2, coalition [209]: local jShapley = 9.612616834938673e-05
+k = 2, coalition [978]: local jShapley = -0.00013659325660352343
+k = 2, coalition [101]: local jShapley = 0.0003284438861824761
+k = 2, coalition [434]: local jShapley = 0.00020258098581377575
+k = 2, coalition [3]: local jShapley = 4.9412534382036245e-06
+k = 2, coalition [174]: local jShapley = -0.00010682756926209112
+k = 2, coalition [269]: local jShapley = -0.00024590471488983995
+k = 2, coalition [1003]: local jShapley = -3.9355613267829936e-05
+k = 2, coalition [455]: local jShapley = 0.0
+k = 2, coalition [848]: local jShapley = -7.81281968390367e-06
+loop number = 18
+k = 2, coalition [209, 978]: local jShapley = -4.130084034626043e-09
+k = 2, coalition [101, 434]: local jShapley = 1.5694685139022033e-05
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -4.1202898353439296e-07
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 8.207200552855572e-05
+k = 2, coalition [978]: local jShapley = -2.1790095250272154e-05
+k = 2, coalition [101]: local jShapley = 4.1023593340512694e-08
+k = 2, coalition [434]: local jShapley = 6.382401184798175e-05
+k = 2, coalition [3]: local jShapley = -4.131263483288483e-05
+k = 2, coalition [174]: local jShapley = -6.496798161404474e-05
+k = 2, coalition [269]: local jShapley = -0.0001673988621852902
+k = 2, coalition [1003]: local jShapley = -6.078877766959888e-05
+k = 2, coalition [455]: local jShapley = 0.0009481574172859884
+k = 2, coalition [848]: local jShapley = -0.0004764552625482611
+loop number = 19
+k = 2, coalition [209, 978]: local jShapley = 4.609734294047364e-06
+k = 2, coalition [101, 434]: local jShapley = 4.329319288456404e-06
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -1.1717638418239031e-08
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 2.237431898079713e-05
+k = 2, coalition [978]: local jShapley = -0.00021012378325960027
+k = 2, coalition [101]: local jShapley = 0.0009992518337068497
+k = 2, coalition [434]: local jShapley = 2.6302861094000235e-06
+k = 2, coalition [3]: local jShapley = -1.9792135380012593e-05
+k = 2, coalition [174]: local jShapley = -2.331982325475331e-05
+k = 2, coalition [269]: local jShapley = 0.0
+k = 2, coalition [1003]: local jShapley = -1.0348435962517895e-05
+k = 2, coalition [455]: local jShapley = 0.0007049272530480509
+k = 2, coalition [848]: local jShapley = -0.0006655212344919377
+loop number = 20
+k = 2, coalition [209, 978]: local jShapley = -4.9053598091258464e-08
+k = 2, coalition [101, 434]: local jShapley = 8.36637023014247e-09
+k = 2, coalition [3, 174]: local jShapley = -4.505567674574045e-06
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 3.9067083504272857e-05
+k = 2, coalition [978]: local jShapley = -0.00016580184184162886
+k = 2, coalition [101]: local jShapley = 0.0002445808724452839
+k = 2, coalition [434]: local jShapley = 5.351139690251795e-05
+k = 2, coalition [3]: local jShapley = 0.0
+k = 2, coalition [174]: local jShapley = -0.00010007236510670934
+k = 2, coalition [269]: local jShapley = -0.00011902761065376189
+k = 2, coalition [1003]: local jShapley = -4.154197463016682e-05
+k = 2, coalition [455]: local jShapley = 0.0008382715007607008
+k = 2, coalition [848]: local jShapley = -0.00027660554399672356
+loop number = 21
+k = 2, coalition [209, 978]: local jShapley = 6.151465163573017e-08
+k = 2, coalition [101, 434]: local jShapley = 6.32020859698774e-08
+k = 2, coalition [3, 174]: local jShapley = -3.776076831658097e-10
+k = 2, coalition [269, 1003]: local jShapley = -1.4361600214805635e-06
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 0.00018555755918763647
+k = 2, coalition [978]: local jShapley = -7.143606326011085e-05
+k = 2, coalition [101]: local jShapley = 0.0005175426514143843
+k = 2, coalition [434]: local jShapley = 8.305972742975421e-05
+k = 2, coalition [3]: local jShapley = 4.264406792153087e-09
+k = 2, coalition [174]: local jShapley = -6.251850635263201e-05
+k = 2, coalition [269]: local jShapley = -4.2644067921530866e-10
+k = 2, coalition [1003]: local jShapley = -7.292135614581778e-08
+k = 2, coalition [455]: local jShapley = 0.0004186902051587062
+k = 2, coalition [848]: local jShapley = -1.3619491836506841e-05
+loop number = 22
+k = 2, coalition [209, 978]: local jShapley = 2.3600480197863105e-11
+k = 2, coalition [101, 434]: local jShapley = 3.1660044185433354e-08
+k = 2, coalition [3, 174]: local jShapley = -3.693475150965576e-09
+k = 2, coalition [269, 1003]: local jShapley = -1.6313654933171387e-05
+k = 2, coalition [455, 848]: local jShapley = 2.624009360595325e-05
+k = 2, coalition [209]: local jShapley = 1.1100250879974484e-06
+k = 2, coalition [978]: local jShapley = -1.941413836195614e-06
+k = 2, coalition [101]: local jShapley = 0.0006657379516451149
+k = 2, coalition [434]: local jShapley = 0.00011062178256134142
+k = 2, coalition [3]: local jShapley = -4.551870454012126e-05
+k = 2, coalition [174]: local jShapley = -5.929094742792302e-05
+k = 2, coalition [269]: local jShapley = -0.0003845716245841837
+k = 2, coalition [1003]: local jShapley = 0.0
+k = 2, coalition [455]: local jShapley = 0.0006757655336405913
+k = 2, coalition [848]: local jShapley = -0.00032463513125606454
+loop number = 23
+k = 2, coalition [209, 978]: local jShapley = -1.1074489932126965e-05
+k = 2, coalition [101, 434]: local jShapley = 6.828090930845753e-07
+k = 2, coalition [3, 174]: local jShapley = -3.5400720296794657e-11
+k = 2, coalition [269, 1003]: local jShapley = -1.3808286956566735e-06
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 8.607103828603311e-05
+k = 2, coalition [978]: local jShapley = 0.0
+k = 2, coalition [101]: local jShapley = 0.0005825071788589275
+k = 2, coalition [434]: local jShapley = 1.2055478001416776e-05
+k = 2, coalition [3]: local jShapley = 0.0
+k = 2, coalition [174]: local jShapley = -2.0572692399248294e-05
+k = 2, coalition [269]: local jShapley = -2.7278898520588237e-05
+k = 2, coalition [1003]: local jShapley = 0.0
+k = 2, coalition [455]: local jShapley = 0.00044186137119268514
+k = 2, coalition [848]: local jShapley = -8.001835250559063e-05
+loop number = 24
+k = 2, coalition [209, 978]: local jShapley = 3.563672509877329e-09
+k = 2, coalition [101, 434]: local jShapley = 4.2988758490251695e-05
+k = 2, coalition [3, 174]: local jShapley = -4.720096039572621e-11
+k = 2, coalition [269, 1003]: local jShapley = -2.3600480197863105e-11
+k = 2, coalition [455, 848]: local jShapley = 1.3570276113771285e-09
+k = 2, coalition [209]: local jShapley = 0.00020784241091393422
+k = 2, coalition [978]: local jShapley = -0.00015847780846424178
+k = 2, coalition [101]: local jShapley = 1.1448823491165078e-05
+k = 2, coalition [434]: local jShapley = 1.2129294882988945e-05
+k = 2, coalition [3]: local jShapley = 2.7576554114680523e-05
+k = 2, coalition [174]: local jShapley = -3.768814492396223e-05
+k = 2, coalition [269]: local jShapley = -0.0002301675186403499
+k = 2, coalition [1003]: local jShapley = -4.737517139301718e-05
+k = 2, coalition [455]: local jShapley = 1.4577618754567797e-05
+k = 2, coalition [848]: local jShapley = -0.0006281622591282617
+loop number = 25
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 9.854380506617739e-08
+k = 2, coalition [3, 174]: local jShapley = 1.3570276113771285e-09
+k = 2, coalition [269, 1003]: local jShapley = -1.5930324133557595e-09
+k = 2, coalition [455, 848]: local jShapley = -1.2130646821701635e-08
+k = 2, coalition [209]: local jShapley = 7.993801108162647e-05
+k = 2, coalition [978]: local jShapley = -5.177296882962882e-05
+k = 2, coalition [101]: local jShapley = 0.00019334513358333058
+k = 2, coalition [434]: local jShapley = 8.528813584306173e-11
+k = 2, coalition [3]: local jShapley = -2.936095249278906e-05
+k = 2, coalition [174]: local jShapley = -2.649736068779034e-05
+k = 2, coalition [269]: local jShapley = -0.00021353385879501342
+k = 2, coalition [1003]: local jShapley = -7.950901175833587e-05
+k = 2, coalition [455]: local jShapley = 0.00035351032517115944
+k = 2, coalition [848]: local jShapley = -0.0002833011743892189
+loop number = 26
+k = 2, coalition [209, 978]: local jShapley = -3.5400720296794657e-10
+k = 2, coalition [101, 434]: local jShapley = 3.3276677078986977e-09
+k = 2, coalition [3, 174]: local jShapley = -1.6547594693132705e-06
+k = 2, coalition [269, 1003]: local jShapley = -1.0879821371214892e-08
+k = 2, coalition [455, 848]: local jShapley = -4.767296999968347e-08
+k = 2, coalition [209]: local jShapley = 6.629719721115885e-05
+k = 2, coalition [978]: local jShapley = -0.00016093291274262017
+k = 2, coalition [101]: local jShapley = 0.0005653705322324565
+k = 2, coalition [434]: local jShapley = 0.0
+k = 2, coalition [3]: local jShapley = -1.764944154322735e-05
+k = 2, coalition [174]: local jShapley = -9.731380564100136e-05
+k = 2, coalition [269]: local jShapley = -0.00012058684835324475
+k = 2, coalition [1003]: local jShapley = -2.2231376065124158e-05
+k = 2, coalition [455]: local jShapley = 0.0007275925751483445
+k = 2, coalition [848]: local jShapley = -0.000250906608192628
+loop number = 27
+k = 2, coalition [209, 978]: local jShapley = -1.2201188657013049e-05
+k = 2, coalition [101, 434]: local jShapley = 5.39270972521172e-09
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -9.201473221943856e-07
+k = 2, coalition [455, 848]: local jShapley = 7.096664395497435e-07
+k = 2, coalition [209]: local jShapley = 0.0
+k = 2, coalition [978]: local jShapley = 0.0
+k = 2, coalition [101]: local jShapley = 0.0008540631961289945
+k = 2, coalition [434]: local jShapley = 1.092575135403958e-05
+k = 2, coalition [3]: local jShapley = -4.0554338017104166e-05
+k = 2, coalition [174]: local jShapley = -5.8220666611228445e-05
+k = 2, coalition [269]: local jShapley = -8.283081407315144e-05
+k = 2, coalition [1003]: local jShapley = 0.0
+k = 2, coalition [455]: local jShapley = 4.836093166709129e-05
+k = 2, coalition [848]: local jShapley = -0.0007457389906591294
+loop number = 28
+k = 2, coalition [209, 978]: local jShapley = 2.5287914532010317e-08
+k = 2, coalition [101, 434]: local jShapley = 1.748301152601511e-05
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -1.8955905694923645e-06
+k = 2, coalition [455, 848]: local jShapley = -2.795240874634906e-07
+k = 2, coalition [209]: local jShapley = 7.914739006236128e-08
+k = 2, coalition [978]: local jShapley = -0.00014609665771610827
+k = 2, coalition [101]: local jShapley = 0.0007116492801185896
+k = 2, coalition [434]: local jShapley = 2.9171101102402406e-06
+k = 2, coalition [3]: local jShapley = -2.8212377167390548e-05
+k = 2, coalition [174]: local jShapley = -7.306344618013233e-05
+k = 2, coalition [269]: local jShapley = -0.0002799280286166258
+k = 2, coalition [1003]: local jShapley = -6.320234662582168e-05
+k = 2, coalition [455]: local jShapley = 1.6887050896926223e-07
+k = 2, coalition [848]: local jShapley = -0.0003977587055719662
+loop number = 29
+k = 2, coalition [209, 978]: local jShapley = -3.3314909856907516e-06
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = -4.4840912375939895e-10
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = -1.4160288118717863e-09
+k = 2, coalition [209]: local jShapley = 1.854530812212287e-05
+k = 2, coalition [978]: local jShapley = -0.0001413498185835589
+k = 2, coalition [101]: local jShapley = 0.00043975232352548994
+k = 2, coalition [434]: local jShapley = 0.00010543012315630255
+k = 2, coalition [3]: local jShapley = -2.6829856485374516e-05
+k = 2, coalition [174]: local jShapley = -2.4693047529962448e-05
+k = 2, coalition [269]: local jShapley = -0.00013716148880857783
+k = 2, coalition [1003]: local jShapley = 0.0
+k = 2, coalition [455]: local jShapley = 0.0
+k = 2, coalition [848]: local jShapley = -0.00024925397998439697
+loop number = 30
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 4.5542047241898116e-05
+k = 2, coalition [3, 174]: local jShapley = -2.3600480197863105e-11
+k = 2, coalition [269, 1003]: local jShapley = -2.4319409825890508e-05
+k = 2, coalition [455, 848]: local jShapley = 4.259886675714291e-09
+k = 2, coalition [209]: local jShapley = 0.00012509134124779605
+k = 2, coalition [978]: local jShapley = -0.00015942655368736
+k = 2, coalition [101]: local jShapley = 0.0003282100261139944
+k = 2, coalition [434]: local jShapley = 3.275469535018825e-05
+k = 2, coalition [3]: local jShapley = 8.930435415991151e-06
+k = 2, coalition [174]: local jShapley = -5.13528394724659e-05
+k = 2, coalition [269]: local jShapley = -0.0003894649460900435
+k = 2, coalition [1003]: local jShapley = -0.00010825384275779464
+k = 2, coalition [455]: local jShapley = 0.00035443830273319983
+k = 2, coalition [848]: local jShapley = -3.411525433722469e-10
+loop number = 31
+k = 2, coalition [209, 978]: local jShapley = -9.002096365232308e-06
+k = 2, coalition [101, 434]: local jShapley = 4.677615175216467e-08
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = -8.334863589078323e-07
+k = 2, coalition [209]: local jShapley = 2.5484094989906843e-07
+k = 2, coalition [978]: local jShapley = -4.103493666257982e-05
+k = 2, coalition [101]: local jShapley = 0.0005559838052897051
+k = 2, coalition [434]: local jShapley = 1.1374878677389143e-06
+k = 2, coalition [3]: local jShapley = -1.725268113528543e-05
+k = 2, coalition [174]: local jShapley = -2.05505174839291e-05
+k = 2, coalition [269]: local jShapley = -0.0003570824908087423
+k = 2, coalition [1003]: local jShapley = -4.75512913935331e-05
+k = 2, coalition [455]: local jShapley = 3.8891389944436147e-08
+k = 2, coalition [848]: local jShapley = -0.00012003981024994736
+loop number = 32
+k = 2, coalition [209, 978]: local jShapley = -9.440192079145242e-11
+k = 2, coalition [101, 434]: local jShapley = 2.0768422574119535e-09
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -3.776076831658097e-10
+k = 2, coalition [455, 848]: local jShapley = -1.751415235963619e-06
+k = 2, coalition [209]: local jShapley = 4.1270502493778354e-05
+k = 2, coalition [978]: local jShapley = -9.245971667762933e-05
+k = 2, coalition [101]: local jShapley = 0.0002062810410110553
+k = 2, coalition [434]: local jShapley = 6.4710667308206224e-06
+k = 2, coalition [3]: local jShapley = -8.219004430856251e-05
+k = 2, coalition [174]: local jShapley = -2.2475641286178685e-05
+k = 2, coalition [269]: local jShapley = -0.00025428734460931115
+k = 2, coalition [1003]: local jShapley = -3.709539237985295e-05
+k = 2, coalition [455]: local jShapley = 0.00036379628757417226
+k = 2, coalition [848]: local jShapley = -1.1019994744146162e-05
+loop number = 33
+k = 2, coalition [209, 978]: local jShapley = 2.8084571435457096e-08
+k = 2, coalition [101, 434]: local jShapley = 1.3157267710308681e-08
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -4.672895079176895e-09
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 3.3371882945216564e-05
+k = 2, coalition [978]: local jShapley = -0.00011634205783233556
+k = 2, coalition [101]: local jShapley = 0.0005979175936159348
+k = 2, coalition [434]: local jShapley = 1.3731389870732938e-07
+k = 2, coalition [3]: local jShapley = -3.4265702608851855e-05
+k = 2, coalition [174]: local jShapley = -3.076530693758091e-05
+k = 2, coalition [269]: local jShapley = -0.0004514115954918478
+k = 2, coalition [1003]: local jShapley = -3.970094492985849e-05
+k = 2, coalition [455]: local jShapley = 0.00035031274502619924
+k = 2, coalition [848]: local jShapley = -0.0005756880938897992
+loop number = 34
+k = 2, coalition [209, 978]: local jShapley = -9.251388237562337e-09
+k = 2, coalition [101, 434]: local jShapley = 3.78012903410807e-05
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -7.663311925048128e-07
+k = 2, coalition [455, 848]: local jShapley = -2.6716923607990926e-07
+k = 2, coalition [209]: local jShapley = 6.027696356640466e-05
+k = 2, coalition [978]: local jShapley = 0.0
+k = 2, coalition [101]: local jShapley = 0.0011807209355265773
+k = 2, coalition [434]: local jShapley = 2.8059796692367308e-08
+k = 2, coalition [3]: local jShapley = -2.1076659993944943e-05
+k = 2, coalition [174]: local jShapley = -3.899689136847401e-05
+k = 2, coalition [269]: local jShapley = -0.0001673988621852902
+k = 2, coalition [1003]: local jShapley = -5.138209330306007e-05
+k = 2, coalition [455]: local jShapley = 0.00020113074635190033
+k = 2, coalition [848]: local jShapley = -0.0004677261071328595
+loop number = 35
+k = 2, coalition [209, 978]: local jShapley = -2.2184451385991318e-09
+k = 2, coalition [101, 434]: local jShapley = 1.7700360148397328e-10
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -6.91494069797389e-09
+k = 2, coalition [455, 848]: local jShapley = -2.8226174316644272e-08
+k = 2, coalition [209]: local jShapley = 0.00013077801299326804
+k = 2, coalition [978]: local jShapley = -0.00010374158864288163
+k = 2, coalition [101]: local jShapley = 0.0007811703688646163
+k = 2, coalition [434]: local jShapley = 9.586292651810711e-05
+k = 2, coalition [3]: local jShapley = -3.080181025972174e-05
+k = 2, coalition [174]: local jShapley = -3.076530693758091e-05
+k = 2, coalition [269]: local jShapley = -0.00022910218453553425
+k = 2, coalition [1003]: local jShapley = -8.824499022460483e-05
+k = 2, coalition [455]: local jShapley = 0.00024443937942792034
+k = 2, coalition [848]: local jShapley = -6.300456343880162e-05
+loop number = 36
+k = 2, coalition [209, 978]: local jShapley = -1.2697058346450349e-08
+k = 2, coalition [101, 434]: local jShapley = 2.950060024732888e-10
+k = 2, coalition [3, 174]: local jShapley = -9.76115860983618e-08
+k = 2, coalition [269, 1003]: local jShapley = -1.9942405767194322e-08
+k = 2, coalition [455, 848]: local jShapley = -1.7283044657298615e-05
+k = 2, coalition [209]: local jShapley = 3.30180224696037e-05
+k = 2, coalition [978]: local jShapley = -1.709907720263207e-05
+k = 2, coalition [101]: local jShapley = 2.080783178976761e-05
+k = 2, coalition [434]: local jShapley = 0.00013144539265624001
+k = 2, coalition [3]: local jShapley = -2.5655438854815556e-05
+k = 2, coalition [174]: local jShapley = -5.0419275537527744e-05
+k = 2, coalition [269]: local jShapley = -0.0002541700734225269
+k = 2, coalition [1003]: local jShapley = -5.513323609370961e-05
+k = 2, coalition [455]: local jShapley = 0.0008281419994428921
+k = 2, coalition [848]: local jShapley = -0.00012757979318728905
+loop number = 37
+k = 2, coalition [209, 978]: local jShapley = 1.2533625021080148e-06
+k = 2, coalition [101, 434]: local jShapley = 4.768713028780219e-07
+k = 2, coalition [3, 174]: local jShapley = -2.0681100797387437e-07
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = -5.085903482639499e-09
+k = 2, coalition [209]: local jShapley = 1.2980854275313995e-06
+k = 2, coalition [978]: local jShapley = -0.00015661750364523292
+k = 2, coalition [101]: local jShapley = 0.0003752343647602211
+k = 2, coalition [434]: local jShapley = 0.00018334996107947465
+k = 2, coalition [3]: local jShapley = -5.404538592103135e-05
+k = 2, coalition [174]: local jShapley = -2.3283831661427537e-05
+k = 2, coalition [269]: local jShapley = -0.00033917633197662735
+k = 2, coalition [1003]: local jShapley = -6.487177659681376e-05
+k = 2, coalition [455]: local jShapley = 0.0006721581013588372
+k = 2, coalition [848]: local jShapley = -0.00029897645145208693
+loop number = 38
+k = 2, coalition [209, 978]: local jShapley = -4.720096039572621e-11
+k = 2, coalition [101, 434]: local jShapley = 6.628348266691139e-05
+k = 2, coalition [3, 174]: local jShapley = -6.805552472256794e-07
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = -2.6498619166160695e-07
+k = 2, coalition [209]: local jShapley = 6.028685699016246e-05
+k = 2, coalition [978]: local jShapley = -0.00025479549132266413
+k = 2, coalition [101]: local jShapley = 3.7321832380516284e-05
+k = 2, coalition [434]: local jShapley = 0.0001285246151561585
+k = 2, coalition [3]: local jShapley = 4.812468353080601e-06
+k = 2, coalition [174]: local jShapley = -4.230436527646795e-05
+k = 2, coalition [269]: local jShapley = -0.0002717811353046249
+k = 2, coalition [1003]: local jShapley = -2.7051264486023105e-05
+k = 2, coalition [455]: local jShapley = 0.00035530883873575
+k = 2, coalition [848]: local jShapley = -0.0005684293912244679
+loop number = 39
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 1.9078628191952532e-07
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = -8.977764270148311e-06
+k = 2, coalition [209]: local jShapley = 5.481715826227522e-05
+k = 2, coalition [978]: local jShapley = -0.00022913783497631663
+k = 2, coalition [101]: local jShapley = 0.00041802410481777194
+k = 2, coalition [434]: local jShapley = 0.0001277454227470963
+k = 2, coalition [3]: local jShapley = -3.1413070329308965e-05
+k = 2, coalition [174]: local jShapley = -8.528813584306173e-11
+k = 2, coalition [269]: local jShapley = -0.00031214963047372705
+k = 2, coalition [1003]: local jShapley = -3.1471322126089776e-08
+k = 2, coalition [455]: local jShapley = 7.518967940669985e-05
+k = 2, coalition [848]: local jShapley = -0.000586730007684857
+loop number = 40
+k = 2, coalition [209, 978]: local jShapley = 3.74158472984892e-06
+k = 2, coalition [101, 434]: local jShapley = 9.616015656619321e-08
+k = 2, coalition [3, 174]: local jShapley = -3.2790507186910995e-06
+k = 2, coalition [269, 1003]: local jShapley = -1.6520336138504172e-10
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 7.58190205610858e-05
+k = 2, coalition [978]: local jShapley = -0.00013024590031374315
+k = 2, coalition [101]: local jShapley = 0.0005509484363935986
+k = 2, coalition [434]: local jShapley = 4.7420203528742323e-08
+k = 2, coalition [3]: local jShapley = -1.8211575646568972e-05
+k = 2, coalition [174]: local jShapley = -3.8921837808932116e-05
+k = 2, coalition [269]: local jShapley = -0.00045416682872025793
+k = 2, coalition [1003]: local jShapley = -9.947982578293967e-05
+k = 2, coalition [455]: local jShapley = 7.979557989476855e-07
+k = 2, coalition [848]: local jShapley = -4.4357677146889656e-05
+loop number = 41
+k = 2, coalition [209, 978]: local jShapley = 1.1800240098931553e-11
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = -8.944286988987643e-07
+k = 2, coalition [269, 1003]: local jShapley = -5.455605004939025e-07
+k = 2, coalition [455, 848]: local jShapley = -6.850039377429767e-08
+k = 2, coalition [209]: local jShapley = 6.033048187164618e-05
+k = 2, coalition [978]: local jShapley = -6.906633240571139e-05
+k = 2, coalition [101]: local jShapley = 0.00040981081469201717
+k = 2, coalition [434]: local jShapley = 0.00012415530395691845
+k = 2, coalition [3]: local jShapley = -2.1965362369429646e-05
+k = 2, coalition [174]: local jShapley = -2.8072248760200395e-05
+k = 2, coalition [269]: local jShapley = -0.0006229121347061025
+k = 2, coalition [1003]: local jShapley = -4.215621978450855e-05
+k = 2, coalition [455]: local jShapley = 0.00042196654889711745
+k = 2, coalition [848]: local jShapley = -0.0005707021921124818
+loop number = 42
+k = 2, coalition [209, 978]: local jShapley = -1.0556494792504166e-07
+k = 2, coalition [101, 434]: local jShapley = 1.9340593522148815e-08
+k = 2, coalition [3, 174]: local jShapley = -8.760852256649752e-07
+k = 2, coalition [269, 1003]: local jShapley = -2.0626819692932354e-08
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 4.838395946376892e-06
+k = 2, coalition [978]: local jShapley = -4.826225329392087e-05
+k = 2, coalition [101]: local jShapley = 0.0006895239598503864
+k = 2, coalition [434]: local jShapley = 0.00012784802437451547
+k = 2, coalition [3]: local jShapley = 9.075339958788512e-06
+k = 2, coalition [174]: local jShapley = -3.615538919065865e-05
+k = 2, coalition [269]: local jShapley = -0.0001673994592022411
+k = 2, coalition [1003]: local jShapley = -0.0001288492644452451
+k = 2, coalition [455]: local jShapley = 0.0008201105862668226
+k = 2, coalition [848]: local jShapley = -0.00040141202287080375
+loop number = 43
+k = 2, coalition [209, 978]: local jShapley = -1.5716739787766934e-06
+k = 2, coalition [101, 434]: local jShapley = 2.5134511410724206e-09
+k = 2, coalition [3, 174]: local jShapley = -3.894079232647412e-10
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = -9.369673844314026e-06
+k = 2, coalition [209]: local jShapley = 0.00014138828353282414
+k = 2, coalition [978]: local jShapley = -0.00012768768267913054
+k = 2, coalition [101]: local jShapley = 0.00027799190264485253
+k = 2, coalition [434]: local jShapley = 2.6412029907879356e-05
+k = 2, coalition [3]: local jShapley = -1.8088632798751198e-05
+k = 2, coalition [174]: local jShapley = -5.970169509014321e-10
+k = 2, coalition [269]: local jShapley = -0.00022297056458536898
+k = 2, coalition [1003]: local jShapley = -7.388835303000641e-05
+k = 2, coalition [455]: local jShapley = 8.346638126145393e-06
+k = 2, coalition [848]: local jShapley = -0.0004947255164322901
+loop number = 44
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 9.074384636078365e-09
+k = 2, coalition [3, 174]: local jShapley = 8.850180074198664e-10
+k = 2, coalition [269, 1003]: local jShapley = -2.321496635383101e-06
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 5.170959974469743e-05
+k = 2, coalition [978]: local jShapley = -0.00010500581468048333
+k = 2, coalition [101]: local jShapley = 0.0004382039600633271
+k = 2, coalition [434]: local jShapley = 8.528813584306173e-11
+k = 2, coalition [3]: local jShapley = 0.0
+k = 2, coalition [174]: local jShapley = -6.123619923023158e-05
+k = 2, coalition [269]: local jShapley = -0.00015375915706058855
+k = 2, coalition [1003]: local jShapley = -9.482334943031603e-06
+k = 2, coalition [455]: local jShapley = 0.0
+k = 2, coalition [848]: local jShapley = -0.0004018812781942123
+loop number = 45
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = 3.3040672277008345e-09
+k = 2, coalition [269, 1003]: local jShapley = -3.9589805531915356e-08
+k = 2, coalition [455, 848]: local jShapley = -1.7936364950375958e-09
+k = 2, coalition [209]: local jShapley = 0.00013182066045394947
+k = 2, coalition [978]: local jShapley = -7.354651818154742e-05
+k = 2, coalition [101]: local jShapley = 0.0
+k = 2, coalition [434]: local jShapley = 8.674707469479314e-05
+k = 2, coalition [3]: local jShapley = 0.0
+k = 2, coalition [174]: local jShapley = -4.9890574383436604e-05
+k = 2, coalition [269]: local jShapley = -0.0004173812881379228
+k = 2, coalition [1003]: local jShapley = -2.825357133700274e-05
+k = 2, coalition [455]: local jShapley = 0.000527286351849707
+k = 2, coalition [848]: local jShapley = -0.0004722052694510655
+loop number = 46
+k = 2, coalition [209, 978]: local jShapley = 2.123547607723524e-06
+k = 2, coalition [101, 434]: local jShapley = 2.596052821764942e-10
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -2.7009687564845416e-06
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 0.0001619057092200461
+k = 2, coalition [978]: local jShapley = -0.0002463065925859325
+k = 2, coalition [101]: local jShapley = 0.0002752785458911413
+k = 2, coalition [434]: local jShapley = 6.846462460733859e-05
+k = 2, coalition [3]: local jShapley = 3.0025005918463136e-05
+k = 2, coalition [174]: local jShapley = -1.5893358826218713e-05
+k = 2, coalition [269]: local jShapley = -0.00047743773922910516
+k = 2, coalition [1003]: local jShapley = 0.0
+k = 2, coalition [455]: local jShapley = 0.0008683650356963139
+k = 2, coalition [848]: local jShapley = -0.00034053761591281844
+loop number = 47
+k = 2, coalition [209, 978]: local jShapley = -1.7700360148397329e-09
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = -4.724226123607247e-07
+k = 2, coalition [269, 1003]: local jShapley = -9.79705494021713e-06
+k = 2, coalition [455, 848]: local jShapley = 4.812574521227947e-06
+k = 2, coalition [209]: local jShapley = 3.151396619401131e-06
+k = 2, coalition [978]: local jShapley = -0.00017710627251881164
+k = 2, coalition [101]: local jShapley = 0.0006658434530691529
+k = 2, coalition [434]: local jShapley = 0.0
+k = 2, coalition [3]: local jShapley = 1.4901543094499745e-06
+k = 2, coalition [174]: local jShapley = -3.334075277563385e-05
+k = 2, coalition [269]: local jShapley = -0.0002429281589489171
+k = 2, coalition [1003]: local jShapley = -1.6187688183013118e-07
+k = 2, coalition [455]: local jShapley = 0.0003401294268946736
+k = 2, coalition [848]: local jShapley = -0.00031446716498899054
+loop number = 48
+k = 2, coalition [209, 978]: local jShapley = -5.310108044519198e-10
+k = 2, coalition [101, 434]: local jShapley = 1.6266630976377145e-07
+k = 2, coalition [3, 174]: local jShapley = 1.5775740988261593e-07
+k = 2, coalition [269, 1003]: local jShapley = -4.655330421789635e-05
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 0.00024167399691134487
+k = 2, coalition [978]: local jShapley = -3.005553907109495e-07
+k = 2, coalition [101]: local jShapley = 0.0003176631673034376
+k = 2, coalition [434]: local jShapley = 1.839903896915202e-05
+k = 2, coalition [3]: local jShapley = 0.0
+k = 2, coalition [174]: local jShapley = -2.2475641286178685e-05
+k = 2, coalition [269]: local jShapley = -0.00031968151103816365
+k = 2, coalition [1003]: local jShapley = -1.1940339018028642e-09
+k = 2, coalition [455]: local jShapley = 0.0004319911458078393
+k = 2, coalition [848]: local jShapley = -0.0013361317399818347
+loop number = 49
+k = 2, coalition [209, 978]: local jShapley = -1.79248479160394e-05
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = -1.4053613948223522e-06
+k = 2, coalition [269, 1003]: local jShapley = -4.0120816336367276e-10
+k = 2, coalition [455, 848]: local jShapley = -3.4197095806703636e-08
+k = 2, coalition [209]: local jShapley = 8.119430532259476e-08
+k = 2, coalition [978]: local jShapley = -0.0002162711815148965
+k = 2, coalition [101]: local jShapley = 0.0
+k = 2, coalition [434]: local jShapley = 1.7684324390787163e-05
+k = 2, coalition [3]: local jShapley = -2.9676774459815917e-05
+k = 2, coalition [174]: local jShapley = -8.879757205673203e-05
+k = 2, coalition [269]: local jShapley = -0.0005523196137535475
+k = 2, coalition [1003]: local jShapley = -1.7194685202912145e-05
+k = 2, coalition [455]: local jShapley = 0.0
+k = 2, coalition [848]: local jShapley = -0.00012666772186258337
+loop number = 50
+k = 2, coalition [209, 978]: local jShapley = -6.568521049389557e-06
+k = 2, coalition [101, 434]: local jShapley = 1.2101960438021133e-05
+k = 2, coalition [3, 174]: local jShapley = -2.3600480197863105e-11
+k = 2, coalition [269, 1003]: local jShapley = -2.1594439381044742e-08
+k = 2, coalition [455, 848]: local jShapley = 4.90299976110606e-07
+k = 2, coalition [209]: local jShapley = 0.0
+k = 2, coalition [978]: local jShapley = -6.297948872686376e-05
+k = 2, coalition [101]: local jShapley = 0.0008339757079345575
+k = 2, coalition [434]: local jShapley = 6.207765197845923e-05
+k = 2, coalition [3]: local jShapley = -3.055549812340698e-05
+k = 2, coalition [174]: local jShapley = -8.054577433764413e-05
+k = 2, coalition [269]: local jShapley = -0.00016850291710377861
+k = 2, coalition [1003]: local jShapley = -6.871810094706416e-05
+k = 2, coalition [455]: local jShapley = 6.589361375234949e-07
+k = 2, coalition [848]: local jShapley = -0.00024745329157234246
+loop number = 51
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 4.720096039572621e-11
+k = 2, coalition [3, 174]: local jShapley = -3.5400720296794657e-11
+k = 2, coalition [269, 1003]: local jShapley = -2.8792615341993236e-05
+k = 2, coalition [455, 848]: local jShapley = -6.640231108470763e-06
+k = 2, coalition [209]: local jShapley = 0.0001367310395869779
+k = 2, coalition [978]: local jShapley = 0.0
+k = 2, coalition [101]: local jShapley = 0.00027799190264485253
+k = 2, coalition [434]: local jShapley = 3.849957624837312e-05
+k = 2, coalition [3]: local jShapley = 3.5684556036737027e-07
+k = 2, coalition [174]: local jShapley = -3.8294202417263035e-05
+k = 2, coalition [269]: local jShapley = -0.000410695082084438
+k = 2, coalition [1003]: local jShapley = -1.841234391834354e-05
+k = 2, coalition [455]: local jShapley = 0.0003905521566017029
+k = 2, coalition [848]: local jShapley = -0.00041858419200585333
+loop number = 52
+k = 2, coalition [209, 978]: local jShapley = -1.080075976255205e-07
+k = 2, coalition [101, 434]: local jShapley = 2.3420998545958357e-06
+k = 2, coalition [3, 174]: local jShapley = -4.539552366058968e-07
+k = 2, coalition [269, 1003]: local jShapley = -5.365116633776383e-05
+k = 2, coalition [455, 848]: local jShapley = -3.514937518268741e-07
+k = 2, coalition [209]: local jShapley = 0.0001067344346177505
+k = 2, coalition [978]: local jShapley = -0.00021104933010976918
+k = 2, coalition [101]: local jShapley = 0.00013656856568819686
+k = 2, coalition [434]: local jShapley = 5.048264462245913e-05
+k = 2, coalition [3]: local jShapley = 3.561717840942101e-06
+k = 2, coalition [174]: local jShapley = -5.578722551935421e-05
+k = 2, coalition [269]: local jShapley = -0.0003748387130980452
+k = 2, coalition [1003]: local jShapley = -5.380657914067078e-05
+k = 2, coalition [455]: local jShapley = 3.0781341107119406e-06
+k = 2, coalition [848]: local jShapley = -3.552950220577434e-05
+loop number = 53
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 5.23222645986625e-08
+k = 2, coalition [3, 174]: local jShapley = 7.354263636857112e-07
+k = 2, coalition [269, 1003]: local jShapley = -5.492917364131846e-06
+k = 2, coalition [455, 848]: local jShapley = 5.2324860651484265e-06
+k = 2, coalition [209]: local jShapley = 6.672090867002719e-07
+k = 2, coalition [978]: local jShapley = -0.00024632271204360685
+k = 2, coalition [101]: local jShapley = 0.00032820610285974556
+k = 2, coalition [434]: local jShapley = 0.00011441318135210888
+k = 2, coalition [3]: local jShapley = -5.8988003969408466e-05
+k = 2, coalition [174]: local jShapley = -6.105777645004789e-07
+k = 2, coalition [269]: local jShapley = -0.00019037412137123754
+k = 2, coalition [1003]: local jShapley = -2.9128883475160088e-05
+k = 2, coalition [455]: local jShapley = 0.0
+k = 2, coalition [848]: local jShapley = -0.0004422156581089772
+loop number = 54
+k = 2, coalition [209, 978]: local jShapley = -7.364046035899126e-06
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = -2.724604637402702e-06
+k = 2, coalition [269, 1003]: local jShapley = -4.720096039572621e-11
+k = 2, coalition [455, 848]: local jShapley = 2.4929305235403784e-06
+k = 2, coalition [209]: local jShapley = 7.563360415376299e-05
+k = 2, coalition [978]: local jShapley = -6.3616420525339745e-06
+k = 2, coalition [101]: local jShapley = 0.0012032827178299575
+k = 2, coalition [434]: local jShapley = 2.950969500169936e-08
+k = 2, coalition [3]: local jShapley = -2.021328819480563e-08
+k = 2, coalition [174]: local jShapley = -5.324145995257466e-05
+k = 2, coalition [269]: local jShapley = -0.00016847170164606005
+k = 2, coalition [1003]: local jShapley = -3.970103021799434e-05
+k = 2, coalition [455]: local jShapley = 0.00029495170432165287
+k = 2, coalition [848]: local jShapley = -0.0010059918992181194
+loop number = 55
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 9.42839183904631e-09
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -3.0367257081154808e-05
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 1.7057627168612346e-10
+k = 2, coalition [978]: local jShapley = -3.383167128554651e-05
+k = 2, coalition [101]: local jShapley = 5.069833831800624e-05
+k = 2, coalition [434]: local jShapley = 4.071229164468552e-05
+k = 2, coalition [3]: local jShapley = -7.800836700817719e-05
+k = 2, coalition [174]: local jShapley = -5.055420136843147e-05
+k = 2, coalition [269]: local jShapley = -0.0003510919374352615
+k = 2, coalition [1003]: local jShapley = -4.179118656310025e-09
+k = 2, coalition [455]: local jShapley = 0.00036379628757417226
+k = 2, coalition [848]: local jShapley = -0.0005657947554201399
+loop number = 56
+k = 2, coalition [209, 978]: local jShapley = -4.602093638583305e-10
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = -7.080144059358931e-11
+k = 2, coalition [209]: local jShapley = 1.1519015626963917e-05
+k = 2, coalition [978]: local jShapley = -0.00012707394925360387
+k = 2, coalition [101]: local jShapley = 0.00032820610285974556
+k = 2, coalition [434]: local jShapley = 0.0
+k = 2, coalition [3]: local jShapley = -3.053545541148386e-05
+k = 2, coalition [174]: local jShapley = -1.499194851849339e-06
+k = 2, coalition [269]: local jShapley = -5.2494847611404495e-06
+k = 2, coalition [1003]: local jShapley = -7.144152170080481e-05
+k = 2, coalition [455]: local jShapley = 0.0003351846766429004
+k = 2, coalition [848]: local jShapley = -0.00035684061365549136
+loop number = 57
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = -1.4042285717728547e-09
+k = 2, coalition [269, 1003]: local jShapley = -7.777302244403807e-07
+k = 2, coalition [455, 848]: local jShapley = -7.570606878782903e-05
+k = 2, coalition [209]: local jShapley = 2.639736034851435e-05
+k = 2, coalition [978]: local jShapley = -4.958328122999405e-05
+k = 2, coalition [101]: local jShapley = 0.00016310835722356914
+k = 2, coalition [434]: local jShapley = 1.8790340936399986e-05
+k = 2, coalition [3]: local jShapley = 0.0
+k = 2, coalition [174]: local jShapley = -8.260501373350693e-05
+k = 2, coalition [269]: local jShapley = -0.00020773784765939062
+k = 2, coalition [1003]: local jShapley = -5.1948065372514623e-05
+k = 2, coalition [455]: local jShapley = 4.135365842622534e-06
+k = 2, coalition [848]: local jShapley = -0.0002128620441489776
+loop number = 58
+k = 2, coalition [209, 978]: local jShapley = 1.3924566522501605e-05
+k = 2, coalition [101, 434]: local jShapley = 2.823325446070363e-07
+k = 2, coalition [3, 174]: local jShapley = -8.20103706611634e-06
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = -4.1572245868535857e-08
+k = 2, coalition [209]: local jShapley = 0.00010648675787126226
+k = 2, coalition [978]: local jShapley = -0.00022155989881852473
+k = 2, coalition [101]: local jShapley = 0.0009344041083643438
+k = 2, coalition [434]: local jShapley = 6.208114879202878e-05
+k = 2, coalition [3]: local jShapley = -5.1633352151253726e-05
+k = 2, coalition [174]: local jShapley = -4.495128257235737e-05
+k = 2, coalition [269]: local jShapley = -0.0001690855203597226
+k = 2, coalition [1003]: local jShapley = -0.00015981337802747618
+k = 2, coalition [455]: local jShapley = 0.0002211169975290917
+k = 2, coalition [848]: local jShapley = -4.025600011792514e-08
+loop number = 59
+k = 2, coalition [209, 978]: local jShapley = -6.034642786593596e-08
+k = 2, coalition [101, 434]: local jShapley = 1.6992345742461435e-09
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -6.631734935599533e-09
+k = 2, coalition [455, 848]: local jShapley = -2.3600480197863105e-11
+k = 2, coalition [209]: local jShapley = 0.00010509067637564717
+k = 2, coalition [978]: local jShapley = -8.921633680372146e-05
+k = 2, coalition [101]: local jShapley = 0.00027799190264485253
+k = 2, coalition [434]: local jShapley = 0.00019154589506958534
+k = 2, coalition [3]: local jShapley = -3.5648564443411256e-05
+k = 2, coalition [174]: local jShapley = -3.076530693758091e-05
+k = 2, coalition [269]: local jShapley = -0.0001673988621852902
+k = 2, coalition [1003]: local jShapley = -0.00010968241903316592
+k = 2, coalition [455]: local jShapley = 0.0004245291162266581
+k = 2, coalition [848]: local jShapley = 0.0
+loop number = 60
+k = 2, coalition [209, 978]: local jShapley = 8.133262387108128e-06
+k = 2, coalition [101, 434]: local jShapley = 2.8320576237435725e-10
+k = 2, coalition [3, 174]: local jShapley = -3.3040672277008344e-10
+k = 2, coalition [269, 1003]: local jShapley = -7.080144059358931e-11
+k = 2, coalition [455, 848]: local jShapley = 1.875884168527149e-06
+k = 2, coalition [209]: local jShapley = 6.027696356640466e-05
+k = 2, coalition [978]: local jShapley = -0.0001893142457071158
+k = 2, coalition [101]: local jShapley = 0.0005872959371102437
+k = 2, coalition [434]: local jShapley = 4.991061709535972e-06
+k = 2, coalition [3]: local jShapley = 5.777418322009001e-07
+k = 2, coalition [174]: local jShapley = -2.601706055079014e-05
+k = 2, coalition [269]: local jShapley = -0.00023511619214637187
+k = 2, coalition [1003]: local jShapley = -8.528813584306173e-11
+k = 2, coalition [455]: local jShapley = 0.0008000367441741204
+k = 2, coalition [848]: local jShapley = -0.00037883062429617967
+test_reviews_vc[num_review] = [44, 101, 434, 447, 677, 860, 946]
+loop number = 0
+k = 2, coalition [209, 978]: local jShapley = -1.5864077585642195e-05
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -2.9937209130989346e-08
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 0.00013537163198977536
+k = 2, coalition [978]: local jShapley = 0.0
+k = 2, coalition [101]: local jShapley = 0.0002697727702817925
+k = 2, coalition [434]: local jShapley = 2.2718797761467256e-05
+k = 2, coalition [3]: local jShapley = 0.0
+k = 2, coalition [174]: local jShapley = -2.2204083861654376e-05
+k = 2, coalition [269]: local jShapley = -0.00035866910599983076
+k = 2, coalition [1003]: local jShapley = -8.780558574874138e-05
+k = 2, coalition [455]: local jShapley = 2.0053287651964046e-05
+k = 2, coalition [848]: local jShapley = -0.0007885471529540224
+loop number = 1
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 6.140393588300195e-05
+k = 2, coalition [3, 174]: local jShapley = -2.8969589442876962e-08
+k = 2, coalition [269, 1003]: local jShapley = -5.168886311087215e-05
+k = 2, coalition [455, 848]: local jShapley = -1.0347252935069913e-05
+k = 2, coalition [209]: local jShapley = 0.000122148047679852
+k = 2, coalition [978]: local jShapley = -3.31907309446859e-06
+k = 2, coalition [101]: local jShapley = 2.1036489281962863e-05
+k = 2, coalition [434]: local jShapley = 1.3853351904988516e-06
+k = 2, coalition [3]: local jShapley = -5.275604252742387e-05
+k = 2, coalition [174]: local jShapley = -7.33628928250773e-05
+k = 2, coalition [269]: local jShapley = -0.00035554372226186175
+k = 2, coalition [1003]: local jShapley = -6.128370472189616e-05
+k = 2, coalition [455]: local jShapley = 0.0
+k = 2, coalition [848]: local jShapley = 0.0
+loop number = 2
+k = 2, coalition [209, 978]: local jShapley = 2.2538458588959267e-09
+k = 2, coalition [101, 434]: local jShapley = 4.4840912375939895e-10
+k = 2, coalition [3, 174]: local jShapley = -2.079674315035697e-06
+k = 2, coalition [269, 1003]: local jShapley = -7.087460208220269e-07
+k = 2, coalition [455, 848]: local jShapley = -2.3600480197863106e-10
+k = 2, coalition [209]: local jShapley = 0.0001142130100972852
+k = 2, coalition [978]: local jShapley = -9.273379010216101e-07
+k = 2, coalition [101]: local jShapley = 0.0
+k = 2, coalition [434]: local jShapley = 6.207765197845923e-05
+k = 2, coalition [3]: local jShapley = -4.048960432199928e-05
+k = 2, coalition [174]: local jShapley = -3.0931362938067355e-05
+k = 2, coalition [269]: local jShapley = -0.00012235615073130906
+k = 2, coalition [1003]: local jShapley = -8.93602178888887e-05
+k = 2, coalition [455]: local jShapley = 3.790767658562227e-05
+k = 2, coalition [848]: local jShapley = -0.00032850866252164885
+loop number = 3
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 7.52690114950448e-07
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -1.7480049665750276e-06
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 5.907695949509278e-05
+k = 2, coalition [978]: local jShapley = -6.027841346471399e-05
+k = 2, coalition [101]: local jShapley = 0.00042704801603064705
+k = 2, coalition [434]: local jShapley = 0.00010727524668713135
+k = 2, coalition [3]: local jShapley = -1.831613890111256e-05
+k = 2, coalition [174]: local jShapley = -2.851182381233554e-07
+k = 2, coalition [269]: local jShapley = -0.00031233939657597786
+k = 2, coalition [1003]: local jShapley = -0.0001552263262174288
+k = 2, coalition [455]: local jShapley = 0.00025429885850765
+k = 2, coalition [848]: local jShapley = -0.00038484586858498706
+loop number = 4
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 4.789516852074636e-06
+k = 2, coalition [3, 174]: local jShapley = 6.608134455401669e-10
+k = 2, coalition [269, 1003]: local jShapley = -4.7879474201414774e-08
+k = 2, coalition [455, 848]: local jShapley = -3.42206962869015e-10
+k = 2, coalition [209]: local jShapley = 0.0
+k = 2, coalition [978]: local jShapley = -7.136493295481775e-05
+k = 2, coalition [101]: local jShapley = 0.00032820610285974556
+k = 2, coalition [434]: local jShapley = 0.00010225305480801267
+k = 2, coalition [3]: local jShapley = -3.8368531027650254e-05
+k = 2, coalition [174]: local jShapley = -1.6886539168111166e-05
+k = 2, coalition [269]: local jShapley = -0.00026876338519408983
+k = 2, coalition [1003]: local jShapley = -7.781186314319478e-05
+k = 2, coalition [455]: local jShapley = 0.0007383773452138355
+k = 2, coalition [848]: local jShapley = -0.00013603969395783403
+loop number = 5
+k = 2, coalition [209, 978]: local jShapley = -8.897381034594391e-09
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = 2.5523919333988947e-08
+k = 2, coalition [269, 1003]: local jShapley = -1.1800240098931553e-11
+k = 2, coalition [455, 848]: local jShapley = 4.956100841551252e-10
+k = 2, coalition [209]: local jShapley = 0.00012492050911170238
+k = 2, coalition [978]: local jShapley = -2.925383059417017e-08
+k = 2, coalition [101]: local jShapley = 0.00027799190264485253
+k = 2, coalition [434]: local jShapley = 6.590069266762447e-05
+k = 2, coalition [3]: local jShapley = -6.274477577702366e-06
+k = 2, coalition [174]: local jShapley = -3.631082681823263e-05
+k = 2, coalition [269]: local jShapley = -0.00042912418512147476
+k = 2, coalition [1003]: local jShapley = -1.659255096386013e-05
+k = 2, coalition [455]: local jShapley = 0.0007946896471415075
+k = 2, coalition [848]: local jShapley = -0.0001706731590084412
+loop number = 6
+k = 2, coalition [209, 978]: local jShapley = -3.663809347356862e-06
+k = 2, coalition [101, 434]: local jShapley = 5.089443554669179e-08
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -4.642190854439475e-06
+k = 2, coalition [455, 848]: local jShapley = 4.0736694467610714e-05
+k = 2, coalition [209]: local jShapley = 7.880709040034747e-05
+k = 2, coalition [978]: local jShapley = -9.289583756026284e-07
+k = 2, coalition [101]: local jShapley = 0.0006495805407503261
+k = 2, coalition [434]: local jShapley = 4.3974562840682624e-06
+k = 2, coalition [3]: local jShapley = 0.0
+k = 2, coalition [174]: local jShapley = -0.00011483424887876608
+k = 2, coalition [269]: local jShapley = -0.0004241749145985019
+k = 2, coalition [1003]: local jShapley = -0.00010350832559135085
+k = 2, coalition [455]: local jShapley = 8.109144783076803e-05
+k = 2, coalition [848]: local jShapley = -0.0003826208716971133
+loop number = 7
+k = 2, coalition [209, 978]: local jShapley = -2.749455943051052e-09
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = -4.5551286829895576e-06
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 0.00014816651548488354
+k = 2, coalition [978]: local jShapley = -0.00014444654550788464
+k = 2, coalition [101]: local jShapley = 0.0002741821669048788
+k = 2, coalition [434]: local jShapley = 0.0
+k = 2, coalition [3]: local jShapley = -2.0450133348041812e-05
+k = 2, coalition [174]: local jShapley = -2.3880678036057284e-09
+k = 2, coalition [269]: local jShapley = -4.1373274697469244e-06
+k = 2, coalition [1003]: local jShapley = -7.102625376738495e-05
+k = 2, coalition [455]: local jShapley = 0.00036379628757417226
+k = 2, coalition [848]: local jShapley = -0.0004680216305235557
+loop number = 8
+k = 2, coalition [209, 978]: local jShapley = 6.2806305916959224e-06
+k = 2, coalition [101, 434]: local jShapley = 8.968182475187979e-10
+k = 2, coalition [3, 174]: local jShapley = 1.8880384158290484e-10
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = -1.532294807530544e-05
+k = 2, coalition [209]: local jShapley = 0.00011081965103649732
+k = 2, coalition [978]: local jShapley = -6.297948872686376e-05
+k = 2, coalition [101]: local jShapley = 0.00031935289585076034
+k = 2, coalition [434]: local jShapley = 8.469794194302773e-06
+k = 2, coalition [3]: local jShapley = -5.9959862277340153e-05
+k = 2, coalition [174]: local jShapley = -6.881234433717075e-05
+k = 2, coalition [269]: local jShapley = -0.00043196018621452823
+k = 2, coalition [1003]: local jShapley = -0.00010997094879672301
+k = 2, coalition [455]: local jShapley = 0.00011773088983640398
+k = 2, coalition [848]: local jShapley = -0.00013711986819828643
+loop number = 9
+k = 2, coalition [209, 978]: local jShapley = -4.860695900351391e-06
+k = 2, coalition [101, 434]: local jShapley = 2.124314623329955e-06
+k = 2, coalition [3, 174]: local jShapley = -4.720096039572621e-11
+k = 2, coalition [269, 1003]: local jShapley = -7.953361826679867e-09
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 8.989616853452651e-05
+k = 2, coalition [978]: local jShapley = -8.443525448463111e-09
+k = 2, coalition [101]: local jShapley = 0.0005708046658076971
+k = 2, coalition [434]: local jShapley = 0.00010798492926548147
+k = 2, coalition [3]: local jShapley = 9.98672897840747e-06
+k = 2, coalition [174]: local jShapley = -2.4084687256993887e-05
+k = 2, coalition [269]: local jShapley = -0.00030455924224810204
+k = 2, coalition [1003]: local jShapley = -0.0001059009989542921
+k = 2, coalition [455]: local jShapley = 0.0004185986909889466
+k = 2, coalition [848]: local jShapley = -0.00036216643129821137
+loop number = 10
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 2.456573983795571e-07
+k = 2, coalition [3, 174]: local jShapley = -3.5400720296794657e-11
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 7.172314312535862e-05
+k = 2, coalition [978]: local jShapley = -7.594823208688804e-05
+k = 2, coalition [101]: local jShapley = 0.0005425945061318386
+k = 2, coalition [434]: local jShapley = 2.397389796853375e-05
+k = 2, coalition [3]: local jShapley = -4.442279463860584e-05
+k = 2, coalition [174]: local jShapley = -2.669544238328585e-05
+k = 2, coalition [269]: local jShapley = -0.00013716745897808684
+k = 2, coalition [1003]: local jShapley = -0.00015436973482508903
+k = 2, coalition [455]: local jShapley = 9.562130522926372e-05
+k = 2, coalition [848]: local jShapley = -0.00021890905826838655
+loop number = 11
+k = 2, coalition [209, 978]: local jShapley = -1.3556587835256524e-06
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = -7.658355824206578e-09
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = -2.2916066272125073e-08
+k = 2, coalition [209]: local jShapley = 8.048078477813171e-05
+k = 2, coalition [978]: local jShapley = -7.136476237854605e-05
+k = 2, coalition [101]: local jShapley = 3.334663765700702e-05
+k = 2, coalition [434]: local jShapley = 0.0
+k = 2, coalition [3]: local jShapley = 2.807659845512839e-05
+k = 2, coalition [174]: local jShapley = -3.3810434539721585e-05
+k = 2, coalition [269]: local jShapley = -0.0003841922629559538
+k = 2, coalition [1003]: local jShapley = -1.381753088793443e-06
+k = 2, coalition [455]: local jShapley = 0.00021623160781986532
+k = 2, coalition [848]: local jShapley = -0.0005021408081150292
+loop number = 12
+k = 2, coalition [209, 978]: local jShapley = -1.818653004047331e-07
+k = 2, coalition [101, 434]: local jShapley = 1.0628712261909628e-05
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -3.7022191288788837e-06
+k = 2, coalition [455, 848]: local jShapley = -2.3600480197863105e-11
+k = 2, coalition [209]: local jShapley = 7.051473817266618e-05
+k = 2, coalition [978]: local jShapley = -0.0001364242581623504
+k = 2, coalition [101]: local jShapley = 0.0006961321699036426
+k = 2, coalition [434]: local jShapley = 0.00011167074134407523
+k = 2, coalition [3]: local jShapley = -5.453007839702748e-05
+k = 2, coalition [174]: local jShapley = -2.4632834106057248e-05
+k = 2, coalition [269]: local jShapley = -0.0004076131526516811
+k = 2, coalition [1003]: local jShapley = -2.0329280059552193e-06
+k = 2, coalition [455]: local jShapley = 0.0004989352535293677
+k = 2, coalition [848]: local jShapley = -3.0703728903502223e-09
+loop number = 13
+k = 2, coalition [209, 978]: local jShapley = -1.594177036645356e-06
+k = 2, coalition [101, 434]: local jShapley = 5.900120049465777e-11
+k = 2, coalition [3, 174]: local jShapley = -2.3234672754796228e-08
+k = 2, coalition [269, 1003]: local jShapley = -2.2145510593664845e-07
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 7.310971499382719e-05
+k = 2, coalition [978]: local jShapley = -1.4977534823535913e-05
+k = 2, coalition [101]: local jShapley = 0.000606198005504598
+k = 2, coalition [434]: local jShapley = 1.2069635831966724e-05
+k = 2, coalition [3]: local jShapley = -2.0469152602334814e-09
+k = 2, coalition [174]: local jShapley = -2.790047845461247e-05
+k = 2, coalition [269]: local jShapley = -4.081131117039931e-05
+k = 2, coalition [1003]: local jShapley = -6.420448222197765e-05
+k = 2, coalition [455]: local jShapley = 0.0007544153527184441
+k = 2, coalition [848]: local jShapley = -0.00019261122917440103
+loop number = 14
+k = 2, coalition [209, 978]: local jShapley = 1.8172369752354591e-09
+k = 2, coalition [101, 434]: local jShapley = 3.024519539757146e-07
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -2.5641921734978264e-08
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 7.756921839672127e-05
+k = 2, coalition [978]: local jShapley = 0.0
+k = 2, coalition [101]: local jShapley = 0.00018042645435904618
+k = 2, coalition [434]: local jShapley = 0.0
+k = 2, coalition [3]: local jShapley = -2.372425959492111e-05
+k = 2, coalition [174]: local jShapley = -5.808147637353257e-05
+k = 2, coalition [269]: local jShapley = -0.00027341858222467585
+k = 2, coalition [1003]: local jShapley = -5.231821588207351e-05
+k = 2, coalition [455]: local jShapley = 0.0004465679116810486
+k = 2, coalition [848]: local jShapley = -0.00023389827756653295
+loop number = 15
+k = 2, coalition [209, 978]: local jShapley = -3.5400720296794657e-11
+k = 2, coalition [101, 434]: local jShapley = 1.0025708192614126e-05
+k = 2, coalition [3, 174]: local jShapley = -5.900120049465777e-11
+k = 2, coalition [269, 1003]: local jShapley = -2.8320576237435725e-10
+k = 2, coalition [455, 848]: local jShapley = -3.428079490972536e-05
+k = 2, coalition [209]: local jShapley = 2.558644075291852e-09
+k = 2, coalition [978]: local jShapley = -8.778929571479537e-05
+k = 2, coalition [101]: local jShapley = 0.0003537919465957132
+k = 2, coalition [434]: local jShapley = 0.0
+k = 2, coalition [3]: local jShapley = 3.090415602273342e-05
+k = 2, coalition [174]: local jShapley = -6.184583882523778e-06
+k = 2, coalition [269]: local jShapley = -0.00015626756642386883
+k = 2, coalition [1003]: local jShapley = -7.063529295268036e-05
+k = 2, coalition [455]: local jShapley = 0.00030750040361265
+k = 2, coalition [848]: local jShapley = -3.65920218021072e-06
+loop number = 16
+k = 2, coalition [209, 978]: local jShapley = -1.258377604150061e-07
+k = 2, coalition [101, 434]: local jShapley = 3.596831184555326e-07
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -2.3128470593905843e-09
+k = 2, coalition [455, 848]: local jShapley = -3.5400720296794657e-11
+k = 2, coalition [209]: local jShapley = 5.8734015900867825e-05
+k = 2, coalition [978]: local jShapley = -7.136476237854605e-05
+k = 2, coalition [101]: local jShapley = 0.0005823423595364108
+k = 2, coalition [434]: local jShapley = 0.00014454889127089632
+k = 2, coalition [3]: local jShapley = -3.199430897507943e-05
+k = 2, coalition [174]: local jShapley = -4.6756064814932404e-05
+k = 2, coalition [269]: local jShapley = -0.00036270494058792443
+k = 2, coalition [1003]: local jShapley = -5.077714455552523e-05
+k = 2, coalition [455]: local jShapley = 0.0
+k = 2, coalition [848]: local jShapley = 0.0
+loop number = 17
+k = 2, coalition [209, 978]: local jShapley = 3.5400720296794657e-11
+k = 2, coalition [101, 434]: local jShapley = 4.200885475219632e-09
+k = 2, coalition [3, 174]: local jShapley = -4.838098440561936e-10
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = 5.033388874127224e-05
+k = 2, coalition [209]: local jShapley = 2.462285539416361e-05
+k = 2, coalition [978]: local jShapley = -0.00020417868846252382
+k = 2, coalition [101]: local jShapley = 0.0011255879552972753
+k = 2, coalition [434]: local jShapley = 7.876291114598076e-05
+k = 2, coalition [3]: local jShapley = -5.079087594539596e-05
+k = 2, coalition [174]: local jShapley = -2.2477347048895544e-05
+k = 2, coalition [269]: local jShapley = -0.00042302915378158616
+k = 2, coalition [1003]: local jShapley = -5.094814726789057e-05
+k = 2, coalition [455]: local jShapley = 0.00037787906456457864
+k = 2, coalition [848]: local jShapley = -0.0002707147777421791
+loop number = 18
+k = 2, coalition [209, 978]: local jShapley = 2.7329356069125476e-08
+k = 2, coalition [101, 434]: local jShapley = 7.72571159469128e-06
+k = 2, coalition [3, 174]: local jShapley = 2.2680061470146443e-08
+k = 2, coalition [269, 1003]: local jShapley = -1.3164819863971997e-06
+k = 2, coalition [455, 848]: local jShapley = 2.500706881765574e-07
+k = 2, coalition [209]: local jShapley = 8.502621597788768e-05
+k = 2, coalition [978]: local jShapley = -6.871588345553225e-05
+k = 2, coalition [101]: local jShapley = 0.00032820610285974556
+k = 2, coalition [434]: local jShapley = 1.6034169538495605e-08
+k = 2, coalition [3]: local jShapley = -1.684380981205379e-05
+k = 2, coalition [174]: local jShapley = -1.2237653459577556e-05
+k = 2, coalition [269]: local jShapley = -4.940912285660252e-06
+k = 2, coalition [1003]: local jShapley = -7.830474328023185e-06
+k = 2, coalition [455]: local jShapley = 0.0002547847876616158
+k = 2, coalition [848]: local jShapley = -0.0002173547672807826
+loop number = 19
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = 5.546112846497829e-10
+k = 2, coalition [269, 1003]: local jShapley = -1.0489233423940256e-07
+k = 2, coalition [455, 848]: local jShapley = -6.672332481635897e-05
+k = 2, coalition [209]: local jShapley = 8.528813584306173e-11
+k = 2, coalition [978]: local jShapley = -4.624459186428156e-05
+k = 2, coalition [101]: local jShapley = 0.0010558701494659266
+k = 2, coalition [434]: local jShapley = 9.945014551166628e-05
+k = 2, coalition [3]: local jShapley = 0.0
+k = 2, coalition [174]: local jShapley = -6.590069266762447e-05
+k = 2, coalition [269]: local jShapley = -3.8820259639143035e-05
+k = 2, coalition [1003]: local jShapley = -3.970094492985849e-05
+k = 2, coalition [455]: local jShapley = 0.0002898355249168351
+k = 2, coalition [848]: local jShapley = -0.0004129266035147038
+loop number = 20
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 8.847820026178877e-08
+k = 2, coalition [3, 174]: local jShapley = -2.040143510704276e-07
+k = 2, coalition [269, 1003]: local jShapley = -3.3981151412893187e-07
+k = 2, coalition [455, 848]: local jShapley = -3.82628921332707e-05
+k = 2, coalition [209]: local jShapley = 1.8371064460595496e-07
+k = 2, coalition [978]: local jShapley = -0.0001359411861609353
+k = 2, coalition [101]: local jShapley = 0.00043012052112439335
+k = 2, coalition [434]: local jShapley = 0.00016465173132978518
+k = 2, coalition [3]: local jShapley = -3.0992002802651773e-06
+k = 2, coalition [174]: local jShapley = -1.0816838404567991e-05
+k = 2, coalition [269]: local jShapley = -0.00012738798016977802
+k = 2, coalition [1003]: local jShapley = -0.00015364248289075525
+k = 2, coalition [455]: local jShapley = 0.0005174311798208375
+k = 2, coalition [848]: local jShapley = -0.00048424181348632507
+loop number = 21
+k = 2, coalition [209, 978]: local jShapley = -3.0090612252275457e-09
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -2.5689405901136362e-05
+k = 2, coalition [455, 848]: local jShapley = -2.489850660874558e-09
+k = 2, coalition [209]: local jShapley = 4.6910436340808344e-05
+k = 2, coalition [978]: local jShapley = -0.00032957160855866095
+k = 2, coalition [101]: local jShapley = 0.0003287923735055308
+k = 2, coalition [434]: local jShapley = 6.207765197845923e-05
+k = 2, coalition [3]: local jShapley = -2.1076659993944943e-05
+k = 2, coalition [174]: local jShapley = -3.792209028057975e-05
+k = 2, coalition [269]: local jShapley = -0.0004466976349356659
+k = 2, coalition [1003]: local jShapley = -1.610751733532064e-05
+k = 2, coalition [455]: local jShapley = 0.0
+k = 2, coalition [848]: local jShapley = -0.00022355896743455025
+loop number = 22
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 2.8237974556743205e-08
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = 1.498630492564307e-08
+k = 2, coalition [209]: local jShapley = 0.0
+k = 2, coalition [978]: local jShapley = -1.0220930199432518e-06
+k = 2, coalition [101]: local jShapley = 0.0004942296085664305
+k = 2, coalition [434]: local jShapley = 0.00019341319351573336
+k = 2, coalition [3]: local jShapley = -2.4362385427298897e-05
+k = 2, coalition [174]: local jShapley = -7.364971682591752e-06
+k = 2, coalition [269]: local jShapley = -0.00019788365644408327
+k = 2, coalition [1003]: local jShapley = -9.381694942736792e-10
+k = 2, coalition [455]: local jShapley = 0.0010443707074661386
+k = 2, coalition [848]: local jShapley = -2.8456727676580918e-05
+loop number = 23
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = -2.8320576237435725e-10
+k = 2, coalition [269, 1003]: local jShapley = -3.5680586591221015e-05
+k = 2, coalition [455, 848]: local jShapley = 3.411076525013986e-05
+k = 2, coalition [209]: local jShapley = 5.863704329041427e-05
+k = 2, coalition [978]: local jShapley = -0.00021025384766676093
+k = 2, coalition [101]: local jShapley = 0.00027800716922116837
+k = 2, coalition [434]: local jShapley = 3.8515951570454994e-05
+k = 2, coalition [3]: local jShapley = -6.238187475901143e-05
+k = 2, coalition [174]: local jShapley = -7.27661317385834e-06
+k = 2, coalition [269]: local jShapley = -0.0005537588084018312
+k = 2, coalition [1003]: local jShapley = -7.6072752765218905e-06
+k = 2, coalition [455]: local jShapley = 0.0006944602665767112
+k = 2, coalition [848]: local jShapley = -0.0010477795463235823
+loop number = 24
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 3.254034209681365e-07
+k = 2, coalition [3, 174]: local jShapley = -2.3600480197863105e-11
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 7.516102259305658e-05
+k = 2, coalition [978]: local jShapley = 0.0
+k = 2, coalition [101]: local jShapley = 0.0006525835360133603
+k = 2, coalition [434]: local jShapley = 8.844627022519446e-05
+k = 2, coalition [3]: local jShapley = 7.539471208526657e-08
+k = 2, coalition [174]: local jShapley = -4.230120961544176e-06
+k = 2, coalition [269]: local jShapley = -5.42944272776931e-07
+k = 2, coalition [1003]: local jShapley = -0.00010147808416167468
+k = 2, coalition [455]: local jShapley = 0.00034454462311099717
+k = 2, coalition [848]: local jShapley = -5.633076680908204e-05
+loop number = 25
+k = 2, coalition [209, 978]: local jShapley = -1.1800240098931553e-11
+k = 2, coalition [101, 434]: local jShapley = 3.5294695139505756e-06
+k = 2, coalition [3, 174]: local jShapley = -2.3954133393628085e-06
+k = 2, coalition [269, 1003]: local jShapley = -1.327999020733757e-07
+k = 2, coalition [455, 848]: local jShapley = -2.496089447814863e-05
+k = 2, coalition [209]: local jShapley = 7.72745478873835e-05
+k = 2, coalition [978]: local jShapley = -0.00016722376564240438
+k = 2, coalition [101]: local jShapley = 0.00032752486387469914
+k = 2, coalition [434]: local jShapley = 8.713453869592817e-05
+k = 2, coalition [3]: local jShapley = 1.188038145853097e-05
+k = 2, coalition [174]: local jShapley = -2.2302847522960642e-07
+k = 2, coalition [269]: local jShapley = -0.00012675377759164899
+k = 2, coalition [1003]: local jShapley = 0.0
+k = 2, coalition [455]: local jShapley = 1.1128225388531007e-05
+k = 2, coalition [848]: local jShapley = -0.0004010427252426033
+loop number = 26
+k = 2, coalition [209, 978]: local jShapley = 1.0620216089038397e-10
+k = 2, coalition [101, 434]: local jShapley = 1.7007686054590047e-07
+k = 2, coalition [3, 174]: local jShapley = -1.0384211287059767e-09
+k = 2, coalition [269, 1003]: local jShapley = -5.664115247487145e-10
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 7.563343357749129e-05
+k = 2, coalition [978]: local jShapley = -0.00017655215550023927
+k = 2, coalition [101]: local jShapley = 0.0006106233936531549
+k = 2, coalition [434]: local jShapley = 8.189085352802505e-05
+k = 2, coalition [3]: local jShapley = 3.8089681467511367e-06
+k = 2, coalition [174]: local jShapley = -1.5077236654336452e-05
+k = 2, coalition [269]: local jShapley = -0.00011882991275487767
+k = 2, coalition [1003]: local jShapley = -6.678351016173599e-05
+k = 2, coalition [455]: local jShapley = 0.0003669244005324883
+k = 2, coalition [848]: local jShapley = -0.00017851369733649385
+loop number = 27
+k = 2, coalition [209, 978]: local jShapley = -1.6070746990734883e-07
+k = 2, coalition [101, 434]: local jShapley = 6.310768404908593e-08
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -9.558194480134556e-10
+k = 2, coalition [455, 848]: local jShapley = 8.700730033345697e-06
+k = 2, coalition [209]: local jShapley = 0.0001151811157272398
+k = 2, coalition [978]: local jShapley = -7.798909188947666e-05
+k = 2, coalition [101]: local jShapley = 0.00023424586936416134
+k = 2, coalition [434]: local jShapley = 4.2354088259664457e-07
+k = 2, coalition [3]: local jShapley = 2.7570242792628133e-06
+k = 2, coalition [174]: local jShapley = -2.2475641286178685e-05
+k = 2, coalition [269]: local jShapley = -0.00031290511278102485
+k = 2, coalition [1003]: local jShapley = -6.335168615168289e-05
+k = 2, coalition [455]: local jShapley = 3.411525433722469e-10
+k = 2, coalition [848]: local jShapley = 0.0
+loop number = 28
+k = 2, coalition [209, 978]: local jShapley = -2.3600480197863105e-11
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -2.4401704700340456e-05
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 1.4840135636692739e-08
+k = 2, coalition [978]: local jShapley = -5.2146189712078056e-05
+k = 2, coalition [101]: local jShapley = 0.0001922552364953921
+k = 2, coalition [434]: local jShapley = 0.0001277454227470963
+k = 2, coalition [3]: local jShapley = -4.119416961219882e-05
+k = 2, coalition [174]: local jShapley = -4.43498306383921e-09
+k = 2, coalition [269]: local jShapley = -0.00017149226626507794
+k = 2, coalition [1003]: local jShapley = -0.00011594794135660477
+k = 2, coalition [455]: local jShapley = 0.0006472871854215741
+k = 2, coalition [848]: local jShapley = -0.00023391985546490122
+loop number = 29
+k = 2, coalition [209, 978]: local jShapley = 2.338547982326057e-06
+k = 2, coalition [101, 434]: local jShapley = 1.1800240098931553e-11
+k = 2, coalition [3, 174]: local jShapley = -5.922363502052263e-07
+k = 2, coalition [269, 1003]: local jShapley = -7.332669197476067e-08
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 0.00017550515834462984
+k = 2, coalition [978]: local jShapley = -0.0001697882945990694
+k = 2, coalition [101]: local jShapley = 0.0003052651295044072
+k = 2, coalition [434]: local jShapley = 0.00015717494690110318
+k = 2, coalition [3]: local jShapley = -8.219038546110588e-05
+k = 2, coalition [174]: local jShapley = -3.818827455254595e-05
+k = 2, coalition [269]: local jShapley = -1.706607069406081e-05
+k = 2, coalition [1003]: local jShapley = -4.654079756006451e-05
+k = 2, coalition [455]: local jShapley = 2.6816295671775467e-06
+k = 2, coalition [848]: local jShapley = -0.00023386305356642975
+loop number = 30
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 2.403531904550873e-06
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = 2.5417717173098563e-08
+k = 2, coalition [209]: local jShapley = 1.872048995314452e-05
+k = 2, coalition [978]: local jShapley = -0.0002641978686383428
+k = 2, coalition [101]: local jShapley = 0.0004548858503494828
+k = 2, coalition [434]: local jShapley = 0.00012906824173402218
+k = 2, coalition [3]: local jShapley = -3.0493834801192448e-05
+k = 2, coalition [174]: local jShapley = -4.115834859514473e-05
+k = 2, coalition [269]: local jShapley = 0.0
+k = 2, coalition [1003]: local jShapley = -7.861962707776442e-05
+k = 2, coalition [455]: local jShapley = 0.0006138852384084729
+k = 2, coalition [848]: local jShapley = -0.00022952154629947454
+loop number = 31
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 5.6405147672892815e-09
+k = 2, coalition [3, 174]: local jShapley = -1.3346071551891585e-08
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = 1.0001647503052404e-06
+k = 2, coalition [209]: local jShapley = 2.692972889244674e-06
+k = 2, coalition [978]: local jShapley = -0.00021029824014146727
+k = 2, coalition [101]: local jShapley = 0.00027094744377675894
+k = 2, coalition [434]: local jShapley = 0.00010348930633705785
+k = 2, coalition [3]: local jShapley = -5.11801309973837e-05
+k = 2, coalition [174]: local jShapley = -2.1585318436112966e-05
+k = 2, coalition [269]: local jShapley = -1.4244739160372329e-05
+k = 2, coalition [1003]: local jShapley = -5.16192369647717e-05
+k = 2, coalition [455]: local jShapley = 8.27414321067879e-05
+k = 2, coalition [848]: local jShapley = -0.000778994028858241
+loop number = 32
+k = 2, coalition [209, 978]: local jShapley = 3.545618142525963e-07
+k = 2, coalition [101, 434]: local jShapley = 1.2508254504867444e-09
+k = 2, coalition [3, 174]: local jShapley = -9.086184876177295e-09
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = 1.010762545938091e-05
+k = 2, coalition [209]: local jShapley = 6.25068218780215e-05
+k = 2, coalition [978]: local jShapley = -9.815530103329692e-05
+k = 2, coalition [101]: local jShapley = 0.0002259961612044016
+k = 2, coalition [434]: local jShapley = 0.00011986275207993716
+k = 2, coalition [3]: local jShapley = -3.443858166020574e-05
+k = 2, coalition [174]: local jShapley = -7.120425010688941e-05
+k = 2, coalition [269]: local jShapley = -0.00037566080543943644
+k = 2, coalition [1003]: local jShapley = -9.847496096643672e-05
+k = 2, coalition [455]: local jShapley = 0.000734669699372466
+k = 2, coalition [848]: local jShapley = -0.0006189446159148191
+loop number = 33
+k = 2, coalition [209, 978]: local jShapley = -4.193805331160274e-08
+k = 2, coalition [101, 434]: local jShapley = 5.3112880685290916e-08
+k = 2, coalition [3, 174]: local jShapley = -3.5400720296794657e-11
+k = 2, coalition [269, 1003]: local jShapley = -8.603661258291884e-06
+k = 2, coalition [455, 848]: local jShapley = -1.2077073731652488e-06
+k = 2, coalition [209]: local jShapley = 6.027696356640466e-05
+k = 2, coalition [978]: local jShapley = -7.77415857192601e-05
+k = 2, coalition [101]: local jShapley = 1.3551943632919136e-05
+k = 2, coalition [434]: local jShapley = 7.906756036721218e-05
+k = 2, coalition [3]: local jShapley = -3.0479250529963285e-05
+k = 2, coalition [174]: local jShapley = -1.3116291835032776e-05
+k = 2, coalition [269]: local jShapley = -1.2055222137009247e-05
+k = 2, coalition [1003]: local jShapley = -3.970094492985849e-05
+k = 2, coalition [455]: local jShapley = 3.618929122465627e-05
+k = 2, coalition [848]: local jShapley = -0.0005616079608316039
+loop number = 34
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 2.714857639080984e-06
+k = 2, coalition [3, 174]: local jShapley = -8.21296710885636e-09
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = 5.470701052097588e-05
+k = 2, coalition [209]: local jShapley = 0.0
+k = 2, coalition [978]: local jShapley = -0.0001910850832716253
+k = 2, coalition [101]: local jShapley = 0.0004024605552128584
+k = 2, coalition [434]: local jShapley = 0.00012204101106936895
+k = 2, coalition [3]: local jShapley = 1.524951868873944e-07
+k = 2, coalition [174]: local jShapley = -9.722250469158136e-05
+k = 2, coalition [269]: local jShapley = -0.0004211265460471992
+k = 2, coalition [1003]: local jShapley = -5.749887311758861e-05
+k = 2, coalition [455]: local jShapley = 0.0004323896972666339
+k = 2, coalition [848]: local jShapley = -0.00017842022153960983
+loop number = 35
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 1.1800240098931553e-10
+k = 2, coalition [3, 174]: local jShapley = -5.8977600014459897e-08
+k = 2, coalition [269, 1003]: local jShapley = -3.744101721062022e-05
+k = 2, coalition [455, 848]: local jShapley = 4.867378376319415e-05
+k = 2, coalition [209]: local jShapley = 0.0
+k = 2, coalition [978]: local jShapley = -0.00010777588804453013
+k = 2, coalition [101]: local jShapley = 0.00011943238814647306
+k = 2, coalition [434]: local jShapley = 6.566777076863706e-05
+k = 2, coalition [3]: local jShapley = -2.9077881169925935e-05
+k = 2, coalition [174]: local jShapley = -5.714526850638328e-05
+k = 2, coalition [269]: local jShapley = -0.00016123363870960278
+k = 2, coalition [1003]: local jShapley = -0.00012303495900448398
+k = 2, coalition [455]: local jShapley = 0.0
+k = 2, coalition [848]: local jShapley = -0.0002365363248962947
+loop number = 36
+k = 2, coalition [209, 978]: local jShapley = -1.0384211287059767e-09
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = -5.900120049465776e-10
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = -2.9547801207724607e-08
+k = 2, coalition [209]: local jShapley = 0.00015087616220468554
+k = 2, coalition [978]: local jShapley = 0.0
+k = 2, coalition [101]: local jShapley = 0.00033372224097759937
+k = 2, coalition [434]: local jShapley = 0.00017785339658879686
+k = 2, coalition [3]: local jShapley = -3.055669215730878e-05
+k = 2, coalition [174]: local jShapley = -1.5227343773420241e-05
+k = 2, coalition [269]: local jShapley = -0.00017290480837091075
+k = 2, coalition [1003]: local jShapley = -6.476516642700993e-05
+k = 2, coalition [455]: local jShapley = 0.00036379628757417226
+k = 2, coalition [848]: local jShapley = -0.0002554544274601876
+loop number = 37
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 1.545889274136518e-05
+k = 2, coalition [3, 174]: local jShapley = -1.8372973834036424e-08
+k = 2, coalition [269, 1003]: local jShapley = -5.4043919629096614e-06
+k = 2, coalition [455, 848]: local jShapley = -1.0501505673643144e-06
+k = 2, coalition [209]: local jShapley = 6.215637292784238e-05
+k = 2, coalition [978]: local jShapley = -8.88858452773296e-05
+k = 2, coalition [101]: local jShapley = 0.0
+k = 2, coalition [434]: local jShapley = 0.00013224744228570816
+k = 2, coalition [3]: local jShapley = 0.0
+k = 2, coalition [174]: local jShapley = -2.9266709102682474e-05
+k = 2, coalition [269]: local jShapley = -0.00014807350877274667
+k = 2, coalition [1003]: local jShapley = -5.743473643943463e-05
+k = 2, coalition [455]: local jShapley = 2.573270990588937e-05
+k = 2, coalition [848]: local jShapley = -0.0005568351514616904
+loop number = 38
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 2.096902665580137e-08
+k = 2, coalition [3, 174]: local jShapley = -4.5831719535846685e-06
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = -2.2845264831531485e-08
+k = 2, coalition [209]: local jShapley = 0.00013717539077472027
+k = 2, coalition [978]: local jShapley = -0.0001496814459977959
+k = 2, coalition [101]: local jShapley = 0.00028376445954311845
+k = 2, coalition [434]: local jShapley = 0.0001340689410029084
+k = 2, coalition [3]: local jShapley = -3.703662885425709e-05
+k = 2, coalition [174]: local jShapley = -4.83694604806756e-05
+k = 2, coalition [269]: local jShapley = -0.0002977158075161906
+k = 2, coalition [1003]: local jShapley = -9.3979935054964e-05
+k = 2, coalition [455]: local jShapley = 0.00035443830273319983
+k = 2, coalition [848]: local jShapley = -0.00036719510507565413
+loop number = 39
+k = 2, coalition [209, 978]: local jShapley = 8.41121114251841e-08
+k = 2, coalition [101, 434]: local jShapley = 7.554490110855782e-06
+k = 2, coalition [3, 174]: local jShapley = -8.14205946610188e-06
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 0.0
+k = 2, coalition [978]: local jShapley = -6.297948872686376e-05
+k = 2, coalition [101]: local jShapley = 0.0006295168479457892
+k = 2, coalition [434]: local jShapley = 6.266349618356522e-05
+k = 2, coalition [3]: local jShapley = -2.3630613221765426e-05
+k = 2, coalition [174]: local jShapley = -2.899796618664099e-09
+k = 2, coalition [269]: local jShapley = -0.0003254696756652889
+k = 2, coalition [1003]: local jShapley = -0.00010448973617049697
+k = 2, coalition [455]: local jShapley = 0.00052856511951447
+k = 2, coalition [848]: local jShapley = -0.00025119505266804924
+loop number = 40
+k = 2, coalition [209, 978]: local jShapley = 2.2420456187969947e-10
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = -4.8852994009576624e-09
+k = 2, coalition [269, 1003]: local jShapley = -3.0949528128596483e-05
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 0.00010346192884545222
+k = 2, coalition [978]: local jShapley = -5.2350198933014666e-05
+k = 2, coalition [101]: local jShapley = 0.0003904045654826265
+k = 2, coalition [434]: local jShapley = 5.400444761582669e-07
+k = 2, coalition [3]: local jShapley = -1.5342482756808374e-06
+k = 2, coalition [174]: local jShapley = -1.0399779420295418e-05
+k = 2, coalition [269]: local jShapley = -0.00028782792748722525
+k = 2, coalition [1003]: local jShapley = -9.449371078528259e-05
+k = 2, coalition [455]: local jShapley = 0.0003402418366577147
+k = 2, coalition [848]: local jShapley = -0.0008210618048458803
+loop number = 41
+k = 2, coalition [209, 978]: local jShapley = -1.615216864741751e-07
+k = 2, coalition [101, 434]: local jShapley = 1.8948825550864287e-06
+k = 2, coalition [3, 174]: local jShapley = -4.307087636110016e-09
+k = 2, coalition [269, 1003]: local jShapley = -2.7243733526967628e-05
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 6.250537197971218e-05
+k = 2, coalition [978]: local jShapley = -0.00021687775073701233
+k = 2, coalition [101]: local jShapley = 0.0002013721117763362
+k = 2, coalition [434]: local jShapley = 5.236913289917182e-05
+k = 2, coalition [3]: local jShapley = 2.4433345156320325e-05
+k = 2, coalition [174]: local jShapley = -8.188215413816905e-05
+k = 2, coalition [269]: local jShapley = -0.000468629606999913
+k = 2, coalition [1003]: local jShapley = 0.0
+k = 2, coalition [455]: local jShapley = 0.0003932091805416898
+k = 2, coalition [848]: local jShapley = -0.00017842022153960983
+loop number = 42
+k = 2, coalition [209, 978]: local jShapley = 1.9930015515090444e-06
+k = 2, coalition [101, 434]: local jShapley = 8.472572391032854e-09
+k = 2, coalition [3, 174]: local jShapley = 2.6774744784475694e-08
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = 1.1800240098931553e-11
+k = 2, coalition [209]: local jShapley = 5.8885061189445895e-05
+k = 2, coalition [978]: local jShapley = -8.903228500657213e-05
+k = 2, coalition [101]: local jShapley = 0.0002239046402491222
+k = 2, coalition [434]: local jShapley = 0.0
+k = 2, coalition [3]: local jShapley = -2.1169027045062977e-05
+k = 2, coalition [174]: local jShapley = -3.229895819631085e-05
+k = 2, coalition [269]: local jShapley = -0.0001427556229266601
+k = 2, coalition [1003]: local jShapley = -3.5992872647809694e-06
+k = 2, coalition [455]: local jShapley = 0.0006213894856168963
+k = 2, coalition [848]: local jShapley = 0.0
+loop number = 43
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 0.00013853292203293426
+k = 2, coalition [978]: local jShapley = -7.189551044789743e-05
+k = 2, coalition [101]: local jShapley = 0.0005527499776870116
+k = 2, coalition [434]: local jShapley = 0.0
+k = 2, coalition [3]: local jShapley = -2.1065913688828717e-05
+k = 2, coalition [174]: local jShapley = 0.0
+k = 2, coalition [269]: local jShapley = -0.0002630904448384886
+k = 2, coalition [1003]: local jShapley = -6.835276921718042e-05
+k = 2, coalition [455]: local jShapley = 0.00035462252510662086
+k = 2, coalition [848]: local jShapley = -0.0005946016761824924
+loop number = 44
+k = 2, coalition [209, 978]: local jShapley = -5.364389148974284e-08
+k = 2, coalition [101, 434]: local jShapley = 5.770317408377529e-08
+k = 2, coalition [3, 174]: local jShapley = -1.7618348479709754e-07
+k = 2, coalition [269, 1003]: local jShapley = -8.855490182243183e-07
+k = 2, coalition [455, 848]: local jShapley = -1.0781289366388812e-06
+k = 2, coalition [209]: local jShapley = 6.152131746835493e-05
+k = 2, coalition [978]: local jShapley = -1.40757407191993e-05
+k = 2, coalition [101]: local jShapley = 0.000728652536100602
+k = 2, coalition [434]: local jShapley = 1.4093182142979207e-05
+k = 2, coalition [3]: local jShapley = 1.744261781380793e-05
+k = 2, coalition [174]: local jShapley = -7.834018050067463e-05
+k = 2, coalition [269]: local jShapley = -0.0004220123486260652
+k = 2, coalition [1003]: local jShapley = -3.970094492985849e-05
+k = 2, coalition [455]: local jShapley = 0.00036379628757417226
+k = 2, coalition [848]: local jShapley = -0.0005115602004138087
+loop number = 45
+k = 2, coalition [209, 978]: local jShapley = -1.1682237697942237e-08
+k = 2, coalition [101, 434]: local jShapley = 1.4045943792159217e-06
+k = 2, coalition [3, 174]: local jShapley = -8.260168069252086e-11
+k = 2, coalition [269, 1003]: local jShapley = -7.080144059358931e-11
+k = 2, coalition [455, 848]: local jShapley = 1.0862121011066493e-07
+k = 2, coalition [209]: local jShapley = 0.0
+k = 2, coalition [978]: local jShapley = -8.300753109061826e-05
+k = 2, coalition [101]: local jShapley = 0.00042185682571035536
+k = 2, coalition [434]: local jShapley = 5.578816368884848e-05
+k = 2, coalition [3]: local jShapley = -6.366972561024165e-05
+k = 2, coalition [174]: local jShapley = -2.5124605497328338e-05
+k = 2, coalition [269]: local jShapley = -0.00012085712645573141
+k = 2, coalition [1003]: local jShapley = -2.7223887672969462e-05
+k = 2, coalition [455]: local jShapley = 0.0004958174604354887
+k = 2, coalition [848]: local jShapley = -0.0004001439162230212
+loop number = 46
+k = 2, coalition [209, 978]: local jShapley = 3.186064826711519e-09
+k = 2, coalition [101, 434]: local jShapley = 4.9415570456293186e-05
+k = 2, coalition [3, 174]: local jShapley = 3.5400720296794657e-11
+k = 2, coalition [269, 1003]: local jShapley = -4.60468969140507e-07
+k = 2, coalition [455, 848]: local jShapley = -2.304468888920343e-07
+k = 2, coalition [209]: local jShapley = 8.732583998462416e-05
+k = 2, coalition [978]: local jShapley = -0.0001427295247570921
+k = 2, coalition [101]: local jShapley = 0.0005368598171658869
+k = 2, coalition [434]: local jShapley = 5.115147418374043e-05
+k = 2, coalition [3]: local jShapley = 2.1322033960765434e-09
+k = 2, coalition [174]: local jShapley = -5.157475920192954e-05
+k = 2, coalition [269]: local jShapley = -0.0003502242585852621
+k = 2, coalition [1003]: local jShapley = -5.833964356072952e-06
+k = 2, coalition [455]: local jShapley = 0.0006750222475367189
+k = 2, coalition [848]: local jShapley = -0.0007807881500838356
+loop number = 47
+k = 2, coalition [209, 978]: local jShapley = -4.720096039572621e-11
+k = 2, coalition [101, 434]: local jShapley = 1.4324311456093012e-07
+k = 2, coalition [3, 174]: local jShapley = 1.2862261707835393e-09
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = -4.200885475219632e-09
+k = 2, coalition [209]: local jShapley = 3.1824500296615895e-05
+k = 2, coalition [978]: local jShapley = -6.876142732007245e-05
+k = 2, coalition [101]: local jShapley = 0.0006924305795199179
+k = 2, coalition [434]: local jShapley = 2.9054256356297407e-06
+k = 2, coalition [3]: local jShapley = 1.5940352589068236e-06
+k = 2, coalition [174]: local jShapley = -2.2475641286178685e-05
+k = 2, coalition [269]: local jShapley = -0.00028559448707390304
+k = 2, coalition [1003]: local jShapley = -8.883441653141623e-05
+k = 2, coalition [455]: local jShapley = 0.00023569299580907847
+k = 2, coalition [848]: local jShapley = -0.0004622593934897268
+loop number = 48
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -3.42206962869015e-10
+k = 2, coalition [455, 848]: local jShapley = 2.8214374076545342e-08
+k = 2, coalition [209]: local jShapley = 8.528813584306173e-11
+k = 2, coalition [978]: local jShapley = -0.0002164272588034893
+k = 2, coalition [101]: local jShapley = 8.09117457285467e-05
+k = 2, coalition [434]: local jShapley = 4.894609356711054e-05
+k = 2, coalition [3]: local jShapley = 4.555239335377927e-07
+k = 2, coalition [174]: local jShapley = -3.968226682810886e-05
+k = 2, coalition [269]: local jShapley = -0.0002923480281106359
+k = 2, coalition [1003]: local jShapley = -6.0607540380932375e-05
+k = 2, coalition [455]: local jShapley = 0.0006439741251406824
+k = 2, coalition [848]: local jShapley = -0.000523696318347665
+loop number = 49
+k = 2, coalition [209, 978]: local jShapley = -4.720096039572621e-11
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = -2.3600480197863105e-11
+k = 2, coalition [269, 1003]: local jShapley = -1.2439819012413692e-05
+k = 2, coalition [455, 848]: local jShapley = 1.4744624208176853e-05
+k = 2, coalition [209]: local jShapley = 7.027742393468287e-08
+k = 2, coalition [978]: local jShapley = -8.867249700551818e-05
+k = 2, coalition [101]: local jShapley = 0.0
+k = 2, coalition [434]: local jShapley = 2.9526667340732128e-05
+k = 2, coalition [3]: local jShapley = -1.9159297412057073e-05
+k = 2, coalition [174]: local jShapley = -1.3519704717570458e-05
+k = 2, coalition [269]: local jShapley = -0.0001673988621852902
+k = 2, coalition [1003]: local jShapley = -5.1024736013877644e-05
+k = 2, coalition [455]: local jShapley = 0.00038684634445525397
+k = 2, coalition [848]: local jShapley = -0.0010944618795450782
+loop number = 50
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 6.608134455401669e-10
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = 7.078315022143597e-06
+k = 2, coalition [209]: local jShapley = 0.0
+k = 2, coalition [978]: local jShapley = -0.00013434425110540982
+k = 2, coalition [101]: local jShapley = 0.00027799190264485253
+k = 2, coalition [434]: local jShapley = 0.00017806030560635211
+k = 2, coalition [3]: local jShapley = -3.29750372491388e-05
+k = 2, coalition [174]: local jShapley = 0.0
+k = 2, coalition [269]: local jShapley = 0.0
+k = 2, coalition [1003]: local jShapley = -7.500673635531649e-05
+k = 2, coalition [455]: local jShapley = 0.0007448511411650031
+k = 2, coalition [848]: local jShapley = -6.721233890875491e-05
+loop number = 51
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -1.4251503974682602e-06
+k = 2, coalition [455, 848]: local jShapley = -5.846782964218606e-07
+k = 2, coalition [209]: local jShapley = 3.5360461120533396e-07
+k = 2, coalition [978]: local jShapley = -5.287864422269828e-09
+k = 2, coalition [101]: local jShapley = 0.00033198658476912515
+k = 2, coalition [434]: local jShapley = 1.3646101734889877e-09
+k = 2, coalition [3]: local jShapley = 6.140745780700445e-09
+k = 2, coalition [174]: local jShapley = -3.076530693758091e-05
+k = 2, coalition [269]: local jShapley = -6.318887110035848e-05
+k = 2, coalition [1003]: local jShapley = 0.0
+k = 2, coalition [455]: local jShapley = 0.0002523719010104797
+k = 2, coalition [848]: local jShapley = 0.0
+loop number = 52
+k = 2, coalition [209, 978]: local jShapley = -3.941280193043138e-09
+k = 2, coalition [101, 434]: local jShapley = 2.1240432178076794e-10
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = -2.3782203895386652e-07
+k = 2, coalition [455, 848]: local jShapley = -1.3560411113048578e-05
+k = 2, coalition [209]: local jShapley = 1.0516027149449511e-07
+k = 2, coalition [978]: local jShapley = -7.136757688702888e-05
+k = 2, coalition [101]: local jShapley = 5.799678525464041e-06
+k = 2, coalition [434]: local jShapley = 0.00016048412657181397
+k = 2, coalition [3]: local jShapley = -5.162516449021279e-05
+k = 2, coalition [174]: local jShapley = -3.990358954062161e-05
+k = 2, coalition [269]: local jShapley = -3.5154404984336555e-05
+k = 2, coalition [1003]: local jShapley = -6.005035298946965e-05
+k = 2, coalition [455]: local jShapley = 0.00035443830273319983
+k = 2, coalition [848]: local jShapley = -0.00034810054135870196
+loop number = 53
+k = 2, coalition [209, 978]: local jShapley = -2.3600480197863105e-11
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = -1.2999144492982998e-06
+k = 2, coalition [269, 1003]: local jShapley = -1.6744540700383874e-08
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 0.00012018428835206549
+k = 2, coalition [978]: local jShapley = -8.404958153434879e-05
+k = 2, coalition [101]: local jShapley = 0.00021830538884288936
+k = 2, coalition [434]: local jShapley = 1.554401862180553e-05
+k = 2, coalition [3]: local jShapley = -2.029380019504148e-05
+k = 2, coalition [174]: local jShapley = -8.260616512334081e-05
+k = 2, coalition [269]: local jShapley = -0.00024001505738106152
+k = 2, coalition [1003]: local jShapley = -0.00010240222375760218
+k = 2, coalition [455]: local jShapley = 0.0008317496449449857
+k = 2, coalition [848]: local jShapley = -7.241252712737807e-05
+loop number = 54
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = -3.5749889401322042e-06
+k = 2, coalition [269, 1003]: local jShapley = -1.5065366534305913e-06
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 0.00012949041800644533
+k = 2, coalition [978]: local jShapley = -9.158410603099655e-06
+k = 2, coalition [101]: local jShapley = 0.00032820610285974556
+k = 2, coalition [434]: local jShapley = 2.0597084806099406e-07
+k = 2, coalition [3]: local jShapley = -9.276278806834765e-06
+k = 2, coalition [174]: local jShapley = -2.2475641286178685e-05
+k = 2, coalition [269]: local jShapley = -0.00020814543966058463
+k = 2, coalition [1003]: local jShapley = -0.00015808940629361248
+k = 2, coalition [455]: local jShapley = 0.00035443830273319983
+k = 2, coalition [848]: local jShapley = -0.0007768056632247118
+loop number = 55
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 1.1649079023264238e-06
+k = 2, coalition [3, 174]: local jShapley = 2.3600480197863105e-11
+k = 2, coalition [269, 1003]: local jShapley = -2.226351299465416e-07
+k = 2, coalition [455, 848]: local jShapley = -1.3747279715255259e-08
+k = 2, coalition [209]: local jShapley = 0.00010687567177070662
+k = 2, coalition [978]: local jShapley = 0.0
+k = 2, coalition [101]: local jShapley = 0.0008610602347935594
+k = 2, coalition [434]: local jShapley = 8.335981373571802e-05
+k = 2, coalition [3]: local jShapley = -1.821626649404034e-05
+k = 2, coalition [174]: local jShapley = -0.00010545502729196873
+k = 2, coalition [269]: local jShapley = -0.00013716038006281186
+k = 2, coalition [1003]: local jShapley = -5.592036029940522e-05
+k = 2, coalition [455]: local jShapley = 0.0
+k = 2, coalition [848]: local jShapley = -0.00011180046459869253
+loop number = 56
+k = 2, coalition [209, 978]: local jShapley = -1.3833657472779438e-06
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = -1.0297562124013312e-05
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = 0.0
+k = 2, coalition [209]: local jShapley = 1.1721830813998717e-05
+k = 2, coalition [978]: local jShapley = -6.952757064435067e-05
+k = 2, coalition [101]: local jShapley = 0.00014425822930394316
+k = 2, coalition [434]: local jShapley = 5.9904041192430876e-05
+k = 2, coalition [3]: local jShapley = -4.135809340928918e-05
+k = 2, coalition [174]: local jShapley = -4.966298299293939e-05
+k = 2, coalition [269]: local jShapley = -0.00013716038006281186
+k = 2, coalition [1003]: local jShapley = -9.29387374925919e-05
+k = 2, coalition [455]: local jShapley = 0.0008841454303866084
+k = 2, coalition [848]: local jShapley = -0.00019496006443551895
+loop number = 57
+k = 2, coalition [209, 978]: local jShapley = -2.020703205153291e-05
+k = 2, coalition [101, 434]: local jShapley = 1.8880384158290485e-09
+k = 2, coalition [3, 174]: local jShapley = 2.3600480197863105e-11
+k = 2, coalition [269, 1003]: local jShapley = -6.702536376193122e-08
+k = 2, coalition [455, 848]: local jShapley = -1.4490694841487946e-08
+k = 2, coalition [209]: local jShapley = 2.746789702961646e-06
+k = 2, coalition [978]: local jShapley = -9.533507824537439e-07
+k = 2, coalition [101]: local jShapley = 0.00040138745988768095
+k = 2, coalition [434]: local jShapley = 2.2388135658803705e-06
+k = 2, coalition [3]: local jShapley = -3.686528498934838e-05
+k = 2, coalition [174]: local jShapley = -1.7957715510232095e-05
+k = 2, coalition [269]: local jShapley = -0.00011050297618811203
+k = 2, coalition [1003]: local jShapley = -5.636479677528342e-05
+k = 2, coalition [455]: local jShapley = 0.00033412463040250693
+k = 2, coalition [848]: local jShapley = -0.0005390662212401469
+loop number = 58
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 5.900120049465777e-11
+k = 2, coalition [3, 174]: local jShapley = -6.678345883990313e-08
+k = 2, coalition [269, 1003]: local jShapley = -2.1588775265797252e-06
+k = 2, coalition [455, 848]: local jShapley = 4.8436374732643755e-05
+k = 2, coalition [209]: local jShapley = 7.801877216075005e-05
+k = 2, coalition [978]: local jShapley = -6.297948872686376e-05
+k = 2, coalition [101]: local jShapley = 2.976214788379482e-05
+k = 2, coalition [434]: local jShapley = 2.762056279277554e-06
+k = 2, coalition [3]: local jShapley = 3.7418463838426476e-06
+k = 2, coalition [174]: local jShapley = -2.1627194910811908e-05
+k = 2, coalition [269]: local jShapley = -0.00016649762245383654
+k = 2, coalition [1003]: local jShapley = -0.00014241673051888768
+k = 2, coalition [455]: local jShapley = 0.0007125645497483896
+k = 2, coalition [848]: local jShapley = -0.0006461463286724693
+loop number = 59
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 9.938221212520648e-06
+k = 2, coalition [3, 174]: local jShapley = -2.478050420775626e-09
+k = 2, coalition [269, 1003]: local jShapley = -1.9137027580202147e-05
+k = 2, coalition [455, 848]: local jShapley = 7.080144059358931e-11
+k = 2, coalition [209]: local jShapley = 0.0
+k = 2, coalition [978]: local jShapley = -0.0001420420170940612
+k = 2, coalition [101]: local jShapley = 0.0005772731312503746
+k = 2, coalition [434]: local jShapley = 8.759594751083913e-05
+k = 2, coalition [3]: local jShapley = -4.877671132932622e-05
+k = 2, coalition [174]: local jShapley = -2.030693456796131e-05
+k = 2, coalition [269]: local jShapley = -0.0003862872807248027
+k = 2, coalition [1003]: local jShapley = -7.566601364538336e-05
+k = 2, coalition [455]: local jShapley = 0.0010661823806147792
+k = 2, coalition [848]: local jShapley = -0.00018440813098087952
+loop number = 60
+k = 2, coalition [209, 978]: local jShapley = -1.6104967687021782e-07
+k = 2, coalition [101, 434]: local jShapley = 1.412276335520326e-06
+k = 2, coalition [3, 174]: local jShapley = 0.0
+k = 2, coalition [269, 1003]: local jShapley = 0.0
+k = 2, coalition [455, 848]: local jShapley = -1.3784686476368871e-06
+k = 2, coalition [209]: local jShapley = 1.0304512572558717e-06
+k = 2, coalition [978]: local jShapley = -0.00014544040815486382
+k = 2, coalition [101]: local jShapley = 1.957601524378627e-05
+k = 2, coalition [434]: local jShapley = 3.439064972786194e-05
+k = 2, coalition [3]: local jShapley = 0.0
+k = 2, coalition [174]: local jShapley = -2.751992279248073e-05
+k = 2, coalition [269]: local jShapley = -0.00027656614087796403
+k = 2, coalition [1003]: local jShapley = -1.9543179311486692e-05
+k = 2, coalition [455]: local jShapley = 0.0009877116666221967
+k = 2, coalition [848]: local jShapley = -0.00031129231413223256
+test_reviews_vc[num_review] = [44, 101, 434, 447, 677, 860, 946]
+loop number = 0
+k = 2, coalition [209, 978]: local jShapley = 5.619710943994865e-06
+k = 2, coalition [101, 434]: local jShapley = 1.4679421981510208e-05
+k = 2, coalition [3, 174]: local jShapley = -1.4329326558135057e-06
+k = 2, coalition [269, 1003]: local jShapley = -9.186132909815245e-07
+k = 2, coalition [455, 848]: local jShapley = -1.2877602019964004e-07
+k = 2, coalition [209]: local jShapley = 0.0001503971840337909
+k = 2, coalition [978]: local jShapley = -0.00016816692449262487
+k = 2, coalition [101]: local jShapley = 0.0005520044740916074
+k = 2, coalition [434]: local jShapley = 9.187485328608554e-05
+k = 2, coalition [3]: local jShapley = 6.607698324441207e-07
+k = 2, coalition [174]: local jShapley = 6.795758666699952e-06
+k = 2, coalition [269]: local jShapley = -0.00014953330050583653
+k = 2, coalition [1003]: local jShapley = -6.284737740444285e-05
+k = 2, coalition [455]: local jShapley = 0.0007806385546935669
+k = 2, coalition [848]: local jShapley = -0.00035442542422468756
+loop number = 1
+k = 2, coalition [209, 978]: local jShapley = 0.0
+k = 2, coalition [101, 434]: local jShapley = 1.1527654552646234e-05
+k = 2, coalition [3, 174]: local jShapley = -3.521321448162263e-06
+k = 2, coalition [269, 1003]: local jShapley = -2.6174112563440076e-05
+k = 2, coalition [455, 848]: local jShapley = 2.8792585841392988e-09
+k = 2, coalition [209]: local jShapley = 0.0001743139389513098
+k = 2, coalition [978]: local jShapley = -0.00014054503973374378
+k = 2, coalition [101]: local jShapley = 0.0001350059164632803
+k = 2, coalition [434]: local jShapley = 1.9449106497651797e-06
+k = 2, coalition [3]: local jShapley = -5.603515813024999e-06
+k = 2, coalition [174]: local jShapley = 3.3016743147566053e-06
+k = 2, coalition [269]: local jShapley = -0.00031133291128489384
+k = 2, coalition [1003]: local jShapley = -4.7641952681934286e-07
+k = 2, coalition [455]: local jShapley = 0.0008715326797055931
+k = 2, coalition [848]: local jShapley = -0.0006618912008541853
+loop number = 2
+k = 2, coalition [209, 978]: local jShapley = 1.6318681835453534e-05
+k = 2, coalition [101, 434]: local jShapley = 2.0178410569172954e-09
+k = 2, coalition [3, 174]: local jShapley = -7.893770614180263e-08
+k = 2, coalition [269, 1003]: local jShapley = -8.960102040390009e-07
+k = 2, coalition [455, 848]: local jShapley = 5.9937301741465905e-05
+k = 2, coalition [209]: local jShapley = 0.00020043091455324008
+k = 2, coalition [978]: local jShapley = -0.00022867817456819042
+k = 2, coalition [101]: local jShapley = 0.0003111190939283353
+k = 2, coalition [434]: local jShapley = 0.00012866602288538629
+k = 2, coalition [3]: local jShapley = 6.758914189290956e-05
+k = 2, coalition [174]: local jShapley = 1.0234576301167407e-09
+k = 2, coalition [269]: local jShapley = -0.0002462098758398864
+k = 2, coalition [1003]: local jShapley = -3.8622050011443755e-05
+k = 2, coalition [455]: local jShapley = 0.00039421549525650205
+k = 2, coalition [848]: local jShapley = -0.00027102804106513066
+loop number = 3
+k = 2, coalition [209, 978]: local jShapley = -1.367624226985969e-06
+k = 2, coalition [101, 434]: local jShapley = 1.878952230952871e-07
+k = 2, coalition [3, 174]: local jShapley = -1.943298940212345e-06
+k = 2, coalition [269, 1003]: local jShapley = -5.93564467228361e-06
+k = 2, coalition [455, 848]: local jShapley = 6.949279396661781e-07
+k = 2, coalition [209]: local jShapley = 8.802716432566166e-05
+k = 2, coalition [978]: local jShapley = -0.0001992194392276573
+k = 2, coalition [101]: local jShapley = 0.00028000883912533713
+k = 2, coalition [434]: local jShapley = 0.00011988057730032835
+k = 2, coalition [3]: local jShapley = -1.62324218102628e-05
+k = 2, coalition [174]: local jShapley = 3.4735299084803748e-06
+k = 2, coalition [269]: local jShapley = -0.000682897327559788
+k = 2, coalition [1003]: local jShapley = -1.2838252512184395e-05
+k = 2, coalition [455]: local jShapley = 0.0006778410204263322
+k = 2, coalition [848]: local jShapley = -0.00017425184918841606
+loop number = 4
+k = 2, coalition [209, 978]: local jShapley = 1.6607616614395918e-05
+k = 2, coalition [101, 434]: local jShapley = 4.125363938586471e-08
+k = 2, coalition [3, 174]: local jShapley = -1.117140530405949e-06
+k = 2, coalition [269, 1003]: local jShapley = -2.7982758963883515e-05
+k = 2, coalition [455, 848]: local jShapley = 1.600516125626502e-05
+k = 2, coalition [209]: local jShapley = 5.252725710302486e-06
+k = 2, coalition [978]: local jShapley = -0.00020287505930616264
+k = 2, coalition [101]: local jShapley = 0.0007854627928093939
+k = 2, coalition [434]: local jShapley = 0.00011260362297392663
+k = 2, coalition [3]: local jShapley = -2.812913594680772e-05
+k = 2, coalition [174]: local jShapley = 4.457157979158406e-07
+k = 2, coalition [269]: local jShapley = -0.0003290466600825469
+k = 2, coalition [1003]: local jShapley = -4.0809264255139074e-05
+k = 2, coalition [455]: local jShapley = 0.0003445975870433557
+k = 2, coalition [848]: local jShapley = -0.00018971416177608394
+loop number = 5
+k = 2, coalition [209, 978]: local jShapley = -3.1544401832463823e-07
+k = 2, coalition [101, 434]: local jShapley = 1.9867515543406456e-05
+k = 2, coalition [3, 174]: local jShapley = -3.4602434054101936e-06
+k = 2, coalition [269, 1003]: local jShapley = -2.116384861983473e-06
+k = 2, coalition [455, 848]: local jShapley = 3.750175304640942e-06
+k = 2, coalition [209]: local jShapley = 0.00021423748591571868
+k = 2, coalition [978]: local jShapley = -0.0002452252243115783
+k = 2, coalition [101]: local jShapley = 0.00046516780421011105
+k = 2, coalition [434]: local jShapley = 6.985678284870489e-05
+k = 2, coalition [3]: local jShapley = 6.0546303499397054e-05
+k = 2, coalition [174]: local jShapley = -1.549472207928824e-06
+k = 2, coalition [269]: local jShapley = -0.0002574636027203105
+k = 2, coalition [1003]: local jShapley = -1.850176852877499e-05
+k = 2, coalition [455]: local jShapley = 1.5646662893292655e-05
+k = 2, coalition [848]: local jShapley = -5.932216288564158e-06
+loop number = 6
+k = 2, coalition [209, 978]: local jShapley = -1.4762548772887131e-05
+k = 2, coalition [101, 434]: local jShapley = 2.507551021022955e-08
+k = 2, coalition [3, 174]: local jShapley = -5.976630029062303e-10
+k = 2, coalition [269, 1003]: local jShapley = -4.0720858545397944e-07
+k = 2, coalition [455, 848]: local jShapley = -2.0428575659270304e-07
+k = 2, coalition [209]: local jShapley = 0.000284409237850092
+k = 2, coalition [978]: local jShapley = -0.00014912903474194043
+k = 2, coalition [101]: local jShapley = 0.00045084946138850614
+k = 2, coalition [434]: local jShapley = 5.67446274882605e-05
+k = 2, coalition [3]: local jShapley = 1.4839112179062624e-05
+k = 2, coalition [174]: local jShapley = 6.008293305736169e-06
+k = 2, coalition [269]: local jShapley = -0.00040976889557325035
+k = 2, coalition [1003]: local jShapley = -5.739251881219231e-05
+k = 2, coalition [455]: local jShapley = 0.00036918069816621645
+k = 2, coalition [848]: local jShapley = 0.0
+loop number = 7
+k = 2, coalition [209, 978]: local jShapley = -8.093389201518299e-06
+k = 2, coalition [101, 434]: local jShapley = 1.9226024991028288e-05
+k = 2, coalition [3, 174]: local jShapley = -5.072215204124738e-07
+k = 2, coalition [269, 1003]: local jShapley = -1.7430193651332289e-06
+k = 2, coalition [455, 848]: local jShapley = 5.370151206214592e-05
+k = 2, coalition [209]: local jShapley = 0.00016169649742282308
+k = 2, coalition [978]: local jShapley = -0.0002666615443743734
+k = 2, coalition [101]: local jShapley = 0.001122063806880172
+k = 2, coalition [434]: local jShapley = 8.7710148324733e-05
+k = 2, coalition [3]: local jShapley = -1.261164193524938e-05
+k = 2, coalition [174]: local jShapley = 1.5536086825172125e-05
+k = 2, coalition [269]: local jShapley = -0.00023221665139211528
+k = 2, coalition [1003]: local jShapley = -3.952115753950132e-05
+k = 2, coalition [455]: local jShapley = 0.0013412997319291772
+k = 2, coalition [848]: local jShapley = -0.0007388361100965354
+loop number = 8
+k = 2, coalition [209, 978]: local jShapley = 1.5458314529600332e-09
+k = 2, coalition [101, 434]: local jShapley = 2.4528427478762884e-05
+k = 2, coalition [3, 174]: local jShapley = -1.057541061195377e-09
+k = 2, coalition [269, 1003]: local jShapley = -7.948972137363063e-06
+k = 2, coalition [455, 848]: local jShapley = 1.5511014401882164e-05
+k = 2, coalition [209]: local jShapley = 0.00011439936467410229
+k = 2, coalition [978]: local jShapley = -6.838044521726149e-05
+k = 2, coalition [101]: local jShapley = 0.0002810129789926854
+k = 2, coalition [434]: local jShapley = 6.061602655044875e-05
+k = 2, coalition [3]: local jShapley = -1.5053355976300395e-07
+k = 2, coalition [174]: local jShapley = -4.568800148976973e-06
+k = 2, coalition [269]: local jShapley = -0.00027231103049261783
+k = 2, coalition [1003]: local jShapley = 0.0
+k = 2, coalition [455]: local jShapley = 0.0007944355737848311
+k = 2, coalition [848]: local jShapley = -3.7833817059982185e-07
+loop number = 9
+k = 2, coalition [209, 978]: local jShapley = -3.6064483802359555e-06
+k = 2, coalition [101, 434]: local jShapley = 5.8704188451367656e-06
+k = 2, coalition [3, 174]: local jShapley = -1.1542168847967918e-06
+k = 2, coalition [269, 1003]: local jShapley = -9.493293159590434e-07
+k = 2, coalition [455, 848]: local jShapley = -4.6386743828899934e-07
+k = 2, coalition [209]: local jShapley = 0.00014972630755724937
+k = 2, coalition [978]: local jShapley = -0.000118538994923517
+k = 2, coalition [101]: local jShapley = 0.0003343053133182905
+k = 2, coalition [434]: local jShapley = 2.952504686615111e-06
+k = 2, coalition [3]: local jShapley = 5.806851257688443e-05
+k = 2, coalition [174]: local jShapley = 1.7856777001461832e-06
+k = 2, coalition [269]: local jShapley = -0.00019332146612563415
+k = 2, coalition [1003]: local jShapley = -4.003126587997867e-05
+k = 2, coalition [455]: local jShapley = 0.000375177904014293
+k = 2, coalition [848]: local jShapley = -0.0005029828578802078
+loop number = 10
+k = 2, coalition [209, 978]: local jShapley = -9.58179496033242e-09
+k = 2, coalition [101, 434]: local jShapley = 2.4898506608745574e-08
+k = 2, coalition [3, 174]: local jShapley = -4.7025608827856085e-06
+k = 2, coalition [269, 1003]: local jShapley = -1.950473486192495e-06
+k = 2, coalition [455, 848]: local jShapley = -1.2661185616549599e-06
+k = 2, coalition [209]: local jShapley = 0.00020890522901874253
+k = 2, coalition [978]: local jShapley = -8.37342969075645e-05
+k = 2, coalition [101]: local jShapley = 0.000381023808709384
+k = 2, coalition [434]: local jShapley = 6.011150458286912e-05
+k = 2, coalition [3]: local jShapley = 3.866367062173517e-06
+k = 2, coalition [174]: local jShapley = 2.401031600253874e-06
+k = 2, coalition [269]: local jShapley = -0.0004541179586184198
+k = 2, coalition [1003]: local jShapley = -1.1709805186844846e-05
+k = 2, coalition [455]: local jShapley = 0.0011736365618109092
+k = 2, coalition [848]: local jShapley = -0.0007548103220755333
+loop number = 11
+k = 2, coalition [209, 978]: local jShapley = 1.6025959179439386e-05
+k = 2, coalition [101, 434]: local jShapley = 5.991217903029527e-07
+k = 2, coalition [3, 174]: local jShapley = -2.231590606069342e-06
+k = 2, coalition [269, 1003]: local jShapley = -1.3864526900878242e-05
+k = 2, coalition [455, 848]: local jShapley = 8.737251776451888e-06
+k = 2, coalition [209]: local jShapley = 0.0
+k = 2, coalition [978]: local jShapley = -6.404772262829811e-05
+k = 2, coalition [101]: local jShapley = 0.0007194717373618436
+k = 2, coalition [434]: local jShapley = 7.590729378168337e-06
+k = 2, coalition [3]: local jShapley = -1.26968447829566e-06
+k = 2, coalition [174]: local jShapley = 7.752265107455096e-06
+k = 2, coalition [269]: local jShapley = 0.0
+k = 2, coalition [1003]: local jShapley = -4.307515680414962e-05
+k = 2, coalition [455]: local jShapley = 0.0005512482668351548
+k = 2, coalition [848]: local jShapley = -0.00028449132768084095
+loop number = 12
+k = 2, coalition [209, 978]: local jShapley = -8.114199099228303e-07
+k = 2, coalition [101, 434]: local jShapley = 3.484574910482186e-05
+k = 2, coalition [3, 174]: local jShapley = 1.135761309282063e-06
+k = 2, coalition [269, 1003]: local jShapley = -2.1787857116506327e-05
+k = 2, coalition [455, 848]: local jShapley = -7.849873721012237e-07
+k = 2, coalition [209]: local jShapley = 0.00011947051194319491
+k = 2, coalition [978]: local jShapley = -7.283299763708436e-05
+k = 2, coalition [101]: local jShapley = 0.000603868232141841
+k = 2, coalition [434]: local jShapley = 3.037912225848353e-05
+k = 2, coalition [3]: local jShapley = 1.7373534423775048e-05
+k = 2, coalition [174]: local jShapley = -2.9214598051682365e-06
+k = 2, coalition [269]: local jShapley = -0.00034316440520864894
+k = 2, coalition [1003]: local jShapley = 0.0
+k = 2, coalition [455]: local jShapley = 0.000977188688489676
+k = 2, coalition [848]: local jShapley = -1.4294291567297146e-07
+loop number = 13
+k = 2, coalition [209, 978]: local jShapley = 2.4054966445273455e-06
+k = 2, coalition [101, 434]: local jShapley = 5.997236025479983e-07
+k = 2, coalition [3, 174]: local jShapley = -1.6296131576624473e-08
+k = 2, coalition [269, 1003]: local jShapley = -5.854588823044049e-06
+k = 2, coalition [455, 848]: local jShapley = 2.1721999976514188e-06
+k = 2, coalition [209]: local jShapley = 0.00011698845661389013
+k = 2, coalition [978]: local jShapley = -0.0001348156386322144
+k = 2, coalition [101]: local jShapley = 0.0004373838719931281
+k = 2, coalition [434]: local jShapley = 7.688418408962979e-05
+k = 2, coalition [3]: local jShapley = 2.4470104342868684e-05
+k = 2, coalition [174]: local jShapley = -8.69640477123779e-06
+k = 2, coalition [269]: local jShapley = -0.00038852029469744575
+k = 2, coalition [1003]: local jShapley = -3.293827806259044e-07
+k = 2, coalition [455]: local jShapley = 0.0007095398060107153
+k = 2, coalition [848]: local jShapley = -9.402948746188881e-05
+loop number = 14
+k = 2, coalition [209, 978]: local jShapley = 1.8680252086212605e-06
+k = 2, coalition [101, 434]: local jShapley = 4.682282170175595e-06
+k = 2, coalition [3, 174]: local jShapley = -3.345468370087936e-06
+k = 2, coalition [269, 1003]: local jShapley = -2.957494175995215e-07
+k = 2, coalition [455, 848]: local jShapley = 1.0975403316016237e-07
+k = 2, coalition [209]: local jShapley = 0.0003346863807092373
+k = 2, coalition [978]: local jShapley = -0.00014382470970945288
+k = 2, coalition [101]: local jShapley = 0.00043126065292434343
+k = 2, coalition [434]: local jShapley = 7.5086395474193906e-06
+k = 2, coalition [3]: local jShapley = 3.189963914429363e-05
+k = 2, coalition [174]: local jShapley = 6.461088018926985e-06
+k = 2, coalition [269]: local jShapley = -0.00022150224403869482
+k = 2, coalition [1003]: local jShapley = 0.0
+k = 2, coalition [455]: local jShapley = 0.0004535590654642402
+k = 2, coalition [848]: local jShapley = -0.000516084778664351
+loop number = 15
+k = 2, coalition [209, 978]: local jShapley = -2.1122429777087475e-09
+k = 2, coalition [101, 434]: local jShapley = 3.373184774032306e-05
+k = 2, coalition [3, 174]: local jShapley = -2.8058610907239444e-07
+k = 2, coalition [269, 1003]: local jShapley = -1.0851500794977455e-07
+k = 2, coalition [455, 848]: local jShapley = 3.4912855269690736e-05
+k = 2, coalition [209]: local jShapley = 0.00030867789161609935
+k = 2, coalition [978]: local jShapley = -0.00013209230316660962
+k = 2, coalition [101]: local jShapley = 4.910332224553722e-05
+k = 2, coalition [434]: local jShapley = 7.892487331594675e-05
+k = 2, coalition [3]: local jShapley = 9.770694130316994e-06
+k = 2, coalition [174]: local jShapley = 6.620065104138451e-07
+k = 2, coalition [269]: local jShapley = -0.0001583805799893807
+k = 2, coalition [1003]: local jShapley = -2.039435490720045e-05
+k = 2, coalition [455]: local jShapley = 0.00021218912075717585
+k = 2, coalition [848]: local jShapley = -0.0006305982588642112
+loop number = 16
+k = 2, coalition [209, 978]: local jShapley = 8.51337762129496e-06
+k = 2, coalition [101, 434]: local jShapley = 2.626598923285036e-05
+k = 2, coalition [3, 174]: local jShapley = -1.8952542626495449e-06
+k = 2, coalition [269, 1003]: local jShapley = -1.5411231571605597e-06
+k = 2, coalition [455, 848]: local jShapley = 3.5383845953453184e-06
+k = 2, coalition [209]: local jShapley = 0.0003623184147562837
+k = 2, coalition [978]: local jShapley = -0.00013699952663861185
+k = 2, coalition [101]: local jShapley = 8.803185517313303e-05
+k = 2, coalition [434]: local jShapley = 0.00012555095901185432
+k = 2, coalition [3]: local jShapley = -1.721822472840483e-05
+k = 2, coalition [174]: local jShapley = 6.975631342468176e-06
+k = 2, coalition [269]: local jShapley = -0.00034806190583316503
+k = 2, coalition [1003]: local jShapley = -2.485637431010191e-05
+k = 2, coalition [455]: local jShapley = 7.249491546660247e-09
+k = 2, coalition [848]: local jShapley = -0.0006057229505879523
+loop number = 17
+k = 2, coalition [209, 978]: local jShapley = 2.503267533867043e-06
+k = 2, coalition [101, 434]: local jShapley = 0.0
+k = 2, coalition [3, 174]: local jShapley = 4.4105757417776463e-07
+k = 2, coalition [269, 1003]: local jShapley = -1.876519021444471e-05
+k = 2, coalition [455, 848]: local jShapley = 3.733652018442413e-05
+k = 2, coalition [209]: local jShapley = 0.00028109587906072485
+k = 2, coalition [978]: local jShapley = -0.00017123111399312648
+k = 2, coalition [101]: local jShapley = 0.0003379028095322187
+k = 2, coalition [434]: local jShapley = 0.00016435561092213805
+k = 2, coalition [3]: local jShapley = -1.340998153080836e-05
+k = 2, coalition [174]: local jShapley = 1.7228203440298468e-07
+k = 2, coalition [269]: local jShapley = -0.00023943424517597025
+k = 2, coalition [1003]: local jShapley = -3.7187972651310596e-05
+k = 2, coalition [455]: local jShapley = 0.0
+k = 2, coalition [848]: local jShapley = -5.415165493829181e-05
+loop number = 18
+k = 2, coalition [209, 978]: local jShapley = 1.840583750271195e-06
+k = 2, coalition [101, 434]: local jShapley = 3.856873075615481e-05
+k = 2, coalition [3, 174]: local jShapley = -1.409830516810055e-09
+k = 2, coalition [269, 1003]: local jShapley = -7.550950038826102e-06
+k = 2, coalition [455, 848]: local jShapley = 2.6805189403930933e-06
+k = 2, coalition [209]: local jShapley = 0.00016195824671172543
+k = 2, coalition [978]: local jShapley = -6.449267083299135e-05
+k = 2, coalition [101]: local jShapley = 2.1653634232923254e-05
+k = 2, coalition [434]: local jShapley = 2.62406007548348e-06
+k = 2, coalition [3]: local jShapley = 7.687676402181145e-05
+k = 2, coalition [174]: local jShapley = 1.2386992985438758e-05
+k = 2, coalition [269]: local jShapley = -0.00019318760639642845
+k = 2, coalition [1003]: local jShapley = -1.434417862695463e-05
+k = 2, coalition [455]: local jShapley = 0.0017990898991685237
+k = 2, coalition [848]: local jShapley = -0.0005941550276392911
+loop number = 19
+k = 2, coalition [209, 978]: local jShapley = 1.9002988652918383e-06
+k = 2, coalition [101, 434]: local jShapley = 4.2054975990623e-05
+k = 2, coalition [3, 174]: local jShapley = -3.2547422240873006e-07
+k = 2, coalition [269, 1003]: local jShapley = -3.06445745237198e-06
+k = 2, coalition [455, 848]: local jShapley = -2.2493841881145204e-05
+k = 2, coalition [209]: local jShapley = 0.00011208677687071767
+k = 2, coalition [978]: local jShapley = -0.00010332239745521299
+k = 2, coalition [101]: local jShapley = 0.0008696687074967429
+k = 2, coalition [434]: local jShapley = 6.641813578778432e-07
+k = 2, coalition [3]: local jShapley = -1.2995779699086532e-06
+k = 2, coalition [174]: local jShapley = 8.642332093113288e-06
+k = 2, coalition [269]: local jShapley = 0.0
+k = 2, coalition [1003]: local jShapley = -2.2373892540117912e-05
+k = 2, coalition [455]: local jShapley = 0.0006854282529909309
+k = 2, coalition [848]: local jShapley = -0.0009568094722265877
+loop number = 20
+k = 2, coalition [209, 978]: local jShapley = -2.4055314552356373e-05
+k = 2, coalition [101, 434]: local jShapley = 3.6913735282039563e-05
+k = 2, coalition [3, 174]: local jShapley = -3.330340462281106e-06
+k = 2, coalition [269, 1003]: local jShapley = -2.4396087786053364e-05
+k = 2, coalition [455, 848]: local jShapley = 3.894079232647412e-10
+k = 2, coalition [209]: local jShapley = 0.00015117560884963052
+k = 2, coalition [978]: local jShapley = -0.000171516146943114
+k = 2, coalition [101]: local jShapley = 8.47649784178004e-05
+k = 2, coalition [434]: local jShapley = 4.29465849393662e-05
+k = 2, coalition [3]: local jShapley = -1.7057627168612346e-10
+k = 2, coalition [174]: local jShapley = -1.257458424022557e-05
+k = 2, coalition [269]: local jShapley = -0.00031781557720218914
+k = 2, coalition [1003]: local jShapley = -3.9627597133033455e-05
+k = 2, coalition [455]: local jShapley = 0.0011671605057241418
+k = 2, coalition [848]: local jShapley = -0.0005869866396856088
+loop number = 21
+k = 2, coalition [209, 978]: local jShapley = 1.7164145438061778e-05
+k = 2, coalition [101, 434]: local jShapley = 3.1533350907611173e-05
+k = 2, coalition [3, 174]: local jShapley = -7.008752606760396e-08
+k = 2, coalition [269, 1003]: local jShapley = -2.57624080865084e-05
+k = 2, coalition [455, 848]: local jShapley = 3.599397736776844e-06
+k = 2, coalition [209]: local jShapley = 0.00044005411559417063
+k = 2, coalition [978]: local jShapley = -0.0001402188979022799
+k = 2, coalition [101]: local jShapley = 0.0002985824922003287
+k = 2, coalition [434]: local jShapley = 0.00011204174473499254
+k = 2, coalition [3]: local jShapley = -1.6244831234027967e-06
+k = 2, coalition [174]: local jShapley = -2.166233362277925e-06
+k = 2, coalition [269]: local jShapley = -1.2424093324530488e-05
+k = 2, coalition [1003]: local jShapley = -9.154274128511266e-06
+k = 2, coalition [455]: local jShapley = 0.0007321899894668968
+k = 2, coalition [848]: local jShapley = -4.3752813687490667e-07
+loop number = 22
+k = 2, coalition [209, 978]: local jShapley = 1.4307673117553518e-06
+k = 2, coalition [101, 434]: local jShapley = 9.598533600912756e-06
+k = 2, coalition [3, 174]: local jShapley = -2.4686102286964806e-08
+k = 2, coalition [269, 1003]: local jShapley = -1.8705669803385703e-05
+k = 2, coalition [455, 848]: local jShapley = 2.2378990144262304e-05
+k = 2, coalition [209]: local jShapley = 4.521294657312388e-06
+k = 2, coalition [978]: local jShapley = -4.195003571610795e-05
+k = 2, coalition [101]: local jShapley = 0.0007482734555479098
+k = 2, coalition [434]: local jShapley = 0.00010915516777738412
+k = 2, coalition [3]: local jShapley = 6.449915273131544e-07
+k = 2, coalition [174]: local jShapley = -6.526504019118613e-06
+k = 2, coalition [269]: local jShapley = -0.00034733815071240077
+k = 2, coalition [1003]: local jShapley = -1.0840122065653145e-07
+k = 2, coalition [455]: local jShapley = 0.0008209389046421304
+k = 2, coalition [848]: local jShapley = -0.0008296790622270557
+loop number = 23
+k = 2, coalition [209, 978]: local jShapley = -1.19720043938116e-05
+k = 2, coalition [101, 434]: local jShapley = 3.008454692886461e-05
+k = 2, coalition [3, 174]: local jShapley = -4.8616989207598e-09
+k = 2, coalition [269, 1003]: local jShapley = -1.2642187229990318e-06
+k = 2, coalition [455, 848]: local jShapley = 4.7161075584191815e-06
+k = 2, coalition [209]: local jShapley = 0.0002698526426210095
+k = 2, coalition [978]: local jShapley = 0.0
+k = 2, coalition [101]: local jShapley = 0.0007186019689525161
+k = 2, coalition [434]: local jShapley = 6.724001490883598e-05
+k = 2, coalition [3]: local jShapley = -1.0373595962591599e-05
+k = 2, coalition [174]: local jShapley = 4.3599295042973156e-07
+k = 2, coalition [269]: local jShapley = -3.3543056233853586e-05
+k = 2, coalition [1003]: local jShapley = 0.0
+k = 2, coalition [455]: local jShapley = 0.0007830947250736433
+k = 2, coalition [848]: local jShapley = -0.00015261672248097072
+loop number = 24
+k = 2, coalition [209, 978]: local jShapley = -1.4003120720840194e-05
+k = 2, coalition [101, 434]: local jShapley = 7.04641720312017e-05
+k = 2, coalition [3, 174]: local jShapley = -6.652975367777609e-08
+k = 2, coalition [269, 1003]: local jShapley = -8.219628344392207e-06
+k = 2, coalition [455, 848]: local jShapley = 5.012977998828102e-07
+k = 2, coalition [209]: local jShapley = 0.00048770451180155333
+k = 2, coalition [978]: local jShapley = -0.0001719535045037172
+k = 2, coalition [101]: local jShapley = 0.00029351570797846323
+k = 2, coalition [434]: local jShapley = 4.090094900117036e-05
+k = 2, coalition [3]: local jShapley = -4.306752351599166e-06
+k = 2, coalition [174]: local jShapley = -6.46739934097937e-07
+k = 2, coalition [269]: local jShapley = -0.0001725425043698494
+k = 2, coalition [1003]: local jShapley = -3.0869870192124506e-05
+k = 2, coalition [455]: local jShapley = 0.0003476972137643001
+k = 2, coalition [848]: local jShapley = -0.00030884096253183126
+loop number = 25
+k = 2, coalition [209, 978]: local jShapley = 7.693756544503372e-09
+k = 2, coalition [101, 434]: local jShapley = 4.45680672243724e-05
+k = 2, coalition [3, 174]: local jShapley = -4.177284995021769e-06
+k = 2, coalition [269, 1003]: local jShapley = -2.1126913868325073e-05
+k = 2, coalition [455, 848]: local jShapley = -2.398277257634819e-05
+k = 2, coalition [209]: local jShapley = 0.0002275285757851618
+k = 2, coalition [978]: local jShapley = -5.665162077612364e-05
+k = 2, coalition [101]: local jShapley = 4.844579336225514e-05
+k = 2, coalition [434]: local jShapley = 5.603430524889156e-08
+k = 2, coalition [3]: local jShapley = 3.121034043041001e-05
+k = 2, coalition [174]: local jShapley = -6.337846662633761e-06
+k = 2, coalition [269]: local jShapley = -0.00028847492328573074
+k = 2, coalition [1003]: local jShapley = -5.165399188012775e-05
+k = 2, coalition [455]: local jShapley = 0.00041933178516058564
+k = 2, coalition [848]: local jShapley = -0.0007172076785077538
+loop number = 26
+k = 2, coalition [209, 978]: local jShapley = -2.701664970650379e-07
+k = 2, coalition [101, 434]: local jShapley = 1.5263350962685786e-05
+k = 2, coalition [3, 174]: local jShapley = -4.1079172836002e-06
+k = 2, coalition [269, 1003]: local jShapley = -4.757856807889202e-08
+k = 2, coalition [455, 848]: local jShapley = -4.3315731343153e-07
+k = 2, coalition [209]: local jShapley = 0.0001280734409175487
+k = 2, coalition [978]: local jShapley = -0.00023703645452487839
+k = 2, coalition [101]: local jShapley = 0.0004080520027546615
+k = 2, coalition [434]: local jShapley = 3.8311430620703327e-07
+k = 2, coalition [3]: local jShapley = -1.2026480035230133e-06
+k = 2, coalition [174]: local jShapley = 2.6076847534016123e-06
+k = 2, coalition [269]: local jShapley = -0.00012212740795097796
+k = 2, coalition [1003]: local jShapley = -4.549951470955657e-05
+k = 2, coalition [455]: local jShapley = 0.0012407710752957073
+k = 2, coalition [848]: local jShapley = -0.0008285891651391172
+loop number = 27
+k = 2, coalition [209, 978]: local jShapley = -1.4707689456667198e-05
+k = 2, coalition [101, 434]: local jShapley = 2.05235675920667e-06
+k = 2, coalition [3, 174]: local jShapley = -4.401489556901469e-09
+k = 2, coalition [269, 1003]: local jShapley = -1.4758560291733694e-07
+k = 2, coalition [455, 848]: local jShapley = 5.2361134589548384e-05
+k = 2, coalition [209]: local jShapley = 0.0
+k = 2, coalition [978]: local jShapley = 0.0
+k = 2, coalition [101]: local jShapley = 0.0005317085416931698
+k = 2, coalition [434]: local jShapley = 3.936661543735368e-05
+k = 2, coalition [3]: local jShapley = 7.710746842926693e-05
+k = 2, coalition [174]: local jShapley = 2.7091946926820245e-05
+k = 2, coalition [269]: local jShapley = -1.332140980173534e-05
+k = 2, coalition [1003]: local jShapley = 0.0
+k = 2, coalition [455]: local jShapley = 0.0003474111573566825
+k = 2, coalition [848]: local jShapley = -0.0005579650486853394
+loop number = 28
+k = 2, coalition [209, 978]: local jShapley = 4.74782070368506e-06
+k = 2, coalition [101, 434]: local jShapley = 2.241125790081283e-05
+k = 2, coalition [3, 174]: local jShapley = -2.5031849321863505e-07
+k = 2, coalition [269, 1003]: local jShapley = -1.826382161312131e-06
+k = 2, coalition [455, 848]: local jShapley = -4.7242798146996966e-05
+k = 2, coalition [209]: local jShapley = 4.084022384845011e-06
+k = 2, coalition [978]: local jShapley = -8.813616256326909e-05
+k = 2, coalition [101]: local jShapley = 0.0006680826930757125
+k = 2, coalition [434]: local jShapley = 3.0323343817642167e-06
+k = 2, coalition [3]: local jShapley = -5.633281372434227e-07
+k = 2, coalition [174]: local jShapley = 2.6200088890309348e-06
+k = 2, coalition [269]: local jShapley = -3.419295182897772e-05
+k = 2, coalition [1003]: local jShapley = -5.598441168942337e-05
+k = 2, coalition [455]: local jShapley = 0.00035309339411909057
+k = 2, coalition [848]: local jShapley = -0.0005918608140049719
+loop number = 29
+k = 2, coalition [209, 978]: local jShapley = 7.581654263563522e-07
+k = 2, coalition [101, 434]: local jShapley = 4.12801663256071e-05
+k = 2, coalition [3, 174]: local jShapley = -5.344753549449661e-06
+k = 2, coalition [269, 1003]: local jShapley = 2.3600480197863105e-11
+k = 2, coalition [455, 848]: local jShapley = 2.4278108985544248e-06
+k = 2, coalition [209]: local jShapley = 0.00029526343245815927
+k = 2, coalition [978]: local jShapley = -0.0002708841173358955
+k = 2, coalition [101]: local jShapley = 0.0007225320888962323
+k = 2, coalition [434]: local jShapley = 0.00010690313455044808
+k = 2, coalition [3]: local jShapley = 2.1405104605076577e-05
+k = 2, coalition [174]: local jShapley = 5.977589576832667e-06
+k = 2, coalition [269]: local jShapley = -0.00024370240464610042
+k = 2, coalition [1003]: local jShapley = 0.0
+k = 2, coalition [455]: local jShapley = 1.833694920625827e-08
+k = 2, coalition [848]: local jShapley = -0.00044123697675017804
+loop number = 30
+k = 2, coalition [209, 978]: local jShapley = 9.676196881123872e-10
+k = 2, coalition [101, 434]: local jShapley = 4.58486351800285e-05
+k = 2, coalition [3, 174]: local jShapley = -1.75847177954278e-07
+k = 2, coalition [269, 1003]: local jShapley = -4.167889643855e-05
+k = 2, coalition [455, 848]: local jShapley = 8.63706773801196e-07
+k = 2, coalition [209]: local jShapley = 0.00028925445684733635
+k = 2, coalition [978]: local jShapley = -0.0001465593884971248
+k = 2, coalition [101]: local jShapley = 0.00034343220995519615
+k = 2, coalition [434]: local jShapley = 1.8825735512774858e-05
+k = 2, coalition [3]: local jShapley = 3.855236960445998e-05
+k = 2, coalition [174]: local jShapley = -1.6164233945656275e-06
+k = 2, coalition [269]: local jShapley = -0.0003245088195268809
+k = 2, coalition [1003]: local jShapley = -4.550736121805413e-05
+k = 2, coalition [455]: local jShapley = 0.00045355411875236135
+k = 2, coalition [848]: local jShapley = -2.5377681590826582e-08
+loop number = 31
+k = 2, coalition [209, 978]: local jShapley = -9.88482512607298e-07
+k = 2, coalition [101, 434]: local jShapley = 4.629234190810848e-08
+k = 2, coalition [3, 174]: local jShapley = -4.199327843526574e-06
+k = 2, coalition [269, 1003]: local jShapley = -3.546798166535856e-07
+k = 2, coalition [455, 848]: local jShapley = 3.23663003555945e-05
+k = 2, coalition [209]: local jShapley = 0.0003254846863771973
+k = 2, coalition [978]: local jShapley = -8.373435658427283e-05
+k = 2, coalition [101]: local jShapley = 0.0007244002402237387
+k = 2, coalition [434]: local jShapley = 3.32485563007875e-05
+k = 2, coalition [3]: local jShapley = 3.233204999301795e-05
+k = 2, coalition [174]: local jShapley = -3.5253850950729565e-07
+k = 2, coalition [269]: local jShapley = -0.00043851978203035395
+k = 2, coalition [1003]: local jShapley = -5.1840047948469385e-05
+k = 2, coalition [455]: local jShapley = 0.00023470945302653633
+k = 2, coalition [848]: local jShapley = -0.0005465642424146539
+loop number = 32
+k = 2, coalition [209, 978]: local jShapley = -2.230858991183208e-06
+k = 2, coalition [101, 434]: local jShapley = 6.808266527479549e-07
+k = 2, coalition [3, 174]: local jShapley = -6.761537576687779e-08
+k = 2, coalition [269, 1003]: local jShapley = -2.384960686683175e-05
+k = 2, coalition [455, 848]: local jShapley = 2.4426497004788312e-09
+k = 2, coalition [209]: local jShapley = 5.416414965019282e-05
+k = 2, coalition [978]: local jShapley = -8.771850656204562e-05
+k = 2, coalition [101]: local jShapley = 0.0005906917268829031
+k = 2, coalition [434]: local jShapley = 7.265448956876484e-05
+k = 2, coalition [3]: local jShapley = 8.253887278416063e-05
+k = 2, coalition [174]: local jShapley = 3.565726383326725e-06
+k = 2, coalition [269]: local jShapley = -0.0003010446887462812
+k = 2, coalition [1003]: local jShapley = -7.675079344517126e-06
+k = 2, coalition [455]: local jShapley = 0.00045972949151621404
+k = 2, coalition [848]: local jShapley = -5.736480016804332e-06
+loop number = 33
+k = 2, coalition [209, 978]: local jShapley = -6.030524502799068e-06
+k = 2, coalition [101, 434]: local jShapley = 2.209240951321965e-07
+k = 2, coalition [3, 174]: local jShapley = -4.720096039572621e-11
+k = 2, coalition [269, 1003]: local jShapley = -3.2228833458562003e-05
+k = 2, coalition [455, 848]: local jShapley = -5.9219504936487995e-08
+k = 2, coalition [209]: local jShapley = 0.00011514563586272908
+k = 2, coalition [978]: local jShapley = -5.983986187020897e-06
+k = 2, coalition [101]: local jShapley = 0.000924253882029525
+k = 2, coalition [434]: local jShapley = 1.9155715310351664e-07
+k = 2, coalition [3]: local jShapley = 1.0042677995520518e-05
+k = 2, coalition [174]: local jShapley = 2.174847463998074e-07
+k = 2, coalition [269]: local jShapley = -0.0004984791325788791
+k = 2, coalition [1003]: local jShapley = -2.6551049569303547e-06
+k = 2, coalition [455]: local jShapley = 0.0003472590886104743
+k = 2, coalition [848]: local jShapley = -0.0006741135024493112
+loop number = 34
+k = 2, coalition [209, 978]: local jShapley = 7.999978766479784e-07
+k = 2, coalition [101, 434]: local jShapley = 1.7529764077287075e-05
+k = 2, coalition [3, 174]: local jShapley = -2.612325352861368e-06
+k = 2, coalition [269, 1003]: local jShapley = -2.6626061759229157e-07
+k = 2, coalition [455, 848]: local jShapley = -1.8321843393687757e-05
+k = 2, coalition [209]: local jShapley = 0.00014972630755724937
+k = 2, coalition [978]: local jShapley = 0.0
+k = 2, coalition [101]: local jShapley = 0.0009271452777668086
+k = 2, coalition [434]: local jShapley = 9.022973043380873e-06
+k = 2, coalition [3]: local jShapley = 3.852524797726188e-05
+k = 2, coalition [174]: local jShapley = 1.96051837862446e-06
+k = 2, coalition [269]: local jShapley = -0.00018859432855246452
+k = 2, coalition [1003]: local jShapley = -4.396688690845675e-05
+k = 2, coalition [455]: local jShapley = 0.0003984497100485667
+k = 2, coalition [848]: local jShapley = -0.0005959259450677277
+loop number = 35
+k = 2, coalition [209, 978]: local jShapley = 9.608817510158973e-07
+k = 2, coalition [101, 434]: local jShapley = 6.174455571357766e-05
+k = 2, coalition [3, 174]: local jShapley = -2.453092912966386e-06
+k = 2, coalition [269, 1003]: local jShapley = -1.537771888972463e-06
+k = 2, coalition [455, 848]: local jShapley = 4.1912517592028646e-05
+k = 2, coalition [209]: local jShapley = 0.00032781279662130535
+k = 2, coalition [978]: local jShapley = -0.00014079152244633023
+k = 2, coalition [101]: local jShapley = 0.0003461934986412511
+k = 2, coalition [434]: local jShapley = 0.00010504675298568799
+k = 2, coalition [3]: local jShapley = -3.661078519199268e-05
+k = 2, coalition [174]: local jShapley = -3.4299476710645704e-06
+k = 2, coalition [269]: local jShapley = -0.00018251951050077077
+k = 2, coalition [1003]: local jShapley = -1.858036154595437e-05
+k = 2, coalition [455]: local jShapley = 3.2948512638891605e-06
+k = 2, coalition [848]: local jShapley = -0.00012645288104839468
+loop number = 36
+k = 2, coalition [209, 978]: local jShapley = 1.5507045257450292e-09
+k = 2, coalition [101, 434]: local jShapley = 9.346439171559231e-07
+k = 2, coalition [3, 174]: local jShapley = -1.562941801103484e-07
+k = 2, coalition [269, 1003]: local jShapley = -1.0968282839104977e-08
+k = 2, coalition [455, 848]: local jShapley = 4.321458450191983e-06
+k = 2, coalition [209]: local jShapley = 0.00018258458534841903
+k = 2, coalition [978]: local jShapley = -8.937096419400494e-05
+k = 2, coalition [101]: local jShapley = 0.0001796307160516304
+k = 2, coalition [434]: local jShapley = 0.00012593603494518574
+k = 2, coalition [3]: local jShapley = 2.0324418635809138e-05
+k = 2, coalition [174]: local jShapley = 1.5410457401075294e-05
+k = 2, coalition [269]: local jShapley = -7.549449920420296e-06
+k = 2, coalition [1003]: local jShapley = -2.969144401918092e-05
+k = 2, coalition [455]: local jShapley = 0.0008503794309656611
+k = 2, coalition [848]: local jShapley = -0.0003407435014727436
+loop number = 37
+k = 2, coalition [209, 978]: local jShapley = -1.123336246469893e-05
+k = 2, coalition [101, 434]: local jShapley = 3.828866385764677e-05
+k = 2, coalition [3, 174]: local jShapley = -1.6402333737514857e-09
+k = 2, coalition [269, 1003]: local jShapley = -5.826285947166762e-06
+k = 2, coalition [455, 848]: local jShapley = -2.315227167818539e-05
+k = 2, coalition [209]: local jShapley = 0.00015341791922908045
+k = 2, coalition [978]: local jShapley = -9.938055039281834e-05
+k = 2, coalition [101]: local jShapley = 0.00021870095521692946
+k = 2, coalition [434]: local jShapley = 0.00015357067028037537
+k = 2, coalition [3]: local jShapley = 9.808050333816255e-06
+k = 2, coalition [174]: local jShapley = -5.964625780184522e-06
+k = 2, coalition [269]: local jShapley = -0.0004968222399638558
+k = 2, coalition [1003]: local jShapley = -4.229131619168396e-05
+k = 2, coalition [455]: local jShapley = 0.0007636428040675087
+k = 2, coalition [848]: local jShapley = -0.0004071340891926506
+loop number = 38
+k = 2, coalition [209, 978]: local jShapley = 1.4588636834309077e-07
+k = 2, coalition [101, 434]: local jShapley = 2.933792213732501e-05
+k = 2, coalition [3, 174]: local jShapley = -1.315726771030868e-09
+k = 2, coalition [269, 1003]: local jShapley = -2.2276493258762984e-07
+k = 2, coalition [455, 848]: local jShapley = -1.2242631100240495e-06
+k = 2, coalition [209]: local jShapley = 0.0002536586857600119
+k = 2, coalition [978]: local jShapley = -0.00017055733771996628
+k = 2, coalition [101]: local jShapley = 0.0002774935640671215
+k = 2, coalition [434]: local jShapley = 0.00012787727820510967
+k = 2, coalition [3]: local jShapley = -8.613334126926648e-06
+k = 2, coalition [174]: local jShapley = 4.313532758398691e-06
+k = 2, coalition [269]: local jShapley = -2.7927685369946406e-05
+k = 2, coalition [1003]: local jShapley = -4.28689300916811e-05
+k = 2, coalition [455]: local jShapley = 0.00018867782563745488
+k = 2, coalition [848]: local jShapley = -0.0007249396023948103
+loop number = 39
+k = 2, coalition [209, 978]: local jShapley = -7.104157547960258e-07
+k = 2, coalition [101, 434]: local jShapley = 3.616260869890222e-05
+k = 2, coalition [3, 174]: local jShapley = -6.136124851444407e-10
+k = 2, coalition [269, 1003]: local jShapley = -3.307052688445864e-06
+k = 2, coalition [455, 848]: local jShapley = 4.484008635913298e-06
+k = 2, coalition [209]: local jShapley = 0.0002027322443226934
+k = 2, coalition [978]: local jShapley = -0.0003602969153605315
+k = 2, coalition [101]: local jShapley = 0.00044135945051324867
+k = 2, coalition [434]: local jShapley = 0.00012577782545319686
+k = 2, coalition [3]: local jShapley = 4.319153246550748e-05
+k = 2, coalition [174]: local jShapley = 1.087423731999037e-07
+k = 2, coalition [269]: local jShapley = -0.00042519026985571355
+k = 2, coalition [1003]: local jShapley = -2.789936970884651e-05
+k = 2, coalition [455]: local jShapley = 0.00045985742371997863
+k = 2, coalition [848]: local jShapley = -0.0007461513161518626
+loop number = 40
+k = 2, coalition [209, 978]: local jShapley = 8.376896044310718e-06
+k = 2, coalition [101, 434]: local jShapley = 4.570273701144532e-05
+k = 2, coalition [3, 174]: local jShapley = -3.8992123370904473e-07
+k = 2, coalition [269, 1003]: local jShapley = -2.798167334179441e-06
+k = 2, coalition [455, 848]: local jShapley = 3.2568662673051087e-09
+k = 2, coalition [209]: local jShapley = 0.00016501906733086126
+k = 2, coalition [978]: local jShapley = -0.00016993750619272684
+k = 2, coalition [101]: local jShapley = 0.0006966889308544262
+k = 2, coalition [434]: local jShapley = 3.423128884603918e-05
+k = 2, coalition [3]: local jShapley = 1.5889350283834087e-05
+k = 2, coalition [174]: local jShapley = -1.518640546821557e-06
+k = 2, coalition [269]: local jShapley = -0.0003560365597548309
+k = 2, coalition [1003]: local jShapley = -4.327707646575807e-05
+k = 2, coalition [455]: local jShapley = 7.985570803053791e-05
+k = 2, coalition [848]: local jShapley = -3.7387589533251284e-05
+loop number = 41
+k = 2, coalition [209, 978]: local jShapley = 4.92387438584107e-06
+k = 2, coalition [101, 434]: local jShapley = 4.988067691979258e-06
+k = 2, coalition [3, 174]: local jShapley = -1.37865745147847e-06
+k = 2, coalition [269, 1003]: local jShapley = -2.1168887322356973e-05
+k = 2, coalition [455, 848]: local jShapley = -2.0952730524224743e-05
+k = 2, coalition [209]: local jShapley = 7.225653512692111e-05
+k = 2, coalition [978]: local jShapley = -0.00010619780166702596
+k = 2, coalition [101]: local jShapley = 0.0005643035776530598
+k = 2, coalition [434]: local jShapley = 9.733755838683364e-05
+k = 2, coalition [3]: local jShapley = 3.7597142483017687e-05
+k = 2, coalition [174]: local jShapley = 1.0952702404965989e-06
+k = 2, coalition [269]: local jShapley = -0.00040843805950155517
+k = 2, coalition [1003]: local jShapley = -3.430544688015472e-05
+k = 2, coalition [455]: local jShapley = 0.00043543363083487277
+k = 2, coalition [848]: local jShapley = -0.00083756326808066
+loop number = 42
+k = 2, coalition [209, 978]: local jShapley = 1.9134525929301174e-05
+k = 2, coalition [101, 434]: local jShapley = 4.226143889151396e-06
+k = 2, coalition [3, 174]: local jShapley = -1.426767030361814e-07
+k = 2, coalition [269, 1003]: local jShapley = -5.691114196833501e-06
+k = 2, coalition [455, 848]: local jShapley = 8.66137623261576e-09
+k = 2, coalition [209]: local jShapley = 0.00010727507611085967
+k = 2, coalition [978]: local jShapley = -7.664264808892224e-05
+k = 2, coalition [101]: local jShapley = 0.0011550063493495546
+k = 2, coalition [434]: local jShapley = 0.00013062615746739945
+k = 2, coalition [3]: local jShapley = -3.898008960571293e-06
+k = 2, coalition [174]: local jShapley = 2.398302379906896e-06
+k = 2, coalition [269]: local jShapley = -0.00036264694465555115
+k = 2, coalition [1003]: local jShapley = -5.836565644216165e-05
+k = 2, coalition [455]: local jShapley = 0.0012205429043211972
+k = 2, coalition [848]: local jShapley = -0.0002977106049399042
+loop number = 43
+k = 2, coalition [209, 978]: local jShapley = 1.1582761673908244e-06
+k = 2, coalition [101, 434]: local jShapley = 3.4975911653233116e-08
+k = 2, coalition [3, 174]: local jShapley = -1.2512561592503555e-06
+k = 2, coalition [269, 1003]: local jShapley = -6.832339017281369e-09
+k = 2, coalition [455, 848]: local jShapley = -4.6242881201733804e-05
+k = 2, coalition [209]: local jShapley = 0.00026758990573302514
+k = 2, coalition [978]: local jShapley = -9.492791268485962e-05
+k = 2, coalition [101]: local jShapley = 0.0003617632742800812
+k = 2, coalition [434]: local jShapley = 1.443399353380808e-05
+k = 2, coalition [3]: local jShapley = -2.47335593944879e-08
+k = 2, coalition [174]: local jShapley = 1.2196203425557827e-08
+k = 2, coalition [269]: local jShapley = -0.00032526089030874503
+k = 2, coalition [1003]: local jShapley = -6.35339468979795e-05
+k = 2, coalition [455]: local jShapley = 0.00010693852912682295
+k = 2, coalition [848]: local jShapley = -0.0007350333679837008
+loop number = 44
+k = 2, coalition [209, 978]: local jShapley = -1.0441725657301957e-05
+k = 2, coalition [101, 434]: local jShapley = 5.50292396773574e-07
+k = 2, coalition [3, 174]: local jShapley = -1.0599719071986553e-05
+k = 2, coalition [269, 1003]: local jShapley = -7.407541720903787e-07
+k = 2, coalition [455, 848]: local jShapley = -4.729300226849788e-07
+k = 2, coalition [209]: local jShapley = 4.4154691383583174e-05
+k = 2, coalition [978]: local jShapley = -0.00021213990950279442
+k = 2, coalition [101]: local jShapley = 0.00042494532232957224
+k = 2, coalition [434]: local jShapley = 4.605559335525334e-09
+k = 2, coalition [3]: local jShapley = 0.0
+k = 2, coalition [174]: local jShapley = -7.388681784356124e-06
+k = 2, coalition [269]: local jShapley = -0.00018230936053405345
+k = 2, coalition [1003]: local jShapley = -2.0699430569111082e-05
+k = 2, coalition [455]: local jShapley = 0.0
+k = 2, coalition [848]: local jShapley = -0.00021556286354671987
+loop number = 45
+k = 2, coalition [209, 978]: local jShapley = 2.05324177721409e-09
+k = 2, coalition [101, 434]: local jShapley = 5.737406538741609e-06
+k = 2, coalition [3, 174]: local jShapley = -5.4190714615927325e-06
+k = 2, coalition [269, 1003]: local jShapley = -1.0389042868143598e-05
+k = 2, coalition [455, 848]: local jShapley = 1.7774701661020596e-07
+k = 2, coalition [209]: local jShapley = 0.00037618745967826734
+k = 2, coalition [978]: local jShapley = -0.0001571155863585564
+k = 2, coalition [101]: local jShapley = 7.684461039459861e-08
+k = 2, coalition [434]: local jShapley = 0.0001193500850953845
+k = 2, coalition [3]: local jShapley = -1.0916881387911901e-08
+k = 2, coalition [174]: local jShapley = -5.588377168912856e-06
+k = 2, coalition [269]: local jShapley = -0.0002614666013761046
+k = 2, coalition [1003]: local jShapley = -1.570734540194499e-05
+k = 2, coalition [455]: local jShapley = 0.00019039194659162872
+k = 2, coalition [848]: local jShapley = -0.0007115109854063203
+loop number = 46
+k = 2, coalition [209, 978]: local jShapley = 1.279559035127643e-06
+k = 2, coalition [101, 434]: local jShapley = 4.1577957184743744e-05
+k = 2, coalition [3, 174]: local jShapley = -1.8126348815968757e-07
+k = 2, coalition [269, 1003]: local jShapley = -1.6258370808307892e-07
+k = 2, coalition [455, 848]: local jShapley = -1.7859899394534883e-06
+k = 2, coalition [209]: local jShapley = 0.0004782805139434384
+k = 2, coalition [978]: local jShapley = -0.00018961062197917045
+k = 2, coalition [101]: local jShapley = 0.0001043389041022585
+k = 2, coalition [434]: local jShapley = 9.993385717410021e-05
+k = 2, coalition [3]: local jShapley = -1.8811065953409855e-05
+k = 2, coalition [174]: local jShapley = -4.67259581029798e-06
+k = 2, coalition [269]: local jShapley = -0.0004545338662128585
+k = 2, coalition [1003]: local jShapley = -5.850936695105721e-06
+k = 2, coalition [455]: local jShapley = 0.0007252228442939451
+k = 2, coalition [848]: local jShapley = -0.00034245438147775543
+loop number = 47
+k = 2, coalition [209, 978]: local jShapley = 2.795476879436885e-08
+k = 2, coalition [101, 434]: local jShapley = 2.0084008648381501e-07
+k = 2, coalition [3, 174]: local jShapley = -3.146233116257576e-06
+k = 2, coalition [269, 1003]: local jShapley = -9.887043571211582e-06
+k = 2, coalition [455, 848]: local jShapley = 4.31754028878965e-05
+k = 2, coalition [209]: local jShapley = 4.718856095179257e-05
+k = 2, coalition [978]: local jShapley = -0.00027328715320734166
+k = 2, coalition [101]: local jShapley = 0.0009647640834363304
+k = 2, coalition [434]: local jShapley = 3.60265614614677e-05
+k = 2, coalition [3]: local jShapley = 4.801457654743262e-05
+k = 2, coalition [174]: local jShapley = 5.877845101964206e-06
+k = 2, coalition [269]: local jShapley = -0.0003340949927753015
+k = 2, coalition [1003]: local jShapley = -1.8293878697657526e-05
+k = 2, coalition [455]: local jShapley = 0.0007003775574415028
+k = 2, coalition [848]: local jShapley = -0.0004263425125709533
+loop number = 48
+k = 2, coalition [209, 978]: local jShapley = -5.3614744896698476e-06
+k = 2, coalition [101, 434]: local jShapley = 2.6319255516656937e-07
+k = 2, coalition [3, 174]: local jShapley = -1.3441712497893426e-06
+k = 2, coalition [269, 1003]: local jShapley = -1.3392425306328548e-07
+k = 2, coalition [455, 848]: local jShapley = 2.0210548523082395e-05
+k = 2, coalition [209]: local jShapley = 0.0005241678764507413
+k = 2, coalition [978]: local jShapley = -9.734787825127067e-07
+k = 2, coalition [101]: local jShapley = 0.0003290361696418382
+k = 2, coalition [434]: local jShapley = 2.5132452005825902e-05
+k = 2, coalition [3]: local jShapley = 0.0
+k = 2, coalition [174]: local jShapley = 6.461088018926985e-06
+k = 2, coalition [269]: local jShapley = -0.0005420455916895526
+k = 2, coalition [1003]: local jShapley = -3.9300772996482846e-07
+k = 2, coalition [455]: local jShapley = 0.0008085684575550452
+k = 2, coalition [848]: local jShapley = -0.0009230910635854409
+loop number = 49
+k = 2, coalition [209, 978]: local jShapley = -5.412646230858864e-06
+k = 2, coalition [101, 434]: local jShapley = 4.981058349360492e-07
+k = 2, coalition [3, 174]: local jShapley = -1.150228403643353e-07
+k = 2, coalition [269, 1003]: local jShapley = -1.5632604075861552e-06
+k = 2, coalition [455, 848]: local jShapley = -2.83937377260491e-05
+k = 2, coalition [209]: local jShapley = 2.864726137205432e-05
+k = 2, coalition [978]: local jShapley = -0.0002940634283868474
+k = 2, coalition [101]: local jShapley = 0.0
+k = 2, coalition [434]: local jShapley = 1.1313641795853826e-05
+k = 2, coalition [3]: local jShapley = -4.842404488761515e-06
+k = 2, coalition [174]: local jShapley = -4.874216963430978e-06
+k = 2, coalition [269]: local jShapley = -0.0002819137922834598
+k = 2, coalition [1003]: local jShapley = -2.811561777727659e-05
+k = 2, coalition [455]: local jShapley = 7.049819227431263e-05
+k = 2, coalition [848]: local jShapley = -8.236198519042213e-05
+loop number = 50
+k = 2, coalition [209, 978]: local jShapley = 6.667902671502757e-07
+k = 2, coalition [101, 434]: local jShapley = 3.4193431832152925e-05
+k = 2, coalition [3, 174]: local jShapley = -4.874148174064173e-07
+k = 2, coalition [269, 1003]: local jShapley = -1.1668494984482e-06
+k = 2, coalition [455, 848]: local jShapley = 3.091782088345066e-05
+k = 2, coalition [209]: local jShapley = 0.0
+k = 2, coalition [978]: local jShapley = -8.373435658427283e-05
+k = 2, coalition [101]: local jShapley = 0.0010852898228402436
+k = 2, coalition [434]: local jShapley = 5.945930620807723e-05
+k = 2, coalition [3]: local jShapley = 5.104324353935558e-06
+k = 2, coalition [174]: local jShapley = -6.702666663702457e-06
+k = 2, coalition [269]: local jShapley = -0.00020038012546834554
+k = 2, coalition [1003]: local jShapley = -7.196305865148513e-05
+k = 2, coalition [455]: local jShapley = 4.308705449909973e-05
+k = 2, coalition [848]: local jShapley = -0.0008557884898289639
+loop number = 51
+k = 2, coalition [209, 978]: local jShapley = -3.7316135269653225e-06
+k = 2, coalition [101, 434]: local jShapley = 4.359530084540773e-05
+k = 2, coalition [3, 174]: local jShapley = 9.915051516440407e-08
+k = 2, coalition [269, 1003]: local jShapley = -9.362074489690315e-06
+k = 2, coalition [455, 848]: local jShapley = -1.9733104908559574e-05
+k = 2, coalition [209]: local jShapley = 0.00019493328396086423
+k = 2, coalition [978]: local jShapley = 0.0
+k = 2, coalition [101]: local jShapley = 0.0003617632742800812
+k = 2, coalition [434]: local jShapley = 0.00010208324612954913
+k = 2, coalition [3]: local jShapley = -4.1705898427257184e-07
+k = 2, coalition [174]: local jShapley = -7.665697649574388e-07
+k = 2, coalition [269]: local jShapley = -0.00020152490547169902
+k = 2, coalition [1003]: local jShapley = -2.28749603381959e-05
+k = 2, coalition [455]: local jShapley = 0.0008137078779768802
+k = 2, coalition [848]: local jShapley = -0.00031178340321841693
+loop number = 52
+k = 2, coalition [209, 978]: local jShapley = 2.5233043415550285e-06
+k = 2, coalition [101, 434]: local jShapley = 3.620510726361852e-05
+k = 2, coalition [3, 174]: local jShapley = -3.931887201924389e-06
+k = 2, coalition [269, 1003]: local jShapley = -2.6002466270961016e-05
+k = 2, coalition [455, 848]: local jShapley = 1.1121142181358091e-05
+k = 2, coalition [209]: local jShapley = 0.0002578670582469161
+k = 2, coalition [978]: local jShapley = -0.00033459013304793834
+k = 2, coalition [101]: local jShapley = 0.00021639374056610296
+k = 2, coalition [434]: local jShapley = 2.7984274048078276e-05
+k = 2, coalition [3]: local jShapley = 4.945858997539149e-07
+k = 2, coalition [174]: local jShapley = 1.0204299012943121e-05
+k = 2, coalition [269]: local jShapley = -0.00018023762642628964
+k = 2, coalition [1003]: local jShapley = -3.313102924959576e-05
+k = 2, coalition [455]: local jShapley = 0.0003799360011807737
+k = 2, coalition [848]: local jShapley = -0.00035958271251098164
+loop number = 53
+k = 2, coalition [209, 978]: local jShapley = 3.907059496756237e-07
+k = 2, coalition [101, 434]: local jShapley = 5.790495818946702e-07
+k = 2, coalition [3, 174]: local jShapley = -2.398174595545958e-06
+k = 2, coalition [269, 1003]: local jShapley = -3.217583268015765e-06
+k = 2, coalition [455, 848]: local jShapley = 9.977693015651575e-07
+k = 2, coalition [209]: local jShapley = 0.0002689212961776033
+k = 2, coalition [978]: local jShapley = -0.000346953842372292
+k = 2, coalition [101]: local jShapley = 0.0005293130111776778
+k = 2, coalition [434]: local jShapley = 8.307422641284753e-05
+k = 2, coalition [3]: local jShapley = 2.3331166576820436e-05
+k = 2, coalition [174]: local jShapley = -1.664824411656565e-07
+k = 2, coalition [269]: local jShapley = -0.00011875392102584151
+k = 2, coalition [1003]: local jShapley = -8.713035957727187e-07
+k = 2, coalition [455]: local jShapley = 1.8003984323926956e-05
+k = 2, coalition [848]: local jShapley = -0.0004422522467192539
+loop number = 54
+k = 2, coalition [209, 978]: local jShapley = 9.063021004863093e-06
+k = 2, coalition [101, 434]: local jShapley = 3.0680624257222037e-08
+k = 2, coalition [3, 174]: local jShapley = 2.4827587165750997e-06
+k = 2, coalition [269, 1003]: local jShapley = -2.2961583860281024e-05
+k = 2, coalition [455, 848]: local jShapley = 4.755514460229564e-06
+k = 2, coalition [209]: local jShapley = 0.00019614846932035617
+k = 2, coalition [978]: local jShapley = -0.00010983167327089128
+k = 2, coalition [101]: local jShapley = 0.0007414149248159541
+k = 2, coalition [434]: local jShapley = 9.9162809782011e-06
+k = 2, coalition [3]: local jShapley = 1.1331552304380868e-05
+k = 2, coalition [174]: local jShapley = 6.645822121163056e-06
+k = 2, coalition [269]: local jShapley = -0.00031427185515790995
+k = 2, coalition [1003]: local jShapley = -4.599891938898562e-05
+k = 2, coalition [455]: local jShapley = 0.0004010001238187497
+k = 2, coalition [848]: local jShapley = -0.0014074754361908276
+loop number = 55
+k = 2, coalition [209, 978]: local jShapley = -1.9293628566555066e-06
+k = 2, coalition [101, 434]: local jShapley = 2.9522743397874525e-05
+k = 2, coalition [3, 174]: local jShapley = -1.852047683527307e-07
+k = 2, coalition [269, 1003]: local jShapley = -2.981170177729711e-05
+k = 2, coalition [455, 848]: local jShapley = 1.3905402932580942e-07
+k = 2, coalition [209]: local jShapley = 3.542690057835514e-05
+k = 2, coalition [978]: local jShapley = -7.329244482487095e-05
+k = 2, coalition [101]: local jShapley = 0.00013969356562955457
+k = 2, coalition [434]: local jShapley = 7.070753200373943e-05
+k = 2, coalition [3]: local jShapley = 6.293650350639886e-05
+k = 2, coalition [174]: local jShapley = -5.087437303038632e-07
+k = 2, coalition [269]: local jShapley = -0.00011859878190674298
+k = 2, coalition [1003]: local jShapley = -8.557811550492814e-06
+k = 2, coalition [455]: local jShapley = 0.0004463239449684695
+k = 2, coalition [848]: local jShapley = -0.00031986121314038496
+loop number = 56
+k = 2, coalition [209, 978]: local jShapley = -9.260675026520196e-06
+k = 2, coalition [101, 434]: local jShapley = 4.1828163575681436e-05
+k = 2, coalition [3, 174]: local jShapley = -5.67355543956629e-08
+k = 2, coalition [269, 1003]: local jShapley = -1.5776921012271483e-08
+k = 2, coalition [455, 848]: local jShapley = -3.093432941934906e-08
+k = 2, coalition [209]: local jShapley = 0.00012501334524756756
+k = 2, coalition [978]: local jShapley = -0.00019192218632492494
+k = 2, coalition [101]: local jShapley = 0.00034080755286276175
+k = 2, coalition [434]: local jShapley = 0.0
+k = 2, coalition [3]: local jShapley = -5.115138889560459e-05
+k = 2, coalition [174]: local jShapley = -2.976555940922854e-08
+k = 2, coalition [269]: local jShapley = -1.905609876768697e-05
+k = 2, coalition [1003]: local jShapley = -4.2366199174954166e-05
+k = 2, coalition [455]: local jShapley = 0.00044608893351015397
+k = 2, coalition [848]: local jShapley = -0.0006013284793886385
+loop number = 57
+k = 2, coalition [209, 978]: local jShapley = 5.506216234723342e-06
+k = 2, coalition [101, 434]: local jShapley = 1.078541945042344e-08
+k = 2, coalition [3, 174]: local jShapley = -2.7523352016351913e-06
+k = 2, coalition [269, 1003]: local jShapley = -2.226040363138809e-05
+k = 2, coalition [455, 848]: local jShapley = 2.4879508222186296e-06
+k = 2, coalition [209]: local jShapley = 5.624837846985764e-05
+k = 2, coalition [978]: local jShapley = -8.373435658427283e-05
+k = 2, coalition [101]: local jShapley = 0.0003013301481369479
+k = 2, coalition [434]: local jShapley = 3.451482925364943e-05
+k = 2, coalition [3]: local jShapley = -2.863122720251582e-07
+k = 2, coalition [174]: local jShapley = -1.0261015623278756e-06
+k = 2, coalition [269]: local jShapley = -0.00019778276057938094
+k = 2, coalition [1003]: local jShapley = -1.9435972124731963e-05
+k = 2, coalition [455]: local jShapley = 0.00019507806057145785
+k = 2, coalition [848]: local jShapley = -0.00013503406154810848
+loop number = 58
+k = 2, coalition [209, 978]: local jShapley = 3.367801504499173e-05
+k = 2, coalition [101, 434]: local jShapley = 3.361815242696986e-05
+k = 2, coalition [3, 174]: local jShapley = 2.488829940106e-06
+k = 2, coalition [269, 1003]: local jShapley = -4.432760193163638e-07
+k = 2, coalition [455, 848]: local jShapley = 3.73821517128867e-05
+k = 2, coalition [209]: local jShapley = 0.00016111798799739961
+k = 2, coalition [978]: local jShapley = -0.00015735481957959618
+k = 2, coalition [101]: local jShapley = 0.000862760965510406
+k = 2, coalition [434]: local jShapley = 5.947670498778921e-05
+k = 2, coalition [3]: local jShapley = 5.462867148206206e-05
+k = 2, coalition [174]: local jShapley = 1.292217603785397e-05
+k = 2, coalition [269]: local jShapley = -0.00016623493499543993
+k = 2, coalition [1003]: local jShapley = -9.221907620234813e-05
+k = 2, coalition [455]: local jShapley = 7.695049561524778e-05
+k = 2, coalition [848]: local jShapley = -0.0002486191803893171
+loop number = 59
+k = 2, coalition [209, 978]: local jShapley = -1.333838959558718e-05
+k = 2, coalition [101, 434]: local jShapley = 4.6422144549196724e-08
+k = 2, coalition [3, 174]: local jShapley = -2.0416185407166425e-07
+k = 2, coalition [269, 1003]: local jShapley = -9.823806084521407e-06
+k = 2, coalition [455, 848]: local jShapley = 1.3087941299727458e-05
+k = 2, coalition [209]: local jShapley = 0.0004427365980427066
+k = 2, coalition [978]: local jShapley = -0.00013470774914037294
+k = 2, coalition [101]: local jShapley = 0.0003617632742800812
+k = 2, coalition [434]: local jShapley = 0.00017986807293368166
+k = 2, coalition [3]: local jShapley = 6.0325066075020146e-05
+k = 2, coalition [174]: local jShapley = 4.0307172999430974e-07
+k = 2, coalition [269]: local jShapley = -0.00018851211078951182
+k = 2, coalition [1003]: local jShapley = -7.730201066712497e-05
+k = 2, coalition [455]: local jShapley = 0.0003839333281755342
+k = 2, coalition [848]: local jShapley = 0.0
+loop number = 60
+k = 2, coalition [209, 978]: local jShapley = 1.6689159957993593e-05
+k = 2, coalition [101, 434]: local jShapley = 3.6189920354611197e-06
+k = 2, coalition [3, 174]: local jShapley = -1.1210228093984974e-10
+k = 2, coalition [269, 1003]: local jShapley = -2.2583818711899555e-05
+k = 2, coalition [455, 848]: local jShapley = 3.846151377461592e-05
+k = 2, coalition [209]: local jShapley = 0.00010560794891953534
+k = 2, coalition [978]: local jShapley = -1.6396814692100305e-05
+k = 2, coalition [101]: local jShapley = 0.00042156488442136457
+k = 2, coalition [434]: local jShapley = 7.786124497384791e-06
+k = 2, coalition [3]: local jShapley = -2.1860543250478525e-05
+k = 2, coalition [174]: local jShapley = 8.272949176776986e-09
+k = 2, coalition [269]: local jShapley = -0.00021469872415435793
+k = 2, coalition [1003]: local jShapley = -4.653320691597448e-07
+k = 2, coalition [455]: local jShapley = 0.0009255246326095187
+k = 2, coalition [848]: local jShapley = -0.0003630313382837958

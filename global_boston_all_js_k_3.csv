@@ -1,0 +1,379 @@
+,0
+"frozenset({'ZN', 'PTRATIO', 'RM'})",0.05956424242424243
+"frozenset({'ZN', 'DIS', 'RM'})",0.026993388429752074
+"frozenset({'B', 'RM', 'ZN'})",0.024074159779614326
+"frozenset({'ZN', 'RM', 'LSTAT'})",0.045126391184573005
+"frozenset({'ZN', 'RM', 'CRIM'})",0.050631735537190074
+"frozenset({'TAX', 'RM', 'ZN'})",0.015097630853994482
+"frozenset({'ZN', 'INDUS', 'RM'})",0.02692617079889806
+"frozenset({'ZN', 'RM', 'AGE'})",0.03707498622589532
+"frozenset({'ZN', 'RM', 'CHAS'})",0.025594820936639114
+"frozenset({'ZN', 'NOX', 'RM'})",0.030706336088154252
+"frozenset({'RAD', 'RM', 'ZN'})",0.025873223140495855
+"frozenset({'ZN', 'RM'})",0.08970556473829201
+"frozenset({'DIS', 'PTRATIO', 'RM'})",0.02527647382920109
+"frozenset({'B', 'PTRATIO', 'RM'})",0.04807129476584023
+"frozenset({'PTRATIO', 'LSTAT', 'RM'})",0.04356903581267216
+"frozenset({'RM', 'PTRATIO', 'CRIM'})",0.03730920110192837
+"frozenset({'TAX', 'PTRATIO', 'RM'})",0.04402198347107437
+"frozenset({'INDUS', 'PTRATIO', 'RM'})",0.026093719008264474
+"frozenset({'PTRATIO', 'AGE', 'RM'})",0.03784363636363636
+"frozenset({'PTRATIO', 'CHAS', 'RM'})",0.02575333333333333
+"frozenset({'NOX', 'PTRATIO', 'RM'})",0.039655261707989
+"frozenset({'RAD', 'PTRATIO', 'RM'})",0.04891201101928373
+"frozenset({'PTRATIO', 'RM'})",0.06160749311294764
+"frozenset({'B', 'DIS', 'RM'})",0.025580440771349886
+"frozenset({'DIS', 'RM', 'LSTAT'})",0.06053619834710745
+"frozenset({'DIS', 'RM', 'CRIM'})",0.028104683195592287
+"frozenset({'TAX', 'DIS', 'RM'})",0.014812617079889808
+"frozenset({'DIS', 'INDUS', 'RM'})",0.039796969696969664
+"frozenset({'DIS', 'RM', 'AGE'})",0.027731680440771348
+"frozenset({'DIS', 'RM', 'CHAS'})",0.014321212121212122
+"frozenset({'DIS', 'NOX', 'RM'})",0.0541031955922865
+"frozenset({'RAD', 'DIS', 'RM'})",0.07759603305785123
+"frozenset({'DIS', 'RM'})",0.051463305785123946
+"frozenset({'B', 'RM', 'LSTAT'})",0.04105443526170799
+"frozenset({'B', 'RM', 'CRIM'})",0.03901867768595042
+"frozenset({'TAX', 'RM', 'B'})",0.015811460055096423
+"frozenset({'B', 'INDUS', 'RM'})",0.015349972451790636
+"frozenset({'B', 'RM', 'AGE'})",0.04042038567493112
+"frozenset({'B', 'RM', 'CHAS'})",0.012779228650137744
+"frozenset({'B', 'NOX', 'RM'})",0.014581983471074377
+"frozenset({'RAD', 'RM', 'B'})",0.028093333333333328
+"frozenset({'B', 'RM'})",0.027066887052341594
+"frozenset({'RM', 'LSTAT', 'CRIM'})",0.06471906336088153
+"frozenset({'TAX', 'RM', 'LSTAT'})",0.05779531680440772
+"frozenset({'INDUS', 'LSTAT', 'RM'})",0.025167107438016527
+"frozenset({'LSTAT', 'RM', 'AGE'})",0.08491696969696969
+"frozenset({'RM', 'CHAS', 'LSTAT'})",0.11734292011019284
+"frozenset({'NOX', 'RM', 'LSTAT'})",0.02715564738292011
+"frozenset({'RAD', 'RM', 'LSTAT'})",0.05891988980716257
+"frozenset({'RM', 'LSTAT'})",0.1108925068870523
+"frozenset({'TAX', 'RM', 'CRIM'})",0.02629190082644629
+"frozenset({'INDUS', 'CRIM', 'RM'})",0.025395922865013784
+"frozenset({'RM', 'AGE', 'CRIM'})",0.030081101928374664
+"frozenset({'RM', 'CHAS', 'CRIM'})",0.04053696969696973
+"frozenset({'NOX', 'RM', 'CRIM'})",0.016174214876033058
+"frozenset({'RAD', 'RM', 'CRIM'})",0.05126617079889806
+"frozenset({'RM', 'CRIM'})",0.06925597796143247
+"frozenset({'TAX', 'INDUS', 'RM'})",0.03494898071625344
+"frozenset({'TAX', 'RM', 'AGE'})",0.04958705234159781
+"frozenset({'TAX', 'RM', 'CHAS'})",0.04544033057851238
+"frozenset({'TAX', 'NOX', 'RM'})",0.0
+"frozenset({'RAD', 'RM', 'TAX'})",0.02741537190082645
+"frozenset({'TAX', 'RM'})",0.06042231404958677
+"frozenset({'INDUS', 'AGE', 'RM'})",0.07560903581267218
+"frozenset({'INDUS', 'CHAS', 'RM'})",0.03639977961432505
+"frozenset({'NOX', 'INDUS', 'RM'})",0.025840716253443537
+"frozenset({'RAD', 'INDUS', 'RM'})",0.036257741046831965
+"frozenset({'INDUS', 'RM'})",0.11570776859504134
+"frozenset({'RM', 'CHAS', 'AGE'})",0.026899338842975195
+"frozenset({'NOX', 'RM', 'AGE'})",0.03204429752066115
+"frozenset({'RAD', 'RM', 'AGE'})",0.07279785123966943
+"frozenset({'RM', 'AGE'})",0.13056303030303038
+"frozenset({'NOX', 'RM', 'CHAS'})",0.013896584022038574
+"frozenset({'RAD', 'RM', 'CHAS'})",0.06878611570247933
+"frozenset({'RM', 'CHAS'})",0.0720608815426997
+"frozenset({'RAD', 'NOX', 'RM'})",0.05277889807162532
+"frozenset({'NOX', 'RM'})",0.05455537190082647
+"frozenset({'RAD', 'RM'})",0.027106666666666668
+frozenset({'RM'}),0.5430686501377411
+"frozenset({'ZN', 'DIS', 'PTRATIO'})",0.006178071625344349
+"frozenset({'B', 'PTRATIO', 'ZN'})",0.006086446280991724
+"frozenset({'ZN', 'PTRATIO', 'LSTAT'})",0.010457520661157016
+"frozenset({'ZN', 'PTRATIO', 'CRIM'})",0.007904958677685951
+"frozenset({'TAX', 'PTRATIO', 'ZN'})",0.006424132231404955
+"frozenset({'ZN', 'INDUS', 'PTRATIO'})",0.004246501377410464
+"frozenset({'ZN', 'PTRATIO', 'AGE'})",0.006539008264462817
+"frozenset({'ZN', 'PTRATIO', 'CHAS'})",0.0035499173553718943
+"frozenset({'ZN', 'NOX', 'PTRATIO'})",0.00819228650137741
+"frozenset({'RAD', 'PTRATIO', 'ZN'})",0.0035939393939393876
+"frozenset({'ZN', 'PTRATIO'})",0.008592451790633587
+"frozenset({'B', 'DIS', 'ZN'})",0.01096071625344352
+"frozenset({'ZN', 'DIS', 'LSTAT'})",0.05045801652892565
+"frozenset({'ZN', 'DIS', 'CRIM'})",0.01585702479338843
+"frozenset({'TAX', 'DIS', 'ZN'})",0.0
+"frozenset({'ZN', 'DIS', 'INDUS'})",0.018181377410468318
+"frozenset({'ZN', 'DIS', 'AGE'})",0.0092939393939394
+"frozenset({'ZN', 'DIS', 'CHAS'})",0.006165564738292015
+"frozenset({'DIS', 'ZN', 'NOX'})",0.013045785123966945
+"frozenset({'RAD', 'DIS', 'ZN'})",0.014185674931129476
+"frozenset({'ZN', 'DIS'})",0.009573884297520664
+"frozenset({'B', 'LSTAT', 'ZN'})",0.03355730027548208
+"frozenset({'B', 'CRIM', 'ZN'})",0.010091735537190085
+"frozenset({'TAX', 'ZN', 'B'})",0.004718787878787883
+"frozenset({'B', 'INDUS', 'ZN'})",0.003065013774104687
+"frozenset({'B', 'AGE', 'ZN'})",0.009533774104683203
+"frozenset({'B', 'CHAS', 'ZN'})",0.002322534435261711
+"frozenset({'B', 'NOX', 'ZN'})",0.01758909090909092
+"frozenset({'RAD', 'ZN', 'B'})",0.0026315151515151525
+"frozenset({'B', 'ZN'})",0.006734049586776854
+"frozenset({'ZN', 'LSTAT', 'CRIM'})",0.03434964187327824
+"frozenset({'TAX', 'LSTAT', 'ZN'})",0.02232694214876031
+"frozenset({'ZN', 'INDUS', 'LSTAT'})",0.01234892561983471
+"frozenset({'ZN', 'AGE', 'LSTAT'})",0.01163928374655648
+"frozenset({'ZN', 'CHAS', 'LSTAT'})",0.06194347107438015
+"frozenset({'ZN', 'NOX', 'LSTAT'})",0.023200275482093663
+"frozenset({'RAD', 'LSTAT', 'ZN'})",0.03047520661157023
+"frozenset({'ZN', 'LSTAT'})",0.11721834710743799
+"frozenset({'TAX', 'CRIM', 'ZN'})",0.0061759779614325135
+"frozenset({'ZN', 'INDUS', 'CRIM'})",0.008565619834710738
+"frozenset({'ZN', 'AGE', 'CRIM'})",0.006980000000000005
+"frozenset({'ZN', 'CHAS', 'CRIM'})",0.00611019283746556
+"frozenset({'ZN', 'NOX', 'CRIM'})",0.014132066115702488
+"frozenset({'RAD', 'CRIM', 'ZN'})",0.004448209366391183
+"frozenset({'ZN', 'CRIM'})",0.011753057851239673
+"frozenset({'TAX', 'INDUS', 'ZN'})",0.0038958677685950473
+"frozenset({'TAX', 'AGE', 'ZN'})",0.0034915702479338894
+"frozenset({'TAX', 'CHAS', 'ZN'})",0.002980110192837464
+"frozenset({'TAX', 'NOX', 'ZN'})",0.01085889807162535
+"frozenset({'RAD', 'TAX', 'ZN'})",0.0012674380165289272
+"frozenset({'TAX', 'ZN'})",0.005765013774104686
+"frozenset({'ZN', 'INDUS', 'AGE'})",0.003861377410468323
+"frozenset({'ZN', 'INDUS', 'CHAS'})",0.0022678787878787875
+"frozenset({'ZN', 'NOX', 'INDUS'})",0.012454545454545468
+"frozenset({'RAD', 'INDUS', 'ZN'})",0.0015103581267217653
+"frozenset({'ZN', 'INDUS'})",0.00422528925619834
+"frozenset({'ZN', 'CHAS', 'AGE'})",0.005933278236914607
+"frozenset({'ZN', 'NOX', 'AGE'})",0.0
+"frozenset({'RAD', 'AGE', 'ZN'})",0.008962865013774118
+"frozenset({'ZN', 'AGE'})",0.01107542699724518
+"frozenset({'ZN', 'NOX', 'CHAS'})",0.008614049586776864
+"frozenset({'RAD', 'CHAS', 'ZN'})",0.0
+"frozenset({'ZN', 'CHAS'})",0.0006746005509641867
+"frozenset({'RAD', 'NOX', 'ZN'})",0.0
+"frozenset({'ZN', 'NOX'})",0.007439393939393942
+"frozenset({'RAD', 'ZN'})",0.001363691460055101
+frozenset({'ZN'}),0.003038457300275465
+"frozenset({'B', 'DIS', 'PTRATIO'})",0.007912396694214868
+"frozenset({'DIS', 'PTRATIO', 'LSTAT'})",0.021431735537190078
+"frozenset({'DIS', 'PTRATIO', 'CRIM'})",0.012771019283746549
+"frozenset({'TAX', 'DIS', 'PTRATIO'})",0.005019008264462812
+"frozenset({'DIS', 'INDUS', 'PTRATIO'})",0.004063030303030299
+"frozenset({'DIS', 'PTRATIO', 'AGE'})",0.011754159779614314
+"frozenset({'DIS', 'PTRATIO', 'CHAS'})",0.0065163085399449015
+"frozenset({'DIS', 'NOX', 'PTRATIO'})",0.018111625344352615
+"frozenset({'RAD', 'DIS', 'PTRATIO'})",0.0037938292011019245
+"frozenset({'DIS', 'PTRATIO'})",0.015976694214876037
+"frozenset({'B', 'PTRATIO', 'LSTAT'})",0.013078732782369143
+"frozenset({'B', 'PTRATIO', 'CRIM'})",0.006046831955922868
+"frozenset({'TAX', 'PTRATIO', 'B'})",0.008878622589531676
+"frozenset({'B', 'INDUS', 'PTRATIO'})",0.0021757024793388406
+"frozenset({'B', 'PTRATIO', 'AGE'})",0.003736198347107436
+"frozenset({'B', 'PTRATIO', 'CHAS'})",0.005519889807162529
+"frozenset({'B', 'NOX', 'PTRATIO'})",0.011299614325068867
+"frozenset({'RAD', 'PTRATIO', 'B'})",0.005919338842975205
+"frozenset({'B', 'PTRATIO'})",0.007591955922865007
+"frozenset({'PTRATIO', 'LSTAT', 'CRIM'})",0.045730468319559237
+"frozenset({'TAX', 'PTRATIO', 'LSTAT'})",0.021708044077134978
+"frozenset({'LSTAT', 'INDUS', 'PTRATIO'})",0.0
+"frozenset({'LSTAT', 'PTRATIO', 'AGE'})",0.05994539944903581
+"frozenset({'PTRATIO', 'CHAS', 'LSTAT'})",0.04242595041322312
+"frozenset({'NOX', 'PTRATIO', 'LSTAT'})",0.013993939393939392
+"frozenset({'RAD', 'PTRATIO', 'LSTAT'})",0.03320303030303029
+"frozenset({'PTRATIO', 'LSTAT'})",0.052164628099173535
+"frozenset({'TAX', 'PTRATIO', 'CRIM'})",0.011967878787878786
+"frozenset({'INDUS', 'PTRATIO', 'CRIM'})",0.00880964187327823
+"frozenset({'PTRATIO', 'AGE', 'CRIM'})",0.004950303030303033
+"frozenset({'PTRATIO', 'CHAS', 'CRIM'})",0.007284793388429745
+"frozenset({'NOX', 'PTRATIO', 'CRIM'})",0.013421432506887048
+"frozenset({'RAD', 'PTRATIO', 'CRIM'})",0.008426942148760334
+"frozenset({'PTRATIO', 'CRIM'})",0.019945674931129472
+"frozenset({'TAX', 'INDUS', 'PTRATIO'})",0.007049476584022035
+"frozenset({'TAX', 'PTRATIO', 'AGE'})",0.01312881542699725
+"frozenset({'TAX', 'PTRATIO', 'CHAS'})",0.007058236914600556
+"frozenset({'TAX', 'NOX', 'PTRATIO'})",0.0
+"frozenset({'RAD', 'PTRATIO', 'TAX'})",0.005876639118457294
+"frozenset({'TAX', 'PTRATIO'})",0.002018071625344353
+"frozenset({'PTRATIO', 'INDUS', 'AGE'})",0.005918622589531682
+"frozenset({'INDUS', 'CHAS', 'PTRATIO'})",0.002970523415977956
+"frozenset({'NOX', 'INDUS', 'PTRATIO'})",0.003960220385674931
+"frozenset({'RAD', 'INDUS', 'PTRATIO'})",0.002140495867768594
+"frozenset({'INDUS', 'PTRATIO'})",0.006238787878787869
+"frozenset({'PTRATIO', 'CHAS', 'AGE'})",0.007850137741046828
+"frozenset({'NOX', 'PTRATIO', 'AGE'})",0.005621432506887058
+"frozenset({'RAD', 'PTRATIO', 'AGE'})",0.010174655647382912
+"frozenset({'PTRATIO', 'AGE'})",0.022318347107438016
+"frozenset({'NOX', 'PTRATIO', 'CHAS'})",0.01229096418732782
+"frozenset({'RAD', 'PTRATIO', 'CHAS'})",0.005464628099173547
+"frozenset({'PTRATIO', 'CHAS'})",0.010463581267217605
+"frozenset({'RAD', 'NOX', 'PTRATIO'})",0.006709972451790635
+"frozenset({'NOX', 'PTRATIO'})",0.013762589531680441
+"frozenset({'RAD', 'PTRATIO'})",0.003654876033057844
+frozenset({'PTRATIO'}),0.043693553719008175
+"frozenset({'B', 'DIS', 'LSTAT'})",0.031221597796143266
+"frozenset({'B', 'DIS', 'CRIM'})",0.01393019283746556
+"frozenset({'TAX', 'DIS', 'B'})",0.004762424242424243
+"frozenset({'B', 'DIS', 'INDUS'})",0.0
+"frozenset({'B', 'DIS', 'AGE'})",0.008668870523415986
+"frozenset({'B', 'DIS', 'CHAS'})",0.010775922865013766
+"frozenset({'DIS', 'B', 'NOX'})",0.009780550964187328
+"frozenset({'RAD', 'DIS', 'B'})",0.012816198347107437
+"frozenset({'B', 'DIS'})",0.019993112947658404
+"frozenset({'DIS', 'LSTAT', 'CRIM'})",0.04547752066115702
+"frozenset({'TAX', 'DIS', 'LSTAT'})",0.056402699724517905
+"frozenset({'DIS', 'INDUS', 'LSTAT'})",0.021978071625344344
+"frozenset({'LSTAT', 'DIS', 'AGE'})",0.05038077134986226
+"frozenset({'DIS', 'CHAS', 'LSTAT'})",0.01206231404958677
+"frozenset({'DIS', 'NOX', 'LSTAT'})",0.0905230303030303
+"frozenset({'RAD', 'DIS', 'LSTAT'})",0.021019283746556462
+"frozenset({'DIS', 'LSTAT'})",0.012019063360881547
+"frozenset({'TAX', 'DIS', 'CRIM'})",0.01073118457300276
+"frozenset({'DIS', 'INDUS', 'CRIM'})",0.008677465564738297
+"frozenset({'DIS', 'AGE', 'CRIM'})",0.023692506887052357
+"frozenset({'DIS', 'CHAS', 'CRIM'})",0.01179239669421488
+"frozenset({'DIS', 'NOX', 'CRIM'})",0.011676033057851249
+"frozenset({'RAD', 'DIS', 'CRIM'})",0.004876363636363643
+"frozenset({'DIS', 'CRIM'})",0.04285482093663914
+"frozenset({'TAX', 'DIS', 'INDUS'})",0.010045068870523411
+"frozenset({'TAX', 'DIS', 'AGE'})",0.010983746556473835
+"frozenset({'TAX', 'DIS', 'CHAS'})",0.005696143250688701
+"frozenset({'DIS', 'TAX', 'NOX'})",0.016352672176308546
+"frozenset({'RAD', 'DIS', 'TAX'})",0.005757245179063362
+"frozenset({'TAX', 'DIS'})",0.013843636363636365
+"frozenset({'DIS', 'INDUS', 'AGE'})",0.011658567493112951
+"frozenset({'DIS', 'INDUS', 'CHAS'})",0.006726887052341593
+"frozenset({'DIS', 'NOX', 'INDUS'})",0.00650694214876033
+"frozenset({'RAD', 'DIS', 'INDUS'})",0.0036598898071625316
+"frozenset({'DIS', 'INDUS'})",0.014632066115702481
+"frozenset({'DIS', 'CHAS', 'AGE'})",0.004579449035812672
+"frozenset({'DIS', 'NOX', 'AGE'})",0.01728892561983471
+"frozenset({'RAD', 'DIS', 'AGE'})",0.009854765840220391
+"frozenset({'DIS', 'AGE'})",0.029074490358126724
+"frozenset({'DIS', 'NOX', 'CHAS'})",0.011948209366391191
+"frozenset({'RAD', 'DIS', 'CHAS'})",0.00643267217630854
+"frozenset({'DIS', 'CHAS'})",0.01771741046831956
+"frozenset({'RAD', 'DIS', 'NOX'})",0.018326831955922863
+"frozenset({'DIS', 'NOX'})",0.025174325068870528
+"frozenset({'RAD', 'DIS'})",0.008793443526170796
+frozenset({'DIS'}),0.09434997245179054
+"frozenset({'B', 'LSTAT', 'CRIM'})",0.02336820936639118
+"frozenset({'TAX', 'LSTAT', 'B'})",0.019537355371900815
+"frozenset({'B', 'INDUS', 'LSTAT'})",0.03166517906336088
+"frozenset({'B', 'AGE', 'LSTAT'})",0.02345035812672176
+"frozenset({'B', 'CHAS', 'LSTAT'})",0.02315041322314048
+"frozenset({'B', 'NOX', 'LSTAT'})",0.03507961432506889
+"frozenset({'RAD', 'LSTAT', 'B'})",0.021856308539944903
+"frozenset({'B', 'LSTAT'})",0.09236561983471071
+"frozenset({'TAX', 'CRIM', 'B'})",0.008727988980716252
+"frozenset({'B', 'INDUS', 'CRIM'})",0.01601217630853995
+"frozenset({'B', 'AGE', 'CRIM'})",0.0
+"frozenset({'B', 'CHAS', 'CRIM'})",0.00848027548209367
+"frozenset({'B', 'NOX', 'CRIM'})",0.019817245179063372
+"frozenset({'RAD', 'CRIM', 'B'})",0.00545090909090909
+"frozenset({'B', 'CRIM'})",0.015739228650137743
+"frozenset({'TAX', 'INDUS', 'B'})",0.004530468319559234
+"frozenset({'TAX', 'AGE', 'B'})",0.010661212121212132
+"frozenset({'TAX', 'CHAS', 'B'})",0.004401763085399447
+"frozenset({'TAX', 'NOX', 'B'})",0.011586170798898081
+"frozenset({'RAD', 'TAX', 'B'})",0.0066679338842975345
+"frozenset({'TAX', 'B'})",0.007408264462809924
+"frozenset({'B', 'INDUS', 'AGE'})",0.0028625895316804414
+"frozenset({'B', 'INDUS', 'CHAS'})",0.0
+"frozenset({'B', 'NOX', 'INDUS'})",0.0
+"frozenset({'RAD', 'INDUS', 'B'})",0.0014775206611570217
+"frozenset({'B', 'INDUS'})",0.004724738292011021
+"frozenset({'B', 'CHAS', 'AGE'})",0.01280325068870525
+"frozenset({'B', 'NOX', 'AGE'})",0.009252066115702492
+"frozenset({'RAD', 'AGE', 'B'})",0.00640319559228651
+"frozenset({'B', 'AGE'})",0.008379393939393947
+"frozenset({'B', 'NOX', 'CHAS'})",0.0032632506887052327
+"frozenset({'RAD', 'CHAS', 'B'})",0.001302920110192836
+"frozenset({'B', 'CHAS'})",0.004775426997245177
+"frozenset({'RAD', 'NOX', 'B'})",0.016229807162534457
+"frozenset({'B', 'NOX'})",0.023069476584022055
+"frozenset({'RAD', 'B'})",0.0053689256198347175
+frozenset({'B'}),0.022888429752066133
+"frozenset({'TAX', 'LSTAT', 'CRIM'})",0.024502534435261715
+"frozenset({'INDUS', 'LSTAT', 'CRIM'})",0.05607719008264462
+"frozenset({'LSTAT', 'AGE', 'CRIM'})",0.061002809917355356
+"frozenset({'CHAS', 'LSTAT', 'CRIM'})",0.046633829201101915
+"frozenset({'NOX', 'LSTAT', 'CRIM'})",0.016140991735537184
+"frozenset({'RAD', 'LSTAT', 'CRIM'})",0.03381316804407713
+"frozenset({'LSTAT', 'CRIM'})",0.055591074380165265
+"frozenset({'TAX', 'INDUS', 'LSTAT'})",0.0
+"frozenset({'TAX', 'AGE', 'LSTAT'})",0.03389256198347108
+"frozenset({'TAX', 'CHAS', 'LSTAT'})",0.022924407713498615
+"frozenset({'TAX', 'NOX', 'LSTAT'})",0.02749129476584023
+"frozenset({'RAD', 'TAX', 'LSTAT'})",0.03034479338842976
+"frozenset({'TAX', 'LSTAT'})",0.06984666666666664
+"frozenset({'LSTAT', 'INDUS', 'AGE'})",0.024989421487603306
+"frozenset({'INDUS', 'CHAS', 'LSTAT'})",0.012711735537190084
+"frozenset({'NOX', 'INDUS', 'LSTAT'})",0.012848154269972448
+"frozenset({'RAD', 'INDUS', 'LSTAT'})",0.030647217630854002
+"frozenset({'INDUS', 'LSTAT'})",0.030557796143250694
+"frozenset({'CHAS', 'LSTAT', 'AGE'})",0.01447928374655647
+"frozenset({'NOX', 'LSTAT', 'AGE'})",0.029141377410468322
+"frozenset({'RAD', 'LSTAT', 'AGE'})",0.01428550964187328
+"frozenset({'LSTAT', 'AGE'})",0.059360991735537195
+"frozenset({'NOX', 'CHAS', 'LSTAT'})",0.024972892561983474
+"frozenset({'RAD', 'CHAS', 'LSTAT'})",0.06222396694214872
+"frozenset({'CHAS', 'LSTAT'})",0.031202424242424236
+"frozenset({'RAD', 'NOX', 'LSTAT'})",0.0
+"frozenset({'NOX', 'LSTAT'})",0.1184144903581267
+"frozenset({'RAD', 'LSTAT'})",0.10002975206611571
+frozenset({'LSTAT'}),0.36717449035812666
+"frozenset({'TAX', 'INDUS', 'CRIM'})",0.015925785123966942
+"frozenset({'TAX', 'AGE', 'CRIM'})",0.017751074380165318
+"frozenset({'TAX', 'CHAS', 'CRIM'})",0.010429146005509643
+"frozenset({'TAX', 'NOX', 'CRIM'})",0.015329366391184577
+"frozenset({'RAD', 'TAX', 'CRIM'})",0.008451955922865018
+"frozenset({'TAX', 'CRIM'})",0.017036914600550977
+"frozenset({'INDUS', 'AGE', 'CRIM'})",0.0
+"frozenset({'INDUS', 'CHAS', 'CRIM'})",0.00924396694214877
+"frozenset({'NOX', 'INDUS', 'CRIM'})",0.00524964187327824
+"frozenset({'RAD', 'INDUS', 'CRIM'})",0.009210633608815433
+"frozenset({'INDUS', 'CRIM'})",0.010811515151515155
+"frozenset({'CHAS', 'AGE', 'CRIM'})",0.018561707988980724
+"frozenset({'NOX', 'AGE', 'CRIM'})",0.005686611570247938
+"frozenset({'RAD', 'AGE', 'CRIM'})",0.009732341597796144
+"frozenset({'AGE', 'CRIM'})",0.015109752066115712
+"frozenset({'NOX', 'CHAS', 'CRIM'})",0.00489972451790634
+"frozenset({'RAD', 'CHAS', 'CRIM'})",0.006072892561983468
+"frozenset({'CHAS', 'CRIM'})",0.01224446280991736
+"frozenset({'RAD', 'NOX', 'CRIM'})",0.01665911845730028
+"frozenset({'NOX', 'CRIM'})",0.022693112947658425
+"frozenset({'RAD', 'CRIM'})",0.014546501377410474
+frozenset({'CRIM'}),0.08131834710743803
+"frozenset({'TAX', 'INDUS', 'AGE'})",0.007765454545454556
+"frozenset({'TAX', 'INDUS', 'CHAS'})",0.002510909090909091
+"frozenset({'TAX', 'NOX', 'INDUS'})",0.006217134986225905
+"frozenset({'RAD', 'INDUS', 'TAX'})",0.004385013774104693
+"frozenset({'TAX', 'INDUS'})",0.004197741046831962
+"frozenset({'TAX', 'CHAS', 'AGE'})",0.008781267217630862
+"frozenset({'TAX', 'NOX', 'AGE'})",0.0049963085399449105
+"frozenset({'RAD', 'TAX', 'AGE'})",0.00555035812672177
+"frozenset({'TAX', 'AGE'})",0.02072942148760333
+"frozenset({'TAX', 'NOX', 'CHAS'})",0.006196804407713499
+"frozenset({'RAD', 'CHAS', 'TAX'})",0.0029257851239669493
+"frozenset({'TAX', 'CHAS'})",0.0034063911845730083
+"frozenset({'RAD', 'NOX', 'TAX'})",0.0032266115702479395
+"frozenset({'TAX', 'NOX'})",0.02088132231404959
+"frozenset({'RAD', 'TAX'})",0.0031323415977961453
+frozenset({'TAX'}),0.027024738292011054
+"frozenset({'INDUS', 'CHAS', 'AGE'})",0.004385785123966942
+"frozenset({'NOX', 'INDUS', 'AGE'})",0.01134104683195594
+"frozenset({'RAD', 'INDUS', 'AGE'})",0.0043099173553719046
+"frozenset({'INDUS', 'AGE'})",0.006664242424242429
+"frozenset({'NOX', 'INDUS', 'CHAS'})",0.006107493112947658
+"frozenset({'RAD', 'INDUS', 'CHAS'})",0.0030375757575757615
+"frozenset({'INDUS', 'CHAS'})",0.002647162534435263
+"frozenset({'RAD', 'NOX', 'INDUS'})",0.009443526170798907
+"frozenset({'NOX', 'INDUS'})",0.014749146005509648
+"frozenset({'RAD', 'INDUS'})",0.0017876584022038565
+frozenset({'INDUS'}),0.016724793388429773
+"frozenset({'NOX', 'CHAS', 'AGE'})",0.007878457300275489
+"frozenset({'RAD', 'CHAS', 'AGE'})",0.004701983471074382
+"frozenset({'CHAS', 'AGE'})",0.012116088154269988
+"frozenset({'RAD', 'NOX', 'AGE'})",0.021601212121212132
+"frozenset({'NOX', 'AGE'})",0.016879008264462828
+"frozenset({'RAD', 'AGE'})",0.011698898071625347
+frozenset({'AGE'}),0.07421553719008274
+"frozenset({'RAD', 'NOX', 'CHAS'})",0.00985757575757576
+"frozenset({'NOX', 'CHAS'})",0.012534159779614328
+"frozenset({'RAD', 'CHAS'})",0.0030011019283746653
+frozenset({'CHAS'}),0.002040495867768604
+"frozenset({'RAD', 'NOX'})",0.014677079889807165
+frozenset({'NOX'}),0.13058622589531688
+frozenset({'RAD'}),0.015160661157024849
+frozenset(),0.0

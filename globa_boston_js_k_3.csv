@@ -1,0 +1,11 @@
+,0
+frozenset({'RM'}),0.5430686501377411
+frozenset({'LSTAT'}),0.36717449035812666
+frozenset({'NOX'}),0.13058622589531688
+"frozenset({'RM', 'AGE'})",0.13056303030303038
+"frozenset({'NOX', 'LSTAT'})",0.1184144903581267
+"frozenset({'RM', 'CHAS', 'LSTAT'})",0.11734292011019284
+"frozenset({'ZN', 'LSTAT'})",0.11721834710743799
+"frozenset({'INDUS', 'RM'})",0.11570776859504134
+"frozenset({'RM', 'LSTAT'})",0.1108925068870523
+"frozenset({'RAD', 'LSTAT'})",0.10002975206611571
