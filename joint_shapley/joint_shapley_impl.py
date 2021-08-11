@@ -15,6 +15,9 @@ from typing import (
 Coalition = FrozenSet[str]
 A = TypeVar('A')
 
+# The empty set
+EMPTY = frozenset()
+
 # Helper functions
 def summation(
     f: Callable[[int], A], 
@@ -67,6 +70,11 @@ def get_powerset_to_k(
                 yield features[0].union(item)
             yield item
 
+def get_powerset(
+    features: List[A],
+) -> FrozenSet[List[A]]:
+    return get_powerset_to_k(features, len(features))
+            
 def get_k_extended_joint_shapleys(
     value_function: Callable[[Coalition], float],
     n_cln: Coalition, 
@@ -81,10 +89,11 @@ def get_k_extended_joint_shapleys(
         s_cln: Coalition, 
     ) -> float:
         s = len(s_cln)
-        return (v_func(t_cln.union(s_cln)) - v_func(s_cln)) * q_values[s] 
+        out = (v_func(t_cln.union(s_cln)) - v_func(s_cln)) * q_values[s]
+        return out
     
-    n_powerset = get_powerset(n_cln)
-    coalitions_to_k = { cln for cln in n_powerset if len(cln) <= k }
+    n_powerset = list(get_powerset(n_cln))
+    coalitions_to_k = list(get_powerset_to_k(n_cln, k))
     joint_shapleys = {}
     
     for t_cln in coalitions_to_k:
@@ -158,8 +167,7 @@ def get_shapley_taylors(
 ):
     # Ensure a value is also returned for the empty set
     v_func = lambda x: value_function(x) if x != frozenset() else 0
-    n_powerset = get_powerset(n_cln)
-    coalitions_to_k = { cln for cln in n_powerset if len(cln) <= k }
+    coalitions_to_k = get_powerset_to_k(n_cln, k)
     shapley_taylors = {
         t_cln: get_dsa_factor(t_cln, n_cln, k, v_func) for t_cln in coalitions_to_k
     }
